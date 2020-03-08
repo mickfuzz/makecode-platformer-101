@@ -87,7 +87,7 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
 ### Change the colour of the background @fullscreen
 Change the colour of your background. Drag in from scene ``||scene:set background color to ||`` after your current blocks and click on the square to choose a colour.
 
-```blocks
+```block
 scene.setBackgroundColor(9)
 ```
 
