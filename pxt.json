@@ -9,7 +9,8 @@
         "main.ts",
         "README.md",
         "partOne.md",
-        "tutorialPartTwo.md"
+        "tutorialPartTwo.md",
+        "addEnemy.md"
     ],
     "testFiles": [
         "test.ts"
