@@ -1,16 +1,20 @@
 {
     "name": "Getting Started Making a Platformer\n",
+    "description": "",
     "dependencies": {
         "core": "*"
     },
-    "description": "",
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "partOne.md"
     ],
-    "preferredEditor": "blocksprj",
     "testFiles": [
         "test.ts"
-    ]
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
 }
