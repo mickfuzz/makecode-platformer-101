@@ -8,7 +8,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "partOne.md"
+        "partOne.md",
+        "tutorialPartTwo.md"
     ],
     "testFiles": [
         "test.ts"
