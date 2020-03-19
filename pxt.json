@@ -10,7 +10,8 @@
         "README.md",
         "partOne.md",
         "tutorialPartTwo.md",
-        "addEnemy.md"
+        "addEnemy.md",
+        "addLives.md"
     ],
     "testFiles": [
         "test.ts"

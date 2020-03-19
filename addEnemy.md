@@ -1,5 +1,11 @@
 ### @activities true
 
+
+# Remixing a Platformer Game - Adding an Enemy
+
+## Adding an Enemy 
+
+
 ```template
 
 namespace SpriteKind {
@@ -197,9 +203,6 @@ createLevels()
 
 ```
 
-# Remixing a Platformer Game - Adding an Enemy
-
-## Adding an Enemy 
 ### Getting Started @unplugged
 
 In this tutorial we will **add a static enemy** to our platformer template.   
