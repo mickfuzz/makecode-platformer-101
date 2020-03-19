@@ -12,7 +12,8 @@
         "tutorialPartTwo.md",
         "addEnemy.md",
         "addLives.md",
-        "addLivesTest.md"
+        "addLivesTest.md",
+        "tutorialPartOne.md"
     ],
     "testFiles": [
         "test.ts"
