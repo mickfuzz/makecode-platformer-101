@@ -28,14 +28,19 @@ but in this guide we are dividing them up into the following:
 - Game Polish: music, backgrounds, graphics and story elements
 - Challenge and Systems: how different elements interact to create challenge
 
-## Tutorial to create game from scratch
+## First Principles Tutorials
 ### Tutorial to create game from scratch
+
+These tutorials build up the platform game in a step by step way. Follow them to learn
+the mechanics of the building blocks of the make code system. 
 
 - [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)
 - [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
 
-## Game Mechanics
-### Game Mechanics
+This intention is not to teach the underlying concepts of computer science.
+
+## Mechanics
+### Game Mechanics to add to your game
 
 - [Add Lives](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/addLives)
 - [Add Enemies](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/addEnemy)
