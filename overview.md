@@ -14,8 +14,22 @@ The following two links are a similar / but broken game and a link to workshop c
 - [Broken Game to Fix](https://makecode.com/_2iLfej4d6Rfa)
 - [Supporting Activity Cards](https://docs.google.com/presentation/d/1vgHFm4zSC3YEVAXJORSoDHBFYSBIHK2mSCNfgbpiaHY/edit?usp=sharing)
 
-## Tutorial to create game
-### Tutorial to create game
+## Next Steps 
+### Choose your own adventure
+
+One way to learn coding in depth is to learn how to *make the sample game from scratch* and you can do that
+in the next section called *Tutorial to create game from scratch*. 
+
+Another fun way is to keep adding in different game patterns. There are many ways of thinking about these patterns
+but in this guide we are dividing them up into the following:
+
+- Game Mechanics:  things to do with the actions of the game
+- Game Space: things to do with the layout of the game
+- Game Polish: music, backgrounds, graphics and story elements
+- Challenge and Systems: how different elements interact to create challenge
+
+## Tutorial to create game from scratch
+### Tutorial to create game from scratch
 
 - [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)
 - [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
