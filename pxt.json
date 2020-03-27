@@ -14,7 +14,8 @@
         "addLives.md",
         "addLivesTest.md",
         "tutorialPartOne.md",
-        "overview.md"
+        "overview.md",
+        "addLivesPrint.md"
     ],
     "testFiles": [
         "test.ts"
