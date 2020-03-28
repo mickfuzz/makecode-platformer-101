@@ -1,6 +1,7 @@
+### @activities true
 # Overview of Remixing Platformer
 
-### Overview
+### Overview @unplugged
 #### Introduction
 
 This course is built on the simple idea of starting with a platform game and adding familiar
