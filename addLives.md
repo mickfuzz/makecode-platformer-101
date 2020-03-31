@@ -212,7 +212,7 @@ If you want to understand more about how the starting code of the template works
 
 This game pattern is one of many you can add to your Platformer in this course.
 
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gamemechanic_extralives_800.png =500x)
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gamemechanic_extralives_800.png)
 
 *** Name: *** Add Player Lives
 
