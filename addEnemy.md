@@ -1,9 +1,32 @@
 ### @activities true
 
 
-# Remixing a Platformer Game - Adding an Enemy
+# Remixing a Platformer Game - Adding a Static Enemy
 
-## Adding an Enemy 
+## Adding a Static Enemy
+
+
+### Getting Started @unplugged
+
+In this tutorial we will **add a static enemy** to our platformer.
+If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/makecode-platformer-101)
+ to create the game step by step.
+
+#### About this Game Pattern
+
+This game pattern is one of many you can add to your Platformer in this course.
+
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gamemechanic_extralives_800.png)
+
+* **Name:** Add a Static Enemy
+
+* **Description:** Also known as a Hazard, a Static Enemy will kill or damage the health of the player if they touch it. These are often placed in tricky spots which the player is likely to bump into when jumping or trying to collect rewards.  
+
+* **Need for Pattern:** Having hazards increases the challenge of a level, you can place hazards in a way that requires the player to time their jumps well and really control their movement.
+
+* **Coding Concepts involved:** Loops, Events
+
+* **Links to other Computing Patterns:** The event listener for an condition 
 
 
 ```template
@@ -214,17 +237,17 @@ This tutorial is one of many allowing you add different Game Element on the home
 
 
 
-## Understanding the existing patterns 
+## Understanding the existing patterns
 
 ### We add enemies like we add food. @fullscreen
-We add ememies like we add food to the game. Following this tutorial will add static enemies to your game. 
-Click on the tilemap image for your first level. Create a totally Red tile in **My Tiles**. 
+We add ememies like we add food to the game. Following this tutorial will add static enemies to your game.
+Click on the tilemap image for your first level. Create a totally Red tile in **My Tiles**.
 Add one or two red blocks to your first level.  
 
 ### We add enemies like we add food. @fullscreen
-We use a ``||loops:for||`` loop (to save time) that turns all the yellow squares in a tile map into a sprite of kind Food. 
-Find the following loop in the code. 
-```blocks 
+We use a ``||loops:for||`` loop (to save time) that turns all the yellow squares in a tile map into a sprite of kind Food.
+Find the following loop in the code.
+```blocks
 namespace myTiles {
     //% blockIdentity=images._tile
     export const tile0 = img`
@@ -312,17 +335,17 @@ for (let value of tiles.getTilesByType(myTiles.tile1)) {
 
 ### We add enemies like we add food. @fullscreen
 For first line here reads ``||loops:for element value of array of all...||``
-it contains a value and a list. The loop keeps running until it runs out of a values in the list. 
-This means it will create one item of Food for every yellow block. 
-Duplicate this code block. Drop the copied loop back into the function after the original one. 
+it contains a value and a list. The loop keeps running until it runs out of a values in the list.
+This means it will create one item of Food for every yellow block.
+Duplicate this code block. Drop the copied loop back into the function after the original one.
 
 ![Duplicate loop ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-add-an-enemy/master/images/duplicate_loop_ae_1.png)
 
 ### We add enemies like we add food. @fullscreen
 
-Now change the values of content of this ``||loops:for loop||``. Change the yellow square to a red one. 
+Now change the values of content of this ``||loops:for loop||``. Change the yellow square to a red one.
 Change the name of ``||variables:strawberry||`` for the two blocks for it to mentioned. I'll choose ``||variables:snake||`` and change the image too.
-Check your code with the example below. 
+Check your code with the example below.
 
 ```blocks
 namespace myTiles {
@@ -426,14 +449,14 @@ let snake: Sprite = null
         tiles.placeOnTile(snake, value)
         tiles.setTileAt(value, myTiles.tile0)
     }
-  
+
 ```
 
 ### Create a Collision Listener @fullscreen
 
-We now code what happens when our player overlaps with the enemy ``||variables:snake||``. 
-Drag in an on player overlap with block from Sprites. Set the second value to be Enemy. 
-Inside the block drag in from Game block of ``||game:game over||`` and keep it set to **Lose**. 
+We now code what happens when our player overlaps with the enemy ``||variables:snake||``.
+Drag in an on player overlap with block from Sprites. Set the second value to be Enemy.
+Inside the block drag in from Game block of ``||game:game over||`` and keep it set to **Lose**.
 
 ```blocks
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite, otherSprite) {
@@ -441,16 +464,16 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite, otherSp
 })
 
 ```
-## Test your game and Next Steps 
+## Test your game and Next Steps
 ### Test your game and Next Steps @unplugged
-**This tutorial is now complete.** 
+**This tutorial is now complete.**
 
-You can test your game to check that each time you add in a red block in your level tilemaps an enemy appears 
-and that when you touch the enemy the game ends with a Game Over message. 
+You can test your game to check that each time you add in a red block in your level tilemaps an enemy appears
+and that when you touch the enemy the game ends with a Game Over message.
 
 For example: you may want to learn how to do the following
 
 * Add player lives
-* Add moving enemies. 
+* Add moving enemies.
 
 This tutorial is one of many allowing you add different Game Element on the home page of this Platformer Making Course.
