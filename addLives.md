@@ -214,15 +214,15 @@ This game pattern is one of many you can add to your Platformer in this course.
 
 ![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gamemechanic_extralives_800.png)
 
-*** Name: *** Add Player Lives
+** Name: ** Add Player Lives
 
-*** Description: *** The player starts the game with a number of the lives When the Player is zapped, or runs out of health the play restarts but with one less life.  
+** Description: ** The player starts the game with a number of the lives When the Player is zapped, or runs out of health the play restarts but with one less life.  
 
-*** Need for Pattern: *** Having player lives is a way of reducing the frustration of a challenging game. For example players normally restart from the level they got lost their life on rather than going back to the very beginning.
+** Need for Pattern: ** Having player lives is a way of reducing the frustration of a challenging game. For example players normally restart from the level they got lost their life on rather than going back to the very beginning.
 
-*** Coding Concepts involved: *** Using Varibles,
+** Coding Concepts involved: ** Using Varibles,
 
-*** Links to other Computing Patterns: *** This links to no wider HCI pattern, something about player attributes? Object orientated attributes?
+** Links to other Computing Patterns: ** This links to no wider HCI pattern, something about player attributes? Object orientated attributes?
 
 
 ### Adding a starting amount of lives @fullscreen
