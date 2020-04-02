@@ -4,6 +4,9 @@
 # Wider Patterns and Concepts
 
 * [Change Listener](#Change-Listener)
+* [Input Event](#Input-Event)
+* [Separate Formatting from Data](Separate-Formatting-from-Data)
+* [Creating Functions](#Creating-Functions)
 
 These wider patterns and concepts are a way to learn about wider computing practices that are also applicable beyond the world of making games. These ideas are common in the following areas.
 
