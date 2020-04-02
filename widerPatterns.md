@@ -3,6 +3,8 @@
 
 # Wider Patterns and Concepts
 
+* [Change Listener](#Change-Listener)
+
 These wider patterns and concepts are a way to learn about wider computing practices that are also applicable beyond the world of making games. These ideas are common in the following areas.
 
 * Interactive Media Design
