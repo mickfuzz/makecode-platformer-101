@@ -1,28 +1,24 @@
 ### @activities true
 
 
-# Wider Patterns
+# Wider Patterns and Concepts
 
-## A way to lrarn about wider computing practices.
+These wider patterns and concepts are a way to learn about wider computing practices that are also applicable beyond the world of making games. These ideas are common in the following areas.
 
+* Interactive Media Design
+* Object Oriented Programming
+* Systems Thinking
 
-## Change Listener 
+## Change Listener
 
-In th
-
-
-#### About this Pattern
+### About this Pattern
 
 This game pattern is one of many you can add to your Platformer in this course.
 
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gamemechanic_extralives_800.png)
+* **Name:** Change Listener
 
-* **Name:** Add a Static Enemy
+* **Description:** Also known as States, this pattern is useful when you want one part of your programme to listen out for changes in the stage of another. An example would be listening for an overlap between the player and an enemy. The programme can then take action when this overlap change happens or a particular condition is true.
 
-* **Description:** Also known as a Hazard, a Static Enemy will kill or damage the health of the player if they touch it. These are often placed in tricky spots which the player is likely to bump into when jumping or trying to collect rewards.  
+* **Need for Pattern:** In many media programmes you need to change formatting or to make something happen based on the conditions of other objects. 
 
-* **Need for Pattern:** Having hazards increases the challenge of a level, you can place hazards in a way that requires the player to time their jumps well and really control their movement.
-
-* **Coding Concepts involved:** Loops, Event
-
-* **Links to other Computing Patterns:** The event listener for an condition
+* **How this happens in MakeCode:** Here is an example of a Change Listener in MakeCode which listens for the player being in a condition of overlap with an Enemy.
