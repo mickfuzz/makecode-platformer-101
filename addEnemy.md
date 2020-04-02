@@ -26,11 +26,7 @@ This game pattern is one of many you can add to your Platformer in this course.
 
 * **Coding Concepts involved:** Loops, Events
 
-<<<<<<< HEAD
-* **Links to other Computing Patterns:** The event listener for an condition
-=======
-* **Links to other Computing Patterns:** State Listener, Input Handler 
->>>>>>> 6ad8f3d39ec02a46e4648ad4c1cd84ef2eb3c2ee
+* **Links to other Computing Patterns:** Change Listener, Input Event  
 
 
 ```template

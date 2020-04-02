@@ -1,5 +1,29 @@
 ### @activities true
+# Remixing a Platformer Game - Add Player Lives
 
+## Adding Player Lives
+### Getting Started @unplugged
+
+In this tutorial we will **add player lives** to our platformer.
+To do this tutorial you will also need to have done one on *Add an Enemy*.
+If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/makecode-platformer-101)
+ to create the game step by step.
+
+#### About this Game Pattern
+
+This game pattern is one of many you can add to your Platformer in this course.
+
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gamemechanic_extralives_800.png)
+
+* **Name:** Add Player Lives
+
+* **Description:** The player starts the game with a number of the lives When the Player is zapped, or runs out of health the play restarts but with one less life.  
+
+* **Need for Pattern:** Having player lives is a way of reducing the frustration of a challenging game. For example players normally restart from the level they got lost their life on rather than going back to the very beginning.
+
+* **Coding Concepts involved:** Data, [Change Listener](widerPatterns#Change-Listener)
+
+* **Links to other Computing Patterns:** [Dynamic Systems](widerPatterns#Input-Event),
 
 ```template
 
@@ -198,31 +222,7 @@ createLevels()
 
 ```
 
-# Remixing a Platformer Game - Add Player Lives
 
-## Adding Player Lives
-### Getting Started @unplugged
-
-In this tutorial we will **add player lives** to our platformer.
-To do this tutorial you will also need to have done one on *Add an Enemy*.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/makecode-platformer-101)
- to create the game step by step.
-
-#### About this Game Pattern
-
-This game pattern is one of many you can add to your Platformer in this course.
-
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gamemechanic_extralives_800.png)
-
-* **Name:** Add Player Lives
-
-* **Description:** The player starts the game with a number of the lives When the Player is zapped, or runs out of health the play restarts but with one less life.  
-
-* **Need for Pattern:** Having player lives is a way of reducing the frustration of a challenging game. For example players normally restart from the level they got lost their life on rather than going back to the very beginning.
-
-* **Coding Concepts involved:** Using Varibles,
-
-* **Links to other Computing Patterns:** This links to no wider HCI pattern, something about player attributes? Object orientated attributes?
 
 
 ### Adding a starting amount of lives @fullscreen

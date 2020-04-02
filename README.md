@@ -43,7 +43,7 @@ Here the idea is to build competency with the practicalities of using the coding
 
 ### Game Mechanics to add to your game
 
-- [Add Lives](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/addLives) - [Add Lives Print](addLives.md)
+- [Add Lives (Step by Step on MakeCode Project)](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/addLives) - [Add Lives (Printable Version)](addLivesPrint)
 - [Add Enemies](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/addEnemy)
 - Add a Timer
 - Jump on Enemy to zap
