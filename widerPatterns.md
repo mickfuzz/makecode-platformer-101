@@ -20,8 +20,8 @@ These wider patterns and concepts are a way to learn about wider computing pract
 * **Why is it needed :** In many media programmes you need to change formatting or to make something happen based on the conditions of other objects.
 
 * **Examples in MakeCode:** Here are one or more examples of a Change Listener in  MakeCode
- - listening for the player being in a condition of overlap with an Enemy
- - changing the animation of a player based on if they are still, moving or jumping
+  - listening for the player being in a condition of overlap with an Enemy
+  - changing the animation of a player based on if they are still, moving or jumping
 
 ## Input Event
 
@@ -34,5 +34,4 @@ These wider patterns and concepts are a way to learn about wider computing pract
 * **Need for Pattern:** Working with User Input is a key part of most computer programming design, it allows the user to interact with the programme to make things happen.
 
 * **How this happens in MakeCode:** Here are one or more examples of a Change Listener in  MakeCode
- - dealing with the player pressing the A button to jump
- - controlling the player movements
+  - controlling the player movements
