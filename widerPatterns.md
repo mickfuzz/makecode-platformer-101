@@ -67,7 +67,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 * **How this happens in MakeCode:** Here are one or more examples:
       - creating levels on start and when goal is reached
 
-## Identifying Systems Elements
+## Systems Elements
 
 ### About this Pattern / Concept
 * **Name:** Identifying Systems Elements
@@ -82,7 +82,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
    - naming the components, rules, space, mechanics and goals of our starting platformer
    - the process of making changes to these game elements
 
-## Identifying Systems Dynamics
+## Systems Dynamics
 
 ### About this Pattern / Concept
 * **Name:** Identifying Systems Dynamics

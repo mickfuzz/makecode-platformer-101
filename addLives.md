@@ -21,9 +21,9 @@ This game pattern is one of many you can add to your Platformer in this course.
 
 * **Need for Pattern:** Having player lives is a way of reducing the frustration of a challenging game. For example players normally restart from the level they got lost their life on rather than going back to the very beginning.
 
-* **Coding Concepts involved:** Data, [Change Listener](widerPatterns#Change-Listener)
+* **Coding Concepts involved:** [Data](codingConcepts#data), [Change Listener](widerPatterns#change-listener)
 
-* **Links to other Computing Patterns:** [Dynamic Systems](widerPatterns#Input-Event),
+* **Links to other Computing Patterns:** [Systems Dynamics](widerPatterns#systems-dynamics),
 
 ```template
 
