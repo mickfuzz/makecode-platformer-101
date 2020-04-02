@@ -1,5 +1,5 @@
 ### @activities true
-# Overview of Remixing Platformer
+# Learn Game Design Patterns by Remixing a MakeCode Platformer
 
 ### Introduction
 
