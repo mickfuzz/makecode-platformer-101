@@ -1,12 +1,15 @@
 ### @activities true
 
-
 # Wider Patterns and Concepts
 
-* [Change Listener](#Change-Listener)
-* [Input Event](#Input-Event)
-* [Separate Formatting from Data](Separate-Formatting-from-Data)
-* [Creating Functions](#Creating-Functions)
+* [Change Listener](#change-listener)
+* [Input Event](#input-event)
+* [Separate Formatting from Data](separate-formatting-from-data)
+* [Creating Functions](#creating-functions)
+* [Systems Elements](#systems-elements)
+* [Systems Dynamics](#systems-dynamics)
+* [Balancing Feedback Loops](balancing-feedback-loops)
+* [Reinforcing Feedback Loops](reinforcing-feedback-loops)
 
 These wider patterns and concepts are a way to learn about wider computing practices that are also applicable beyond the world of making games. These ideas are common in the following areas.
 
