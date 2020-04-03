@@ -28,7 +28,7 @@ string expressions, this commonly used to compare conditions before running code
 
 ## Design Practices
 
-These concepts are based on the computational thinking concepts of Brennan and Resnick. They also link to the adapted version of Resnick's design cycle in Gaming the System.
+These concepts are based on the computational thinking concepts of Brennan and Resnick. They also link to the adapted version of Resnick's creative design spiral.
 
 ### Goal Setting (decision to add a new mechanic, or change space in a fundamental way)
 The process of remxing a game Example activities which demonstrate this incude:
@@ -85,3 +85,19 @@ The detail of moving from one site to another, if especially downloading images 
 This category is a form of digital literacy which proficient users may take for granted. However for beginner users may need some support with this process.
 Often parents as a repository for the logins and passwords of their children as well as encouraging them to save their work.  The way MakeCode doesn't support log ins
 encourages a process of saving versions of your work frequently and saving them in a document, say an online google doc with dates and descriptions.
+
+### Notes on Missing elements
+If we look [ at Frameworks here](https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#) we can see missing elements around reflection,
+and expressing elements of understanding.
+
+Social scaffolding
+
+* Requesting or offering help in solving problems 
+* Inspiring new ideas or approaches
+
+Development of understanding
+
+* Expressing a realization through affect or utterances
+* Offering explanation(s) for a strategy, tool, or outcome
+* Applying knowledge
+* Striving to understand
