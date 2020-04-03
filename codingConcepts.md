@@ -47,7 +47,9 @@ Building on other people’s work has been a longstanding practice in programmin
 been amplified by network technologies that provide access to a wide range of other people’s
 work to reuse and remix.
 
-## Digital Literacies
+## 21st Century Skills including Digital Literacies
+
+These emerged in research but may not be worth having as a separate category - perhaps links with 'perspectives' in Brennan and Resink which are more linked to 21st Century Skills.
 
 ### Navigating Windows, Tabs and Internet Sites
 The detail of moving from one site to another, especially downloading images from one and then transfering to another.
