@@ -70,6 +70,13 @@ Do the online Bartle Player test. You may be able to find a way of doing it as a
 As well as different game player types, there are also different game maker types. These are listed here, but if you are a 
 planner then you may want to really know how all of the code for our game works before you start to make other changes to it. 
 
+So if you are a planner then you may want to take the time to work your way through these tutorials. If not jump right on to the 
+next section. 
+
+- [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)
+- [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
+
+
 ### Goal Setting and Getting Cracking
 
 You are now going to get cracking with your game making. At the end of this session we'll do some play testing of our games. 
@@ -77,10 +84,22 @@ You are now going to get cracking with your game making. At the end of this sess
 ***Game Patterns:*** Game Patterns are the kind of features that we might find in many games. For example a common pattern 
 you may know is that when you finish one level of a game you progress to the next level. Having a game with level is a game pattern.
 
+Another fun way is to keep adding in different game patterns. There are many ways of thinking about these patterns
+but in this guide we are dividing them up into the following:
+
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/mech_space_polish_systems.png)
+
+- Game Mechanics:  things to do with the actions of the game
+- Game Space: things to do with the layout of the game
+- Game Polish: music, backgrounds, graphics and story elements
+- Challenge and Systems: how different elements interact to create challenge
+
 ***Goal Setting;*** Have a look at your map of the different Game Patterns from last week. Now have a look at some of the different 
 print outs or pages of the Game Patterns. There are descriptions of the patterns and details of how to add it to your platform game. 
-In the last part you choose 6 patterns. This time choose only 3 and choose ones that seem to be quite quick as we are going to try 
+In the last part you choose 6 patterns. This time choose only 2 and choose ones that seem to be quite quick as we are going to try 
 to add them to our game before the end of the session. 
+
+Fill out the Goal Setting sheet. ( Create this sheet ) 
 
 ***Learning notes:*** As we make changes to our game we will learn about the specific coding concepts needed to do 
 computer programming, ideas like loops and logic. We'll also find links to wider patterns of computer programming and systems ideas
@@ -88,8 +107,15 @@ that are important in the world of Human Computer Interaction and Systems Thinki
 
 ### Playtesting
 
-If you are doing this as a group then be sure to test a couple of games and make sure at least a couple of people test your game. 
-Use the linked feedback sheet to help give feedback on games. 
+Playtesting is a great way to really understand how the changes to your game make an impact on how the player experiences it. 
+It is easy to get carried away with your own ideas and forget about the end player, so regular play testing keeps us in touch 
+with what makes our game challenging and fun ot play. 
+
+If you are doing Playtesting as a group then be sure to test a couple of games and make sure at least a couple of people test your game. 
+Use this linked feedback sheet to help give feedback on games. 
+
+If you are working through this by yourself try to find a couple of people to give you feedback. You can use the MakeCode forum as a way
+of doing this. Here's how. << Add this in. 
 
 ## Part Four -  Debugging and more 
 
