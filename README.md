@@ -22,30 +22,3 @@ the mechanics of the building blocks of the make code system.
 
 This intention is not to teach the underlying concepts of computer science all in go.
 Here the idea is to build competency with the practicalities of using the coding tool. In an art studio students start by experimenting with materials and getting to know their tools first. Large concepts come later.  
-
-### Game Mechanics to add to your game
-
-- [Add Lives (Step by Step on MakeCode Project)](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/addLives) - [Add Lives (Printable Version)](addLivesPrint)
-- [Add Enemies](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/addEnemy)
-- Add a Timer
-- Jump on Enemy to zap
-- Moving Enemy
-- Double Jump
-- Following Enemies
-
-### Game Polish to change the look and feel of the game
-
-- [Add Instructions and Comment between Levels]()
-- Simple Animation of Enemy
-- Animate Walking of Player
-
-### Change parts of the Game Space
-
-- Add new levels
-- Change shape of levels
-
-### Challenge and Systems - Games get harder as you progress to keep your interest
-
-- Power up for higher jump
-- Have to collect all food before progressing
-- Key and door
