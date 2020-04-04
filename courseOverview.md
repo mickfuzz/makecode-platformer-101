@@ -122,6 +122,22 @@ As digital and online games became more complicated Richard Bartle proposed that
 ways and look to get different things out of them. In short there are different kinds of players. The Bartle test finds out what kind of game player you are. 
 Do the online Bartle Player test. You may be able to find a way of doing it as a group by moving around the room. 
 
+This is also true of the way that people play games. There's a well known model of different play style types by Richard Bartle. This model, which was based on observing and analyzing the behaviors people playing together in a multi-user game, holds that there are four different kinds of play style interests, each of which is given a descriptive name: Griefers, Achievers, Explorers, and Socializers.1
+
+* Griefers: interfere with the functioning of the game world or the play experience of other players
+* Achievers: accumulate status tokens by beating the rules-based challenges of the game world
+* Explorers: discover the systems governing the operation of the game world
+* Socializers: form relationships with other players by telling stories within the game world
+
+Different kinds of games suit different play styles. One of the notable successes of recent years have been open world games that allow you to choose how you play the game. If you want to stick to the main missions you can follow guidance to do that but if you just want to explore or be social or mess around you have the chance to to do that too.
+
+In the same way there are different styles of making games. I'm proposing the following;
+
+* Social makers: form relationships with other game makers and players by finding out more about their work and telling stories in their game
+* Planners: like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+* Magpie makers: like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+* Glitchers: mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc
+
 As well as different game player types, there are also different game maker types. These are listed here, but if you are a 
 planner then you may want to really know how all of the code for our game works before you start to make other changes to it. 
 
