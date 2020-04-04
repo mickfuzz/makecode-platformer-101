@@ -5,7 +5,31 @@ deliver the course to a group or to work through it by yourself.
 
 ## Part One - Jumping Right In
 
-Start this course by jumping right in. Try to play the following game. It's broken right? Now look at the code of this broken game and use the link to workshop cards with activities to fix the game and add some elements quickly. 
+### Identify Game Mechanics
+
+We will start to understand games by playing a few arcade games and starting to look at what makes them tick. 
+
+Play the following games ( from MakeCode )
+
+* Galaga
+* Cat Jumper
+* Ballon Game
+* Collect Cherries
+
+Write down the main VERBs for these games. Pick from the following some have more than one Mechanic. 
+
+* Jumping
+* Collecting
+* Avoiding
+* Chasing
+* Shooting
+
+Knowing what the main mechanics for our game are and making sure that they feel fun and responsive for our player is key to making a
+great game. 
+
+### Fix the Broken Game
+
+Now we will start coding by jumping right in. Try to play the following game. It's broken right? Now look at the code of this broken game and use the link to workshop cards with activities to fix the game and add some elements quickly. 
 
 - [Broken Platform Game to Fix](https://makecode.com/_2iLfej4d6Rfa)
 - [Supporting Activity Cards](https://docs.google.com/presentation/d/1vgHFm4zSC3YEVAXJORSoDHBFYSBIHK2mSCNfgbpiaHY/edit?usp=sharing)
@@ -46,40 +70,13 @@ Have these written out and ask participants to try to match them with the follow
 
 Explain that digital games can be analysed in the same way and that we will learn to use this knowledge to make a challenging game. 
 
-### Setting some Goals 
+### Goal Setting and Getting Cracking
 
-You are now going to meet the game we are going to adapt to create our challenging game. In part one we made changes to a broken game. We are now going to start from stratch with a similar template which is here -
+You are now going to meet the game we are going to adapt to create our challenging game. In part one we made changes to a broken game. We are now going to start from stratch with a similar template which is here. One key element of this game that is different, there is only one Level. 
 - [Platform Game to Remix](https://makecode.com/_6630XRAuUePh)
 
 There are different elements we can add to out game or change about our game. Each change may be small but may make big changes for the 
-the person playing it. 
-
-Have a look at the print out cards from part one. Quickly add your changes back to the game. There are some elements that you won't
-be able to change as it is different. For example there is only one Level. 
-
-Here is a map of some of the elements you may add to your game. Choose 6 elements that you think you will want to add. 
-
-## Part Three -  Hands on with Make Code 
-
-### Starting Game - What kind of Game Player are you
-
-As digital and online games became more complicated Richard Bartle proposed that different people play these games in different 
-ways and look to get different things out of them. In short there are different kinds of players. The Bartle test finds out what kind of game player you are. 
-Do the online Bartle Player test. You may be able to find a way of doing it as a group by moving around the room. 
-
-As well as different game player types, there are also different game maker types. These are listed here, but if you are a 
-planner then you may want to really know how all of the code for our game works before you start to make other changes to it. 
-
-So if you are a planner then you may want to take the time to work your way through these tutorials. If not jump right on to the 
-next section. 
-
-- [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)
-- [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
-
-
-### Goal Setting and Getting Cracking
-
-You are now going to get cracking with your game making. At the end of this session we'll do some play testing of our games. 
+the person playing it. You are now going to get cracking with your game making. At the end of this session we'll do some play testing of our games. 
 
 ***Game Patterns:*** Game Patterns are the kind of features that we might find in many games. For example a common pattern 
 you may know is that when you finish one level of a game you progress to the next level. Having a game with level is a game pattern.
@@ -117,9 +114,43 @@ Use this linked feedback sheet to help give feedback on games.
 If you are working through this by yourself try to find a couple of people to give you feedback. You can use the MakeCode forum as a way
 of doing this. Here's how. << Add this in. 
 
+## Part Three -  Hands on with Make Code 
+
+### Starting Game - What kind of Game Player are you
+
+As digital and online games became more complicated Richard Bartle proposed that different people play these games in different 
+ways and look to get different things out of them. In short there are different kinds of players. The Bartle test finds out what kind of game player you are. 
+Do the online Bartle Player test. You may be able to find a way of doing it as a group by moving around the room. 
+
+As well as different game player types, there are also different game maker types. These are listed here, but if you are a 
+planner then you may want to really know how all of the code for our game works before you start to make other changes to it. 
+
+So if you are a planner then you may want to take the time to work your way through these tutorials. If not jump right on to the 
+next section. 
+
+- [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)
+- [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
+
 ## Part Four -  Debugging and more 
 
 ### Types of errors and dealing with them. 
 
+Can this be made into a game of some kind ?
 There are different kinds of that you may come up against. Knowing how to deal with them is a good tactic to keep us progressing. 
+
+### Setting New Goals and Reflecting on Progress 
+
+We are going to follow the same pattern of last week:
+
+* Set goals to add chosen game patterns
+* Follow the coding help to make the changes you need
+* Test the game yourself imagining the end player's experience
+* Playtest other people's game and get feedback for yours
+* Reflect on our progress
+
+You can see here we have added one more stage to our game making session. The last one about reflecting on progress. 
+This is a way of really getting the most out of the making to deepen our learning and make links to other areas of making. 
+
+There are different ways to do this, and if you are in a group you may want to make this into some kind of fun activity. See this link
+for fun ideas of reflection games like ( reflection web - toss the ball ) 
 
