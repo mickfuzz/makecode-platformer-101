@@ -92,30 +92,25 @@ but in this guide we are dividing them up into the following:
 - Game Polish: music, backgrounds, graphics and story elements
 - Challenge and Systems: how different elements interact to create challenge
 
-#### Goal Setting 
+#### Set Goals 
 Have a look at your map of the different Game Patterns. Now have a look at some of the different 
 print outs or pages of the Game Patterns. There are descriptions of the patterns and details of how to add it to your platform game. 
 In the last part you choose 6 patterns. This time choose only 2 and choose ones that seem to be quite quick as we are going to try 
-to add them to our game before the end of the session. 
+to add them to our game before the end of the session. Fill out the Goal Setting sheet. ( Create this sheet ) 
 
-Fill out the Goal Setting sheet. ( Create this sheet ) 
-
-***Learning notes:*** As we make changes to our game we will learn about the specific coding concepts needed to do 
-computer programming, ideas like loops and logic. We'll also find links to wider patterns of computer programming and systems ideas
-that are important in the world of Human Computer Interaction and Systems Thinking. 
-
-#### Following the Instructions
+#### Create
 
 See the sheet and the pages to help you make the changes. These are normally step by step instructions. 
-
 Sometimes there are places where you make your own decisions. 
+Think about story of the game and the characters involved. 
 
-
-#### Self Testing and Making Tweaks
+#### Test
 
 You should play your game after every change you make to see how it has changed the playing experience. 
+Something on iteration. 
+Something on challenge?
 
-#### Playtesting
+#### Share with Playtesting
 
 Playtesting is a great way to really understand how the changes to your game make an impact on how the player experiences it. 
 It is easy to get carried away with your own ideas and forget about the end player, so regular play testing keeps us in touch 
@@ -126,6 +121,24 @@ Use this linked feedback sheet to help give feedback on games.
 
 If you are working through this by yourself try to find a couple of people to give you feedback. You can use the MakeCode forum as a way
 of doing this. Here's how. << Add this in. 
+
+#### Publish
+
+Be sure to publish your work. 
+Make a note of what the name of your game is. Don't have one yet then think about how to communicate what's fun about your game
+or the story of your game to the players. 
+
+#### Reflect
+This is a way of really getting the most out of the making to deepen our learning and make links to other areas of making. 
+
+There are different ways to do this, and if you are in a group you may want to make this into some kind of fun activity. See this link
+for fun ideas of reflection games like ( reflection web - toss the ball ) 
+
+
+***Learning notes:*** As we make changes to our game we will learn about the specific coding concepts needed to do 
+computer programming, ideas like loops and logic. We'll also find links to wider patterns of computer programming and systems ideas
+that are important in the world of Human Computer Interaction and Systems Thinking. 
+
 
 ## Part Three -  Hands on with Make Code 
 
@@ -169,14 +182,6 @@ We are going to follow the same pattern of last week:
 * Test the game yourself imagining the end player's experience
 * Playtest other people's game and get feedback for yours
 * Reflect on our progress
-
-You can see here we have added one more stage to our game making session. The last one about reflecting on progress. 
-This is a way of really getting the most out of the making to deepen our learning and make links to other areas of making. 
-
-There are different ways to do this, and if you are in a group you may want to make this into some kind of fun activity. See this link
-for fun ideas of reflection games like ( reflection web - toss the ball ) 
-
-
 
 ## Part Four -  Debugging and more 
 
