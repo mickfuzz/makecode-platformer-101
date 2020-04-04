@@ -70,7 +70,7 @@ Have these written out and ask participants to try to match them with the follow
 
 Explain that digital games can be analysed in the same way and that we will learn to use this knowledge to make a challenging game. 
 
-### Goal Setting and Getting Cracking
+### Goal Setting and Getting Cracking Making our Game
 
 You are now going to meet the game we are going to adapt to create our challenging game. In part one we made changes to a broken game. We are now going to start from stratch with a similar template which is here. One key element of this game that is different, there is only one Level. 
 - [Platform Game to Remix](https://makecode.com/_6630XRAuUePh)
@@ -78,7 +78,8 @@ You are now going to meet the game we are going to adapt to create our challengi
 There are different elements we can add to out game or change about our game. Each change may be small but may make big changes for the 
 the person playing it. You are now going to get cracking with your game making. At the end of this session we'll do some play testing of our games. 
 
-***Game Patterns:*** Game Patterns are the kind of features that we might find in many games. For example a common pattern 
+#### Using Game Patterns:
+Game Patterns are the kind of features that we might find in many games. For example a common pattern 
 you may know is that when you finish one level of a game you progress to the next level. Having a game with level is a game pattern.
 
 Another fun way is to keep adding in different game patterns. There are many ways of thinking about these patterns
@@ -91,7 +92,8 @@ but in this guide we are dividing them up into the following:
 - Game Polish: music, backgrounds, graphics and story elements
 - Challenge and Systems: how different elements interact to create challenge
 
-***Goal Setting;*** Have a look at your map of the different Game Patterns from last week. Now have a look at some of the different 
+#### Goal Setting 
+Have a look at your map of the different Game Patterns. Now have a look at some of the different 
 print outs or pages of the Game Patterns. There are descriptions of the patterns and details of how to add it to your platform game. 
 In the last part you choose 6 patterns. This time choose only 2 and choose ones that seem to be quite quick as we are going to try 
 to add them to our game before the end of the session. 
@@ -102,7 +104,18 @@ Fill out the Goal Setting sheet. ( Create this sheet )
 computer programming, ideas like loops and logic. We'll also find links to wider patterns of computer programming and systems ideas
 that are important in the world of Human Computer Interaction and Systems Thinking. 
 
-### Playtesting
+#### Following the Instructions
+
+See the sheet and the pages to help you make the changes. These are normally step by step instructions. 
+
+Sometimes there are places where you make your own decisions. 
+
+
+#### Self Testing and Making Tweaks
+
+You should play your game after every change you make to see how it has changed the playing experience. 
+
+#### Playtesting
 
 Playtesting is a great way to really understand how the changes to your game make an impact on how the player experiences it. 
 It is easy to get carried away with your own ideas and forget about the end player, so regular play testing keeps us in touch 
@@ -147,13 +160,6 @@ next section.
 - [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)
 - [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
 
-## Part Four -  Debugging and more 
-
-### Types of errors and dealing with them. 
-
-Can this be made into a game of some kind ?
-There are different kinds of that you may come up against. Knowing how to deal with them is a good tactic to keep us progressing. 
-
 ### Setting New Goals and Reflecting on Progress 
 
 We are going to follow the same pattern of last week:
@@ -169,4 +175,13 @@ This is a way of really getting the most out of the making to deepen our learnin
 
 There are different ways to do this, and if you are in a group you may want to make this into some kind of fun activity. See this link
 for fun ideas of reflection games like ( reflection web - toss the ball ) 
+
+
+
+## Part Four -  Debugging and more 
+
+### Types of errors and dealing with them. 
+
+Can this be made into a game of some kind ?
+There are different kinds of that you may come up against. Knowing how to deal with them is a good tactic to keep us progressing. 
 
