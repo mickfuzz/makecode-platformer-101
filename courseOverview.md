@@ -52,6 +52,10 @@ You are now going to meet the game we are going to adapt to create our challengi
 
 ## Part Three -  Hands on with Make Code 
 
+### Starting Game - What kind of Game Player are you
+
+Do the online Bartle Player test. Or find a way of doing it as a group. 
+
 ### Revisit Goal Setting and Getting Cracking
 
 You are now going to get cracking with your game making. At the end of this session we'll d
