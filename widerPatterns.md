@@ -4,12 +4,12 @@
 
 * [Change Listener](#change-listener)
 * [Input Event](#input-event)
-* [Separate Formatting from Data](separate-formatting-from-data)
+* [Separate Formatting from Data](#separate-formatting-from-data)
 * [Creating Functions](#creating-functions)
 * [Systems Elements](#systems-elements)
 * [Systems Dynamics](#systems-dynamics)
-* [Balancing Feedback Loops](balancing-feedback-loops)
-* [Reinforcing Feedback Loops](reinforcing-feedback-loops)
+* [Balancing Feedback Loops](#balancing-feedback-loops)
+* [Reinforcing Feedback Loops](#reinforcing-feedback-loops)
 
 These wider patterns and concepts are a way to learn about wider computing practices that are also applicable beyond the world of making games. These ideas are common in the following areas.
 
@@ -63,7 +63,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Name:** Creating Functions
 
-* **Description:** Also known as abstraction and decompostion, this is a pattern that allows programmes to be broken down into smaller pieces, which do a specialist job in more than one way.
+* **Description:** Also known as abstraction and decompostion (by modularisation), this is a pattern that allows programmes to be broken down into smaller pieces, which do a specialist job. In this case the pieces are called functions. 
 
 * **Why is it needed :** The concept is in line with a programming principle called DRY (Don't Repeat Yourself). It allows you to call the same piece of code from different parts of your programme so you don't have to repeat them in more than one place.
 
