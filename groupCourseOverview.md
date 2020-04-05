@@ -101,40 +101,35 @@ but in this guide we are dividing them up into the following:
 - Game Polish: music, backgrounds, graphics and story elements
 - Challenge and Systems: how different elements interact to create challenge
 
-#### Set Goals 
-Have a look at the list of the different Game Patterns. Each Game Pattern has it's own page. 
+#### Starting our Creative Design Sessions
+
+The sessions are informal and different participants will be doing different things at different times. 
+However there is a general pattern to help organise the chaos of our game making sessions. 
+The sessions are based around the following pattern. 
+
+***Set Goals***  Have a look at the list of the different Game Patterns. Each Game Pattern has it's own page. 
 with descriptions of the patterns and details of how to add it to your platform game. 
 For now choose 2 patterns to add to your game. Choose at least one that you think will be quick to implement. 
 We will add them to our game before the end of the session. Fill out the Goal Setting sheet. ( Create this sheet ) 
 
-#### Create
-See the sheet and the pages to help you make the changes. These are normally step by step instructions. 
+***Create*** See the sheet and the pages to help you make the changes. These are normally step by step instructions. 
 Sometimes there are places where you make your own decisions. 
 Think about story of the game and the characters involved. 
 
-#### Test
-You should play your game after every change you make to see how it has changed the playing experience. 
-Something on iteration. 
-Something on challenge?
+***Test*** You should play your game after every change you make to see how it has changed the playing experience. 
+Keep in mind the experience of the end player when you are testing your game. Also try to think about the right level of
+challenge for your game. 
 
-#### Share with Playtesting
-Playtesting is a great way to really understand how the changes to your game make an impact on how the player experiences it. 
-It is easy to get carried away with your own ideas and forget about the end player, so regular play testing keeps us in touch 
-with what makes our game challenging and fun ot play. 
+***Share with Playtesting*** Playtesting is a great way to really understand how the changes to your game make an impact on how the player experiences it. If you are doing Playtesting as a group then be sure to test a couple of games and make sure at least a couple of people test your game. 
+Use this linked feedback sheet to help give feedback on games. << ADD SHEET
 
-If you are doing Playtesting as a group then be sure to test a couple of games and make sure at least a couple of people test your game. 
-Use this linked feedback sheet to help give feedback on games. 
-
-#### Publish
-Be sure to publish your work using the share link in the top right of the MakeCode edit screen. Give your game a name and ideally a 
+***Publish*** Be sure to publish your work using the share link in the top right of the MakeCode edit screen. Give your game a name and ideally a 
 version name. A good name communicates what's fun about your game or its story to your audience. 
-
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/mech_space_polish_systems.png)
-
 You can also use the MakeCode forum as a way of getting feedback this. To do this click on the image of the speech bubbles. 
 
-#### Reflect
-Reflecting on our progress allows us to getting the most out of the making to deepen our learning and make links to other areas of making. 
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/publish.png)
+
+***Reflect*** Reflecting on our progress allows us to getting the most out of the making to deepen our learning and make links to other areas of making. 
 
 There are different ways to do this, and if you are in a group you may want to make this into some kind of fun activity. See this link
 for fun ideas of reflection games like reflection web. 
