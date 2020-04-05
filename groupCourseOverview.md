@@ -1,9 +1,9 @@
 # Group Course Overview
 
 This page gives an overview of the platform game making programme in a step by step way. It is designed to be used as a guide to
-deliver the course to a group. You can work through it by yourself. There is also an online individual course here.  
+deliver the course to a group. You can work through it by yourself. There is also an [online individual course here] (onlineCourse.md).  
 
-## Part One - Jumping Right Inhttps://github.com/mickfuzz/makecode-platformer-101/blob/master/courseOverview.md
+## Part One - Jumping Right In
 
 ### Identify Game Mechanics
 
