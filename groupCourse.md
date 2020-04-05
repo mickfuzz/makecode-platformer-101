@@ -1,7 +1,13 @@
 # Group Course Overview
 
-This page gives an overview of the platform game making programme in a step by step way. It is designed to be used as a guide to
-deliver the course to a group. You can work through it by yourself. There is also an [online individual course here] (onlineCourse.md).  
+This page gives an overview of a five session platform game making programme. It is designed to be used as a guide to
+deliver the course to a group. You can work through it by yourself. There is also an [online individual course here](onlineCourse.md).  
+
+* [Session One](#session-one)
+* [Session Two](#session-two)
+* [Session Three](#session-three)
+* [Session Four](#session-four)
+* [Session Five](#session-five)
 
 ## Session One - Jumping Right In
 
@@ -157,7 +163,6 @@ for fun ideas of reflection games like reflection web.
 ***Learning notes:*** As we make changes to our game we will learn about the specific coding concepts needed to do 
 computer programming, ideas like loops and logic. We'll also find links to wider patterns of computer programming and systems ideas
 that are important in the world of Human Computer Interaction and Systems Thinking. 
-
 
 ## Session Three 
 
