@@ -3,7 +3,7 @@
 This page gives an overview of the platform game making programme in a step by step way. It is designed to be used as a guide to
 deliver the course to a group. You can work through it by yourself. There is also an [online individual course here] (onlineCourse.md).  
 
-## Part One - Jumping Right In
+## Session One - Jumping Right In
 
 ### Identify Game Mechanics
 
@@ -34,10 +34,19 @@ Now we will start coding by jumping right in. Try to play the following game. It
 - [Broken Platform Game to Fix](https://makecode.com/_2iLfej4d6Rfa)
 - [Supporting Activity Cards](https://docs.google.com/presentation/d/1vgHFm4zSC3YEVAXJORSoDHBFYSBIHK2mSCNfgbpiaHY/edit?usp=sharing)
 
-At the end of the session make sure to Publish a copy of your game and to give it your own name. Keep a record of the link to your game. 
-We'll come back to it next week. 
+At the end of the session make sure to Publish a copy of your game and to give it your own name. 
+Keep a record of the link to your game. We'll come back to it next week. 
 
-## Part Two -  Understand Games with a Game
+
+### Reflection on Session One
+
+Play a quick reflection game to find out what people thought and got out of the first session. The [Reflection Web](https://pblactivities.wordpress.com/2018/09/03/reflection-web/) is a fun one to start with. Ask the following questions. 
+
+* Share something you found fun
+* Share something you found hard
+* Share something that surprised you
+
+## Session Two -  Understand Games with a Game
 
 ### Playing the Game
 Play a game to understand the elements of a game. There is a game called boumb an dshild which you can play with a small group
@@ -140,7 +149,7 @@ computer programming, ideas like loops and logic. We'll also find links to wider
 that are important in the world of Human Computer Interaction and Systems Thinking. 
 
 
-## Part Three -  Hands on with Make Code 
+## Session Three 
 
 ### Starting Game - What kind of Game Player are you
 
@@ -167,13 +176,14 @@ In the same way there are different styles of making games. I'm proposing the fo
 As well as different game player types, there are also different game maker types. These are listed here, but if you are a 
 planner then you may want to really know how all of the code for our game works before you start to make other changes to it. 
 
-So if you are a planner then you may want to take the time to work your way through these tutorials. If not jump right on to the 
-next section. 
+#### Step by Step Tutorials for the pLanners out there
+So if you are a planner then you may want to take the time to work your way through these tutorials. 
+If not jump right on to the next section. 
 
 - [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)
 - [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
 
-### Setting New Goals and Reflecting on Progress 
+### Hands on Making
 
 We are going to follow the same pattern of last week:
 
