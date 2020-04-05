@@ -192,10 +192,11 @@ Have these written out and ask participants to try to match them with the follow
 
 Explain that digital games can be analysed in the same way and that we will learn to use this knowledge to make a challenging game. 
 
-
 ### Hands on Making
 
-We are going to follow the same pattern of last week:
+### Creative Design Game Making Session
+
+Follow the Creative Design Game Making Session pattern as outlined in week two. 
 
 * Set goals to add chosen game patterns
 * Follow the coding help to make the changes you need
@@ -203,15 +204,66 @@ We are going to follow the same pattern of last week:
 * Playtest other people's game and get feedback for yours
 * Reflect on our progress
 
+This week add in the following element to goals setting. 
+
+***Extra Mission Cards*** These extra missions encourage us to think of our games as dynamic systems that change as we play the game.  
+[Mission Cards for this Sessions](https://docs.google.com/document/d/1tKr8kWzoI6Hdn1zHPHmDP7hd4C_G12PSkwUP-Zsw69s/edit)
+
 ### Reflection Activity
 
-Something to do with challenge?
+Something to do with challenge and systems. 
 
+### Homework 
+Try to add in as much as you can between sessions. Bring any problems to the next session. 
 
-## Part Four -  Debugging and more 
+## Session Four  
 
 ### Types of errors and dealing with them. 
 
 Can this be made into a game of some kind ?
 There are different kinds of that you may come up against. Knowing how to deal with them is a good tactic to keep us progressing. 
+
+* Errors
+* Blank Screen Errors
+* Glitches
+
+Learn to celebrate glitches. Find out what is happening in the following projects. What type of error are they? 
+How can you solve them? 
+
+### Creative Design Game Making Session
+
+Follow the Creative Design Game Making Session pattern as outlined in week two. 
+
+In terms of goal setting. What is becoming special about your game. What are the final changes you want to make? 
+Use the following check list to make quick changes to your game. 
+
+* Do you have a strong story for your game? Can you add one? 
+* Have you applied a Mission Card or a system pattern yet? 
+* Have you got a balanced of game patterns added? 
+
+### Reflection
+
+What are the final changes you want to make for the last session?  
+
+### Homework 
+Try not to add any more to your game in terms of new patterns. Focus as much as you can on the playability of your game. 
+
+## Session Five 
+
+### Playability Tweaking and Hardware
+
+Ask participants to send games via emails so they may be loaded up onto computer or hand helds. 
+You may want to run a session on making a console with computer electronics including hardware elements of arcade buttons. 
+
+In arranging the hardware for showcasing you may encourange last minute changes based on facilitator feedback. 
+
+### Showcasing 
+
+Have in place a form which allows participants to reflect on the final product, player reactions. 
+
+### Reflection
+
+* What are your final takeaways? 
+* Share about your changes in confidence in use of specifics of coding concepts. 
+* What do you feel you've learned about wider patterns - computer programming/ systems designs. 
 
