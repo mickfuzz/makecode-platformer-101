@@ -108,7 +108,7 @@ If not jump right on to the next section.
 ### Goal Setting and Getting Cracking Making our Game
 
 You are now going to meet the game we are going to adapt to create our challenging game. In part one we made changes to a broken game. We are now going to start from stratch with a similar template which is here. One key element of this game that is different, there is only one Level. 
-- [Platform Game to Remix](https://makecode.com/_2sJeqa10FgAV)
+- [Platform Game to Remix](https://makecode.com/_FqWD64MxEiRi)
 
 There are different elements we can add to out game or change about our game. Each change may be small but may make big changes for the 
 the person playing it. You are now going to get cracking with your game making. At the end of this session we'll do some play testing of our games. 
