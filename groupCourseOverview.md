@@ -9,12 +9,13 @@ deliver the course to a group. You can work through it by yourself. There is als
 
 We will start to understand games by playing a few arcade games and starting to look at what makes them tick. 
 
-Play the following games ( from MakeCode )
+On entry participants play the following games ( from MakeCode )
 
 * Galaga
-* Cat Jumper
 * Ballon Game
-* Collect Cherries
+* Duck Run
+* Eat Fruit 
+* Level Up
 
 Write down the main VERBs for these games. Pick from the following some have more than one Mechanic. 
 
@@ -46,38 +47,57 @@ Play a quick reflection game to find out what people thought and got out of the 
 * Share something you found hard
 * Share something that surprised you
 
+### Homework - What kind of Game Player are you
+
+As digital and online games became more complicated Richard Bartle proposed that different people play these games in different 
+ways and look to get different things out of them. In short there are different kinds of players. The Bartle test finds out what kind of game player you are. 
+Do the online Bartle Player test. You may be able to find a way of doing it as a group by moving around the room. 
+
+This is also true of the way that people play games. There's a well known model of different play style types by Richard Bartle. This model, which was based on observing and analyzing the behaviors people playing together in a multi-user game, holds that there are four different kinds of play style interests, each of which is given a descriptive name: Griefers, Achievers, Explorers, and Socializers.1
+
+* Griefers: interfere with the functioning of the game world or the play experience of other players
+* Achievers: accumulate status tokens by beating the rules-based challenges of the game world
+* Explorers: discover the systems governing the operation of the game world
+* Socializers: form relationships with other players by telling stories within the game world
+
+Different kinds of games suit different play styles. One of the notable successes of recent years have been open world games that allow you to choose how you play the game. If you want to stick to the main missions you can follow guidance to do that but if you just want to explore or be social or mess around you have the chance to to do that too.
+
+In the same way there are different styles of making games. I'm proposing the following;
+
+* Social makers: form relationships with other game makers and players by finding out more about their work and telling stories in their game
+* Planners: like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+* Magpie makers: like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+* Glitchers: mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc
+
+As well as different game player types, there are also different game maker types. These are listed here, but if you are a 
+planner then you may want to really know how all of the code for our game works before you start to make other changes to it. 
+
 ## Session Two -  Understand Games with a Game
 
-### Playing the Game
-Play a game to understand the elements of a game. There is a game called boumb an dshild which you can play with a small group
-in the following way. 
+### Matching Games to Code
 
-* Mark out your game space, no-one can walk or run outside of that. 
-* Everyone choose one person but don't say who it is. This person i your bomb
-* Choose another person but don't say who it is. This person i your shield
-* Everyone walk around the space but try to keep your shield between you and tyour bomb. 
+On entry participants play the following games ( from MakeCode )
 
-Say Freeze. Stop the game and see who is safe. 
-Play again, get them to swap people or choose new people. 
+* Galaga
+* Duck Run
+* Eat Fruit 
+* Level Up
 
-### Know the Elements of a Game
+The next activity is to try to match cut out screen grabs to each of the games. [See print outs here] (https://drive.google.com/drive/u/0/folders/1NEh-YHlNO_yr7lBx1tVySml-ZkvDtpbp). 
 
-Outline the different elements of a game. 
-* Components
-* Space
-* Rules
-* Goal
-* Mechanic
+Additionally as a bonus can you see any of the following:
 
-Have these written out and ask participants to try to match them with the following elements from our game.  
+* Variables
+* Loops
+* Logic
+* Events
 
-* Bomb, Shield, Player
-* A clear space outside or in which is about the size of a room
-* You are not allowed to push people out the way. 
-* Win the game by staying safe by having your shield protect you from your bomb
-* Walking
+#### Step by Step Tutorials for the pLanners out there
+So if you are a planner then you may want to take the time to work your way through these tutorials. 
+If not jump right on to the next section. 
 
-Explain that digital games can be analysed in the same way and that we will learn to use this knowledge to make a challenging game. 
+- [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)
+- [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
 
 ### Goal Setting and Getting Cracking Making our Game
 
@@ -141,37 +161,37 @@ that are important in the world of Human Computer Interaction and Systems Thinki
 
 ## Session Three 
 
-### Starting Game - What kind of Game Player are you
+### Playing the Game
+Play a game to understand the elements of a game. There is a game called boumb an dshild which you can play with a small group
+in the following way. 
 
-As digital and online games became more complicated Richard Bartle proposed that different people play these games in different 
-ways and look to get different things out of them. In short there are different kinds of players. The Bartle test finds out what kind of game player you are. 
-Do the online Bartle Player test. You may be able to find a way of doing it as a group by moving around the room. 
+* Mark out your game space, no-one can walk or run outside of that. 
+* Everyone choose one person but don't say who it is. This person i your bomb
+* Choose another person but don't say who it is. This person i your shield
+* Everyone walk around the space but try to keep your shield between you and tyour bomb. 
 
-This is also true of the way that people play games. There's a well known model of different play style types by Richard Bartle. This model, which was based on observing and analyzing the behaviors people playing together in a multi-user game, holds that there are four different kinds of play style interests, each of which is given a descriptive name: Griefers, Achievers, Explorers, and Socializers.1
+Say Freeze. Stop the game and see who is safe. 
+Play again, get them to swap people or choose new people. 
 
-* Griefers: interfere with the functioning of the game world or the play experience of other players
-* Achievers: accumulate status tokens by beating the rules-based challenges of the game world
-* Explorers: discover the systems governing the operation of the game world
-* Socializers: form relationships with other players by telling stories within the game world
+### Know the Elements of a Game
 
-Different kinds of games suit different play styles. One of the notable successes of recent years have been open world games that allow you to choose how you play the game. If you want to stick to the main missions you can follow guidance to do that but if you just want to explore or be social or mess around you have the chance to to do that too.
+Outline the different elements of a game. 
+* Components
+* Space
+* Rules
+* Goal
+* Mechanic
 
-In the same way there are different styles of making games. I'm proposing the following;
+Have these written out and ask participants to try to match them with the following elements from our game.  
 
-* Social makers: form relationships with other game makers and players by finding out more about their work and telling stories in their game
-* Planners: like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
-* Magpie makers: like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
-* Glitchers: mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc
+* Bomb, Shield, Player
+* A clear space outside or in which is about the size of a room
+* You are not allowed to push people out the way. 
+* Win the game by staying safe by having your shield protect you from your bomb
+* Walking
 
-As well as different game player types, there are also different game maker types. These are listed here, but if you are a 
-planner then you may want to really know how all of the code for our game works before you start to make other changes to it. 
+Explain that digital games can be analysed in the same way and that we will learn to use this knowledge to make a challenging game. 
 
-#### Step by Step Tutorials for the pLanners out there
-So if you are a planner then you may want to take the time to work your way through these tutorials. 
-If not jump right on to the next section. 
-
-- [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)
-- [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
 
 ### Hands on Making
 
@@ -182,6 +202,11 @@ We are going to follow the same pattern of last week:
 * Test the game yourself imagining the end player's experience
 * Playtest other people's game and get feedback for yours
 * Reflect on our progress
+
+### Reflection Activity
+
+Something to do with challenge?
+
 
 ## Part Four -  Debugging and more 
 
