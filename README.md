@@ -18,7 +18,7 @@ There is material here for a five session course on game making. This takes two 
 
 ## About the MakeCode Arcade Tool
 
-![a hand held device](/images/makecode_handheld.jpg) 	
+![makecode layout](/images/makecode_handheld.jpg) 	
 
 This course uses MakeCode Arcade as its tool. There are several advantages to this tool. 
 
