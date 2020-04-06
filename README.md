@@ -17,8 +17,13 @@ There is material here for a five session course on game making. This takes two 
 * [Session Materials to run with a group of participants](https://mickfuzz.github.io/makecode-platformer-101/groupCourse)
 * [An online course you can work through by yourself](https://mickfuzz.github.io/makecode-platformer-101/onlineCourse)
 
-## Ethos
+## Ideas behind this Course
+
+### Learning via Hands-on Tinkering
 This intention of this course is not to teach the underlying concepts of computer science from first principles.
 Here the idea is to build competency with the practicalities of using the coding tool. 
 In an art studio students start by experimenting with materials and getting to know their tools first. Large concepts come later.  
 
+### Starting with the Familiar, Zoom In to Detail, Zoom out to Wider Patterns
+
+![Wider and Narrower Patterns](/images/patterns_concepts_map_edit.png)
