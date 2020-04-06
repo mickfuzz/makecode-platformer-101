@@ -18,7 +18,7 @@ There is material here for a five session course on game making. This takes two 
 
 ## About the MakeCode Arcade Tool
 
-![makecode layout](/images/makecode_handheld.jpg) 	
+![makecode layout](/images/makecode_layout.jpg) 	
 
 This course uses MakeCode Arcade as its tool. There are several advantages to this tool. 
 
@@ -78,6 +78,6 @@ applied in other fields, for example those of Interactive Media Design and Syste
 
 If you want to get started or begin to investigate what is available the following links will help you. 
 
-* view the Menu of Game Patterns as well as a short intro on how to apply them to a starting template
-* browse the Group Course contents or start to work your way through the individual online course
+* View the Menu of [Game Patterns](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts) which contains a short intro on how to apply them to the starting game template
+* Browse the [Group Course contents](https://mickfuzz.github.io/makecode-platformer-101/groupCourse) or start to work your way through the individual online course
 * get an overall understanding of the starting game template with step-by-step tutorials - [Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)* and [Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
