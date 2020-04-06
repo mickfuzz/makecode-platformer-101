@@ -29,7 +29,7 @@ of design and even game mechanics to new levels.
 In our game we have a listener which is always checking to see if there is an overlap between our Player and the Goal Sprite.  
 In our starting template this lists only a Game Over - Lose block. Delete that block so the on overlap listener block is empty.
 
-![Remove Game over Block](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/addLevels1.png)
+![Remove Game over Block](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels1.png)
 
 We will replace it with code that changes the level number and builds a new level and moves the player back to the starting point.
 
