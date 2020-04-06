@@ -86,4 +86,6 @@ Ask yourself the following questions:
 * Are you going to add a third level or a forth level? If so will you know how?
 * Can you imagine the player experience? Is there anything you are fogetting or taking for granted?
 
-This tutorial is one of many allowing you add different Game Element on the home page of this Platformer Making Course.
+This Game Pattern is one of many allowing you to make improvements to your platform game and to learn coding and wider computing concepts. Find more on the [Game Pattern page](gamePatterns.md). 
+
+### Related Patterns 
