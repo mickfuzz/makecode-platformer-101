@@ -22,13 +22,13 @@ Game Patterns come in a few different flavour in this course.
 
 ## Game Polish to change the look and feel of the game
 
-- [Add Instructions and Comment between Levels]()
+- Add Instructions and Comment between Levels
 - Simple Animation of Enemy
 - Animate Walking of Player
 
 ## Change parts of the Game Space
 
-- Add new levels
+- [Add More Levels](moreLevels)
 - Change shape of levels
 
 ## Challenge and Systems - Games get harder as you progress to keep your interest
