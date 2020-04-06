@@ -1,4 +1,3 @@
-### @activities true
 # Learn Game Design Patterns by Remixing a MakeCode Platformer
 
 ## Summary
@@ -17,13 +16,66 @@ There is material here for a five session course on game making. This takes two 
 * [Session Materials to run with a group of participants](https://mickfuzz.github.io/makecode-platformer-101/groupCourse)
 * [An online course you can work through by yourself](https://mickfuzz.github.io/makecode-platformer-101/onlineCourse)
 
+## About MakeCode
+
+The shape of this course could be applied to any game making platform. In fact there are similar courses available see 
+* Game Making with Phaser (Javascript) 
+* Making Serious Games in Scratch
+
+This course uses MakeCode Arcade as its tool. There are several advantages to this tool. 
+
+* Like Scratch the block coding tool reduces chances of getting stuck with code syntax errors
+* Unlike scratch it is created with arcade like games in mind and includes relevant tools like acceleration for gravity
+* There are fun hand-held devices you can easily play your game on. Great for group playtesting. 
+* The support and making community is small but very friendly and responsive
+
 ## Ideas behind this Course
+
+This ethos of this course is broadly in-line with concepts of Project Based Learning. More specifically here's how some of those ideas
+come into focus. 
 
 ### Learning via Hands-on Tinkering
 This intention of this course is not to teach the underlying concepts of computer science from first principles.
 Here the idea is to build competency with the practicalities of using the coding tool. 
 In an art studio students start by experimenting with materials and getting to know their tools first. Large concepts come later.  
 
-### Starting with the Familiar, Zoom In to Detail, Zoom out to Wider Patterns
+### Playful Learning
+Many sessions start with games and the overall ethos is to try to encourage an informal approach to learning which prioritises
+a positive connection to the making experience over absorbtion of testable curriculum knowledge. 
+
+### Promoting Participant Choice and Self-Directed Learning
+The use of a menu of Game Patterns as the hub of our learning allows and encourages the course participants to set their own goals
+and to monitor their own progress. It is also flexible enough to provide materials for those who want to learn concepts in a structured way
+although it priorities opportunities for more messy approaches to learning. 
+
+### A Restricted Set of Learning Dimensions
+
+To encourage messy, experimental learning many of the computer science concepts that it would be possible to teach are intentionally
+put into the background to prioritise a inclusive process. However there are some notes on learning dimensions outside of subject knowledge
+that may be useful to facilitators and parents. These are included at the following links. 
+* [Design Practices](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts#design-practices)
+* [21st Century Skills](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts#design-practices)
+
+### Starting with the Familiar, Zoom into Detail, Zoom out to Wider Patterns
+
+The starting point for participants of this course are the [Game Patterns](https://mickfuzz.github.io/makecode-platformer-101/gamePatterns) of a platform game which are likely to be familiar to them
+from exposure to family oriented video consoles or mobile games. 
+
+Through the process of adding these patterns to their games, participants will come into contact with [Coding Concepts](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts) needed to 
+enact these features using the specific tools of the MakeCode system. In this way the **Zoom into the Detail** needed to make ideas into
+reality. 
+
+In the same process course participants also have the chance to connect the more immediate learning in the context of games to 
+[Wider Patterns of Computing and Systems](https://mickfuzz.github.io/makecode-platformer-101/widerPatterns). 
+While this is not explicitly taught, parents and facilitators **Zoom out** to  point out how the concepts and patterns in Games can be 
+applied in other fields, for example those of Interactive Media Design and Systems Thinking. 
 
 ![Wider and Narrower Patterns](/images/patterns_concepts_map_edit.png)
+
+## Where to get started? 
+
+If you want to get started or begin to investigate what is available the following links will help you. 
+
+* view the Menu of Game Patterns as well as a short intro on how to apply them to a starting template
+* browse the Group Course contents or start to work your way through the individual online course
+* start
