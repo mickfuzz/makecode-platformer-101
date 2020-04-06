@@ -16,11 +16,9 @@ There is material here for a five session course on game making. This takes two 
 * [Session Materials to run with a group of participants](https://mickfuzz.github.io/makecode-platformer-101/groupCourse)
 * [An online course you can work through by yourself](https://mickfuzz.github.io/makecode-platformer-101/onlineCourse)
 
-## About MakeCode
+## About the MakeCode Arcade Tool
 
-The shape of this course could be applied to any game making platform. In fact there are similar courses available see 
-* Game Making with Phaser (Javascript) 
-* Making Serious Games in Scratch
+![a hand held device](/images/makecode_handheld.jpg) 	
 
 This course uses MakeCode Arcade as its tool. There are several advantages to this tool. 
 
@@ -29,10 +27,14 @@ This course uses MakeCode Arcade as its tool. There are several advantages to th
 * There are fun hand-held devices you can easily play your game on. Great for group playtesting. 
 * The support and making community is small but very friendly and responsive
 
+![a hand held device](/images/makecode_handheld.jpg)
+
+The shape of this course could be applied to any game making platform. In fact there are similar courses available see Game Making with Phaser (Javascript) and Making Serious Games in Scratch
+
 ## Ideas behind this Course
 
 This ethos of this course is broadly in-line with concepts of Project Based Learning. More specifically here's how some of those ideas
-come into focus. 
+come into focus with this material. 
 
 ### Learning via Hands-on Tinkering
 This intention of this course is not to teach the underlying concepts of computer science from first principles.
