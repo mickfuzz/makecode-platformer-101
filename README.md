@@ -78,4 +78,4 @@ If you want to get started or begin to investigate what is available the followi
 
 * view the Menu of Game Patterns as well as a short intro on how to apply them to a starting template
 * browse the Group Course contents or start to work your way through the individual online course
-* start
+* get an overall understanding of the starting game template with step-by-step tutorials - [Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)* and [Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
