@@ -24,10 +24,6 @@ of design and even game mechanics to new levels.
 
 * **Links to other Computing Patterns:** [Systems Dynamics](widerPatterns#systems-dynamics),
 
-
-
-
-
 ### Create a "level" variable
 Now we will reate a  variable to hold the number of level we are on. We will then be able to change it.
 We create this level variable at the end of our ***on start*** loop.
@@ -35,7 +31,6 @@ We create this level variable at the end of our ***on start*** loop.
 ![Create Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels2.png)
 
 ![Add set Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels3.png)
-
 
 ### Create a new chooseLevel Function
 Create a new Function by clicking on the **Advanced** tab on our toolbar, then  **Functions**
@@ -81,14 +76,14 @@ Then add a **createLevels** block from **Functions**
 
 ![game level four](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/new_level_7.png)
 
+## Test your Changes
 
+Test your game to check that your changes have the desired behaviour and no side effects.
 
-## Test your game, Invite Playtesing and Reflecting
+Ask yourself the following questions:
 
-**This tutorial is now complete.**
-
-You can test your game to check that it has the desired behaviour.
-
-AND???
+* When you change the design of the second level how can you make it more challenging? 
+* Are you going to add a third level or a forth level? If so will you know how?
+* Can you imagine the player experience? Is there anything you are fogetting or taking for granted?
 
 This tutorial is one of many allowing you add different Game Element on the home page of this Platformer Making Course.
