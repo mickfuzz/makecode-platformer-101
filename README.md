@@ -50,19 +50,10 @@ The use of a menu of Game Patterns as the hub of our learning allows and encoura
 and to monitor their own progress. It is also flexible enough to provide materials for those who want to learn concepts in a structured way
 although it priorities opportunities for more messy approaches to learning. 
 
-### A Restricted Set of Learning Dimensions
-
-To encourage messy, experimental learning many of the computer science concepts that it would be possible to teach are intentionally
-put into the background to prioritise a inclusive process. However there are some notes on learning dimensions outside of subject knowledge
-that may be useful to facilitators and parents. These are included at the following links. 
-* [Design Practices](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts#design-practices)
-* [21st Century Skills](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts#design-practices)
 
 ### Starting with the Familiar, Zoom into Detail, Zoom out to Wider Patterns
 
-The starting point for participants of this course are the [Game Patterns](https://mickfuzz.github.io/makecode-platformer-101/gamePatterns) of a platform game which are likely to be familiar to them
-from exposure to family oriented video consoles or mobile games. 
-
+The starting point for participants of this course are the [Game Patterns](https://mickfuzz.github.io/makecode-platformer-101/gamePatterns) of a platform game which are likely to be familiar to them from exposure to family oriented video consoles or mobile games. 
 Through the process of adding these patterns to their games, participants will come into contact with [Coding Concepts](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts) needed to 
 enact these features using the specific tools of the MakeCode system. In this way the **Zoom into the Detail** needed to make ideas into
 reality. 
@@ -73,6 +64,17 @@ While this is not explicitly taught, parents and facilitators **Zoom out** to  p
 applied in other fields, for example those of Interactive Media Design and Systems Thinking. 
 
 ![Wider and Narrower Patterns](/images/patterns_concepts_map_edit.png)
+
+### A Restricted Set of Learning Dimensions
+
+To encourage messy, experimental learning many of the computer science concepts that it would be possible to teach are intentionally
+put into the background to prioritise a inclusive process. Care has been taken to reduce the number of concepts and patterns in 
+these areas to a manageable amount. 
+
+In addition to these subject related learning dimentions, there are notes on process related learning dimensions outside of subject knowledge
+that may be useful to facilitators and parents. These are included at the following links. 
+* [Design Practices](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts#design-practices): goal setting, creating, testing adn reflecting. 
+* [21st Century Skills](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts#design-practices): communication, collaboration, critical thinking and the other one. 
 
 ## Where to get started? 
 
