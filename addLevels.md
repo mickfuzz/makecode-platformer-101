@@ -38,18 +38,18 @@ We will replace it with code that changes the level number and builds a new leve
 Now we will reate a  variable to hold the number of level we are on. We will then be able to change it.
 We create this level variable at the end of our ***on start*** loop.
 
-![Create Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/addLevels2.png)
+![Create Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels2.png)
 
-![Add set Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/addLevels3.png)
+![Add set Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels3.png)
 
 
 ### Create a new chooseLevel Function
 Create a new Function by clicking on the **Advanced** tab on our toolbar, then  **Functions**
 And then click **Make a Function**. Enter chooseLevel in the white box.
 
-![Add set Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/addLevels4.png)
+![Add set Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels4.png)
 
-![Add set Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/addLevels5.png)
+![Add set Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels5.png)
 
 
 ### Move tilemap to new Function
