@@ -25,13 +25,7 @@ of design and even game mechanics to new levels.
 * **Links to other Computing Patterns:** [Systems Dynamics](widerPatterns#systems-dynamics),
 
 
-### Change the  overlap (change) Listener between Player and Goal Sprite  
-In our game we have a listener which is always checking to see if there is an overlap between our Player and the Goal Sprite.  
-In our starting template this lists only a Game Over - Lose block. Delete that block so the on overlap listener block is empty.
 
-![Remove Game over Block](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels1.png)
-
-We will replace it with code that changes the level number and builds a new level and moves the player back to the starting point.
 
 
 ### Create a "level" variable
@@ -72,6 +66,13 @@ Move a **game over - win** block into to this gap and delete the **tilemap** blo
 
 ![game level four](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addLevels5.png)
 
+### Change the  overlap (change) Listener between Player and Goal Sprite  
+In our game we have a listener which is always checking to see if there is an overlap between our Player and the Goal Sprite.  
+In our starting template this lists only a Game Over - Lose block. Delete that block so the on overlap listener block is empty.
+
+![Remove Game over Block](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels1.png)
+
+We will replace it with code that changes the level number and builds a new level and moves the player back to the starting point.
 
 ### Code what happens when we complete a level
 In the **on sprite of kind Player overlaps Door** listener block add a **change level by 1** block.
