@@ -49,9 +49,6 @@ And then click **Make a Function**. Enter chooseLevel in the white box.
 
 ![Add set Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels4.png)
 
-![Add set Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels5.png)
-
-
 ### Move tilemap to new Function
 Drag only the  **set tilemap to** into the new **chooseLevel** function by holding down **Control** on your Keyboard while you drag the block.
 Right click and select **Format Code** to make the screen tidy.
