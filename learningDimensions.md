@@ -1,4 +1,4 @@
-# Learning Dimensions of this project
+# Learning Dimensions of this Project
 
 This section includes a map of differnt learning dimensions which are possible and likely to emerge from taking part in this 
 game making course. It is inspired by the work of Bevan and Petrich around their study of 'tinkering' in science museums, who through
@@ -177,8 +177,8 @@ Various testing and debugging practices are possible from learning to scan block
    - No errors blank screen, no idea (often retrace steps, go back to earlier version, or have to start again)
    - Clues, greyed out code, red dots, error messages (try to narrow down issue, remove sections of code, again go back, try to find duplication of code blocks)
 
-### Playtesting
-Playtesting can be of one's own game or move beyond testing ones own work to providing this service for others and acting of the feedback given by others.
+### Self-Testing and Playtesting
+Game testing can be of one's own game or as 'playtesting' of playing each other's game and giving and recieving feedback on game play.
 Example activities which demonstrate this incude:
    - Expression of pride, or fun when playing own game
    - Imagining the user's experience of playing their game
@@ -192,10 +192,10 @@ work to reuse and remix.
    - More direct copying of code via observation or conversation
 
 ### Collaborative Production
-This section is aimed at programmes where participants work together on game making as pairs or in family groups. Example activities which demonstrate this incude:
+Where participants work together on game making as pairs or in family groups example activities which demonstrate this incude:
    - Refocusing: redirection back to other participants earlier goals
    - Invitation to imagine the ideal player’s experience
-   - Remarks on problematic real behaviour
+   - Remarks on problematic real behaviour in game play
 
 ### Publishing and Evaluating
 The process of making work public or sharing a 'finished' version with the group is a key part of the design process and one which can harness key skills of validational and evaluation in a focused way.
@@ -204,15 +204,14 @@ The process of making work public or sharing a 'finished' version with the group
 ## 21st Century Skills
 ### 21st Century Skills including Digital Literacies
 
-Some of the more general 21st Century Skills like communication, collaboration, critical thinking and creativity are covered in some of the design practices. Other very specific behaviours emerged in research on game making. The are links with 'perspectives' in Brennan and Resink which are more linked to 21st Century Skills. See also Barron's categorisation of helping behaviours around technology.
+To an extent, in keeping with the broad definitions of 21st Century Skils, this final section is a bit of a catch all to hold some
+of the learning skills not covered in previous sections. There are certainly elements of key 21st Century Skills like communication, 
+collaboration, critical thinking and creativity are covered the design practices. Certain very specific behaviours especially 
+around digital literacies are listed below 
+that are well suited to the kind of collaborative and digital game making outlined in this programme. 
 
-### Navigating Windows, Tabs and Internet Sites
-The detail of moving from one site to another, if especially downloading images from one and then transfering to another gives rise to the chance to learn and share a variety of practices which make up key web-navigations literacies.
-
-### Logging in and Passwords and Version Control
-This category is a form of digital literacy which proficient users may take for granted. However for beginner users may need some support with this process.
-Often parents as a repository for the logins and passwords of their children as well as encouraging them to save their work.  The way MakeCode doesn't support log ins
-encourages a process of saving versions of your work frequently and saving them in a document, say an online google doc with dates and descriptions.
+NOTE - The are links with 'perspectives' in Brennan and Resink which are more linked to 21st Century Skills. See also Barron's
+categorisation of helping behaviours around technology.
 
 ### Developing Shared Practices and Vocabulary
 The process of working on a joint project involves the development of shared understanding of the problem being worked on. This may involve
@@ -222,10 +221,23 @@ understandings of concepts or processes being worked with.
 * Requesting or offering help in solving problems 
 
 ### Joint Problem Solving and Development of Understanding
+Closely linked to collaborative production above. Example behaviours include:
 
 * Offering explanation(s) for a strategy, tool, or outcome
 * Applying knowledge
 * Striving to understand
+
+### Digital Literacies
+
+**Navigating Windows, Tabs and Internet Sites:** 
+The detail of moving from one site to another, if especially downloading images from one and then transfering to another gives rise to the 
+chance to learn and share a variety of practices which make up key web-navigations literacies. This is an area where young people often are
+able to help adults. 
+
+**Logging in and Passwords and Version Control:**
+This category is a form of digital literacy which proficient users may take for granted. However for beginner users may need some support with this process.
+Often parents as a repository for the logins and passwords of their children as well as encouraging them to save their work.  The way MakeCode doesn't support log ins
+encourages a process of saving versions of your work frequently and saving them in a document, say an online google doc with dates and descriptions.
 
 ### Notes on Missing elements - TO INTEGRATE
 If we look [ at Frameworks here](https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#) we can see missing elements around reflection, and expressing elements of understanding (some of which integrated above).
