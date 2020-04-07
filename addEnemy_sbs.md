@@ -5,7 +5,6 @@
 
 ## Adding a Static Enemy
 
-
 ### Getting Started @unplugged
 
 In this tutorial we will **add a static enemy** to our platformer.

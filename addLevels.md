@@ -20,10 +20,11 @@ This game pattern is one of many you can add to your Platformer in this course.
 * **Need for Pattern:** Having more than one level is a way increasing the length and challenge of the game. You can also bring other elements
 of design and even game mechanics to new levels.
 
-* **Coding Concepts involved:** [Data](codingConcepts#data), [Change Listener](widerPatterns#change-listener)
+* **Coding Concepts involved:** [Data](learningDimensions#data)
 
-* **Links to other Computing Patterns:** [Systems Dynamics](widerPatterns#systems-dynamics),
+* **Links to other Computing Patterns:** [Systems Dynamics](learningDimensionss#systems-dynamics), [Change Listener](learningDimensions#change-listener)
 
+## Putting the Pattern into Practice
 ### Create a "level" variable
 Now we will reate a  variable to hold the number of level we are on. We will then be able to change it.
 We create this level variable at the end of our ***on start*** loop.
@@ -71,21 +72,4 @@ We will replace it with code that changes the level number and builds a new leve
 
 ### Code what happens when we complete a level
 In the **on sprite of kind Player overlaps Door** listener block add a **change level by 1** block.
-Next add a **set mySprite position to x 10 y 100**
-Then add a **createLevels** block from **Functions**
-
-![game level four](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/new_level_7.png)
-
-## Test your Changes
-
-Test your game to check that your changes have the desired behaviour and no side effects.
-
-Ask yourself the following questions:
-
-* When you change the design of the second level how can you make it more challenging? 
-* Are you going to add a third level or a forth level? If so will you know how?
-* Can you imagine the player experience? Is there anything you are fogetting or taking for granted?
-
-This Game Pattern is one of many allowing you to make improvements to your platform game and to learn coding and wider computing concepts. Find more on the [Game Pattern page](gamePatterns.md). 
-
-### Related Patterns 
+Next add a **set mySpr
