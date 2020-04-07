@@ -1,6 +1,5 @@
-### @activities true
 
-# Wider Patterns and Concepts
+## Wider Patterns and Concepts
 
 * [Change Listener](#change-listener)
 * [Input Event](#input-event)
@@ -11,11 +10,7 @@
 * [Balancing Feedback Loops](#balancing-feedback-loops)
 * [Reinforcing Feedback Loops](#reinforcing-feedback-loops)
 
-These wider patterns and concepts are a way to learn about wider computing practices that are also applicable beyond the world of making games. These ideas are common in the following areas.
-
-* Interactive Media Design
-* Object Oriented Programming
-* Systems Thinking
+These wider patterns and concepts are a way to learn about wider computing practices that are also applicable beyond the world of making games. These ideas are common in the area of Interactive Media Design and Systems Thinking.
 
 ## Change Listener
 
