@@ -214,18 +214,21 @@ This category is a form of digital literacy which proficient users may take for 
 Often parents as a repository for the logins and passwords of their children as well as encouraging them to save their work.  The way MakeCode doesn't support log ins
 encourages a process of saving versions of your work frequently and saving them in a document, say an online google doc with dates and descriptions.
 
-### Notes on Missing elements
-If we look [ at Frameworks here](https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#) we can see missing elements around reflection,
-and expressing elements of understanding.
-
-Social scaffolding
+### Developing Shared Practices and Vocabulary
+The process of working on a joint project involves the development of shared understanding of the problem being worked on. This may involve
+checking working concepts by advancing them and questioning meaning of other's expression. This may also include advancing new 
+understandings of concepts or processes being worked with.  
 
 * Requesting or offering help in solving problems 
-* Inspiring new ideas or approaches
 
-Development of understanding
+### Joint Problem Solving and Development of Understanding
 
-* Expressing a realization through affect or utterances
 * Offering explanation(s) for a strategy, tool, or outcome
 * Applying knowledge
 * Striving to understand
+
+### Notes on Missing elements - TO INTEGRATE
+If we look [ at Frameworks here](https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#) we can see missing elements around reflection, and expressing elements of understanding (some of which integrated above).
+
+* Social scaffolding
+* Development of understanding
