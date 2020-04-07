@@ -1,6 +1,8 @@
 # Game Patterns
-Game Patterns come in a few different flavour in this course. 
 
+The key idea of this course is to start with a simple [Platform Game Template to Remix](https://makecode.com/_FqWD64MxEiRi) and to
+add Game Patterns from a menu of possibilities. 
+There are many ways of thinking about these patterns but in this guide we are dividing them up into the following:
 
 ![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/mech_space_polish_systems.png)
 
@@ -9,6 +11,15 @@ Game Patterns come in a few different flavour in this course.
 - Game Polish: music, backgrounds, graphics and story elements
 - Challenge and Systems: how different elements interact to create challenge
 
+## How to build your own game from the following Game Mechanics
+
+The process of adding to the [Platform Game Template to Remix]() start by playing the game and then clicking Edit Code to get started. 
+Then pick one of the Game Patterns below and follow the instructions to add it to your game. Test it out and when you are happy with it, 
+pick another and keep adding to it. The following tips will help you: 
+
+* Some Patterns need to be added before other ones will work so look at the related Game Patterns section to see if there are other patterns you need to add first
+* Keep records of the links to your published games as you progress in case you get stuck and need to go back one step
+* Have a look at the activities of either the group course or an online individual course to enhance your learning 
 
 ## Game Mechanics to add to your game
 
