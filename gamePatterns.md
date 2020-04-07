@@ -20,8 +20,11 @@ pick another and keep adding to it. The following tips will help you:
 * Some Patterns need to be added before other ones will work so look at the related Game Patterns section to see if there are other patterns you need to add first
 * Keep records of the links to your published games as you progress in case you get stuck and need to go back one step
 * Have a look at the activities of either the group course or an online individual course to enhance your learning 
+* Adding these Game Patterns creates learning not only of [Coding Concepts](learningDimensions#coding-concepts) but also [Wider Computing Patterns and Systems Concepts](learningDimensions#wider-patterns)
 
-## Game Mechanics to add to your game
+## Game Mechanics
+
+Add or change what you do in the game
 
 - [Add Lives (Step by Step on MakeCode Project)](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/addLives) - [Add Lives (Printable Version)](addLivesPrint)
 - [Add Enemies](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/addEnemy)
@@ -31,18 +34,24 @@ pick another and keep adding to it. The following tips will help you:
 - Double Jump
 - Following Enemies
 
-## Game Polish to change the look and feel of the game
+## Game Polish 
+
+Change the look and feel of the game and add to the story
 
 - Add Instructions and Comment between Levels
 - Simple Animation of Enemy
 - Animate Walking of Player
 
-## Change parts of the Game Space
+## Game Space
+
+Change the shape or nature of the playing space of the game. 
 
 - [Add More Levels](moreLevels)
 - Change shape of levels
 
-## Challenge and Systems - Games get harder as you progress to keep your interest
+## Challenge and Systems 
+
+Through challenge and systems, games get harder as you progress to keep your interest.
 
 - Power up for higher jump
 - Have to collect all food before progressing
