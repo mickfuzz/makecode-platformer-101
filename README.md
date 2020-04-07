@@ -71,9 +71,9 @@ put into the background to prioritise a inclusive process. Care has been taken t
 these areas to a manageable amount. 
 
 In addition to these subject related learning dimentions, there are notes on process related learning dimensions outside of subject knowledge
-that may be useful to facilitators and parents. These are included at the following links. 
-* [Design Practices](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts#design-practices): goal setting, creating, testing adn reflecting. 
-* [21st Century Skills](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#21st-century-skills): communication, collaboration, critical thinking and the other one. 
+that may be useful to facilitators and parents. These included:
+* [Design Practices](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts#design-practices): including goal setting, creating, testing adn reflecting
+* [21st Century Skills](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#21st-century-skills): including communication, collaboration, creativity, critical thinking and digital literacies 
 
 ## Where to get started? 
 
@@ -82,4 +82,4 @@ If you want to get started or begin to investigate what is available the followi
 * View the Menu of [Game Patterns](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts) which contains a short intro on how to apply them to the starting game template
 * Get an overall understanding of the starting game template with step-by-step tutorials - [Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne) and [Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
 * Browse the [Group Course contents](https://mickfuzz.github.io/makecode-platformer-101/groupCourse) or start to work your way through the individual online course
-* Check out the potential [Learning Dimensions](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions)
+* Check out the potential [Learning Dimensions](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions) of this project
