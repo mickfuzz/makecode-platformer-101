@@ -14,7 +14,6 @@ deliver the course to a group. You can work through it by yourself. There is als
 ### Identify Game Mechanics
 
 We will start to understand games by playing a few arcade games and starting to look at what makes them tick. 
-
 On entry participants play the following games ( from MakeCode )
 
 * Galaga
@@ -43,7 +42,6 @@ Now we will start coding by jumping right in. Try to play the following game. It
 
 At the end of the session make sure to Publish a copy of your game and to give it your own name. 
 Keep a record of the link to your game. We'll come back to it next week. 
-
 
 ### Reflection on Session One
 
@@ -98,8 +96,8 @@ Additionally as a bonus can you see any of the following:
 * Logic
 * Events
 
-#### Step by Step Tutorials for the pLanners out there
-So if you are a planner then you may want to take the time to work your way through these tutorials. 
+#### Step by Step Tutorials for the Planners out there
+If you are a planner then you may want to take the time to work your way through these tutorials. 
 If not jump right on to the next section. 
 
 - [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)
@@ -107,18 +105,11 @@ If not jump right on to the next section.
 
 ### Goal Setting and Getting Cracking Making our Game
 
-You are now going to meet the game we are going to adapt to create our challenging game. In part one we made changes to a broken game. We are now going to start from stratch with a similar template which is here. One key element of this game that is different, there is only one Level. 
-- [Platform Game to Remix](https://makecode.com/_FqWD64MxEiRi)
+#### Adding Game Patterns to a Starting Template
 
-There are different elements we can add to out game or change about our game. Each change may be small but may make big changes for the 
-the person playing it. You are now going to get cracking with your game making. At the end of this session we'll do some play testing of our games. 
-
-#### Using Game Patterns:
-Game Patterns are the kind of features that we might find in many games. For example a common pattern 
-you may know is that when you finish one level of a game you progress to the next level. Having a game with level is a game pattern.
-
-Another fun way is to keep adding in different game patterns. There are many ways of thinking about these patterns
-but in this guide we are dividing them up into the following:
+In part one we made changes by adding features called [Game Patterns](gamePatterns) to a broken game. We are now going to start from stratch with a similar [Platform Game Template to Remix](https://makecode.com/_FqWD64MxEiRi). It is a bit
+simpler, for example there is only one level and you don't have to collect all food before winning. 
+There are many ways of thinking about these patterns but in this guide we are dividing them up into the following:
 
 ![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/mech_space_polish_systems.png)
 
@@ -127,13 +118,15 @@ but in this guide we are dividing them up into the following:
 - Game Polish: music, backgrounds, graphics and story elements
 - Challenge and Systems: how different elements interact to create challenge
 
+Find a fuller list of the different [Game Patterns and how to apply them on this Page](gamePatterns).
+
 #### Starting our Creative Design Sessions
 
 The sessions are informal and different participants will be doing different things at different times. 
 However there is a general pattern to help organise the chaos of our game making sessions. 
 The sessions are based around the following pattern. 
 
-***Set Goals***  Have a look at the list of the different Game Patterns. Each Game Pattern has it's own page. 
+***Set Goals***  Have a look at the list of the different [Game Patterns](gamePatterns). Each Game Pattern has it's own page. 
 with descriptions of the patterns and details of how to add it to your platform game. 
 For now choose 2 patterns to add to your game. Choose at least one that you think will be quick to implement. 
 We will add them to our game before the end of the session. Fill out the Goal Setting sheet. ( Create this sheet ) 
