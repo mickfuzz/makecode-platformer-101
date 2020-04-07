@@ -29,10 +29,9 @@ This course uses MakeCode Arcade as its tool. There are several advantages to th
 
 ![a hand held device](/images/makecode_handheld.jpg)
 
-The shape of this course could be applied to any game making platform. In fact there are similar courses available see Game Making with Phaser (Javascript) and Making Serious Games in Scratch
+The shape of this course could be applied to any game making platform. In fact there are similar courses available see [Phaser Game Making (Javascript)](https://en.flossmanuals.net/phaser-game-making-in-glitch/_full/) and [Making Serious Games in Scratch](https://mouse.org/seriousgames)
 
 ## Ideas behind this Course
-
 This ethos of this course is broadly in-line with concepts of Project Based Learning. More specifically here's how some of those ideas
 come into focus with this material. 
 
@@ -54,12 +53,12 @@ although it priorities opportunities for more messy approaches to learning.
 ### Starting with the Familiar, Zoom into Detail, Zoom out to Wider Patterns
 
 The starting point for participants of this course are the [Game Patterns](https://mickfuzz.github.io/makecode-platformer-101/gamePatterns) of a platform game which are likely to be familiar to them from exposure to family oriented video consoles or mobile games. 
-Through the process of adding these patterns to their games, participants will come into contact with [Coding Concepts](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts) needed to 
+Through the process of adding these patterns to their games, participants will come into contact with [Coding Concepts](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#coding-concepts) needed to 
 enact these features using the specific tools of the MakeCode system. In this way the **Zoom into the Detail** needed to make ideas into
 reality. 
 
 In the same process course participants also have the chance to connect the more immediate learning in the context of games to 
-[Wider Patterns of Computing and Systems](https://mickfuzz.github.io/makecode-platformer-101/widerPatterns). 
+[Wider Patterns of Computing and Systems](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#wider-patterns). 
 While this is not explicitly taught, parents and facilitators **Zoom out** to  point out how the concepts and patterns in Games can be 
 applied in other fields, for example those of Interactive Media Design and Systems Thinking. 
 
@@ -74,12 +73,13 @@ these areas to a manageable amount.
 In addition to these subject related learning dimentions, there are notes on process related learning dimensions outside of subject knowledge
 that may be useful to facilitators and parents. These are included at the following links. 
 * [Design Practices](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts#design-practices): goal setting, creating, testing adn reflecting. 
-* [21st Century Skills](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts#design-practices): communication, collaboration, critical thinking and the other one. 
+* [21st Century Skills](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#21st-century-skills): communication, collaboration, critical thinking and the other one. 
 
 ## Where to get started? 
 
 If you want to get started or begin to investigate what is available the following links will help you. 
 
 * View the Menu of [Game Patterns](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts) which contains a short intro on how to apply them to the starting game template
+* Get an overall understanding of the starting game template with step-by-step tutorials - [Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne) and [Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
 * Browse the [Group Course contents](https://mickfuzz.github.io/makecode-platformer-101/groupCourse) or start to work your way through the individual online course
-* get an overall understanding of the starting game template with step-by-step tutorials - [Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne) and [Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
+* Check out the potential [Learning Dimensions](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions)
