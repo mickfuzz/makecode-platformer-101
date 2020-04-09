@@ -38,22 +38,28 @@ Add or change what you do in the game
 
 Change the look and feel of the game and add to the story
 
-- Add Instructions and Comment between Levels
+- Add Graphical Effects
+- Add Sound Effects
+- Add a Game Story with Messages
 - Simple Animation of Enemy
-- Animate Walking of Player
+- Animate your Player's Movements
 
 ## Game Space
 
 Change the shape or nature of the playing space of the game. 
 
 - [Add More Levels](moreLevels)
-- Change shape of levels
+- Change Shape of Levels
+- Change the Background Image
+- Keys and Door
 
 ## Challenge and Systems 
 
 Through challenge and systems, games get harder as you progress to keep your interest.
 
-- Have to collect all food before progressing
-- Key and door
+- Collect all Food before Progressing
 - Power up - Higher Jump
-- Power up Player Speed
+- Power up - Player Speed
+- Randomly Spawning Enemies
+- Add a Sprinting Level
+- Enemies Double in Number Regularly
