@@ -6,10 +6,10 @@ There are many ways of thinking about these patterns but in this guide we are di
 
 ![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/mech_space_polish_systems.png)
 
-- Game Mechanics:  things to do with the actions of the game
-- Game Space: things to do with the layout of the game
-- Game Polish: music, backgrounds, graphics and story elements
-- Challenge and Systems: how different elements interact to create challenge
+- [Game Mechanics:](#game-mechanics)  things to do with the actions of the game
+- [Game Space:](#game-space) things to do with the layout of the game
+- [Game Polish:](#game-polish) music, backgrounds, graphics and story elements
+- [Challenge and Systems:](#challenge-and-systems) how different elements interact to create challenge
 
 ## How to build your own game from the following Game Mechanics
 
@@ -53,6 +53,7 @@ Change the shape or nature of the playing space of the game.
 
 Through challenge and systems, games get harder as you progress to keep your interest.
 
-- Power up for higher jump
 - Have to collect all food before progressing
 - Key and door
+- Power up - Higher Jump
+- Power up Player Speed
