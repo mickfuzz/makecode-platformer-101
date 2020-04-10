@@ -18,6 +18,8 @@ no effect.
 * **Need for Pattern:** Having a double jump is a way of allowing the player to access areas not possible with a single jump. Double Jumps
 also require good timing from the player too so this can increase challenge depending on the design of your game. 
 
+* **Related Game Patterns:** Jumping on Enemies [related] 
+
 * **Coding Concepts involved:** [Data](codingConcepts#data), [Change Listener](widerPatterns#change-listener)
 
 * **Links to other Computing Patterns:** [Systems Dynamics](widerPatterns#systems-dynamics),
