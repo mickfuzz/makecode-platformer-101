@@ -1,14 +1,10 @@
 # Remixing a Platformer Game - Add a Static Enemy
 
-## Add a Static Enemy
-
-### Introduction
-
 In this tutorial we will **add a static enemy** to our platformer.
 If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/makecode-platformer-101)
  to create the game step by step.
 
-#### About this Game Pattern
+## About this Game Pattern
 
 This game pattern is one of many you can add to your Platformer in this course.
 
@@ -26,48 +22,51 @@ This game pattern is one of many you can add to your Platformer in this course.
 
 * **Links to other Computing Patterns:** , [Change Listener](learningDimensions#change-listener), [Input Event](learningDimensions#input-event)  
 
+## How to implement this Pattern in MakeCode
 
-## Putting the Pattern into Practice
 ### We add enemies like we add food.
 We add ememies like we add food to the game. Following this tutorial will add static enemies to your game.
 Click on the tilemap image for your first level. Create a totally Red tile in **My Tiles**.
 Add one or two red blocks to your first level.  
 
-### We add enemies like we add food.
-We use a ``||loops:for||`` loop (to save time) that turns all the yellow squares in a tile map into a sprite of kind Food.
+### Looping through the tilemap squares 
+We use a **for loop** (to save time) that turns all the yellow squares in a tile map into a sprite of kind Food.
 Find the following loop in the code.
 
-### We add enemies like we add food.
-For first line here reads ``||loops:for element value of array of all...||``
-it contains a value and a list. The loop keeps running until it runs out of a values in the list.
+For first line here reads **for element value of array of all...**
+This line contains a value and a list. The loop keeps running until it runs out of a values in the list.
 This means it will create one item of Food for every yellow block.
-Duplicate this code block. Drop the copied loop back into the function after the original one.
+Duplicate this code block. 
 
 ![Duplicate loop ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-add-an-enemy/master/images/duplicate_loop_ae_1.png)
 
-### We add enemies like we add food.
+Drop the copied loop back into the function after the original one.
 
-Now change the values of content of this ``||loops:for loop||``. Change the yellow square to a red one.
-Change the name of ``||variables:strawberry||`` for the two blocks for it to mentioned. I'll choose ``||variables:snake||`` and change the image too.
+### Change the values for our loop to create enemies
+
+Now change the values of content of this **for loop**. Change the yellow square to a red one.
+Change the name of **strawberry** for the two blocks for it to mentioned. I'll choose variable **snake** and  
+I'll change change the image too.
 Check your code with the example below.
 
 ### Create a Collision Listener
 
-We now code what happens when our player overlaps with the enemy ``||variables:snake||``.
+We now code what happens when our player overlaps with the enemy our **snake**.
 Drag in an on player overlap with block from Sprites. Set the second value to be Enemy.
-Inside the block drag in from Game block of ``||game:game over||`` and keep it set to **Lose**.
+Inside the block drag in from Game block of **game over** and keep it set to **Lose**.
 
 ## Test your game and Next Steps
 
-**This tutorial is now complete.**
-
-You can test your game to check that each time you add in a red block in your level tilemaps an enemy appears
+Test your game to check that your changes have the desired behaviour and that there are no side effects.
+In this case check that each time you add in a red block in your level tilemaps an enemy appears
 and that when you touch the enemy the game ends with a Game Over message.
 
-You can really have a lot of fun with static enemies by putting them in places that make it tricky for your player when
-they jump etc. 
+To check that you are making the most of this pattern you can ask yourself the following questions:
 
-When you are done self-testing and playtesting you return to the menu of [Game Patterns](gamePatterns) to choose another to add to your game.
+* Do you have any enemies in places that make it tricky for your player when they jump. 
+
+This Game Pattern is one of many allowing you to make improvements to your platform game and to learn coding and wider computing concepts. 
+Find more on the [Game Pattern page](gamePatterns.md). 
 
 As a next step you may find you want to increase the challenge even more perhaps by adding moving enemies. Or you may find
 that you want to balance out the increase of challenge that these hazards have brought and add player lives.
