@@ -14,6 +14,8 @@ If you want to understand more about how the starting code of the template works
 
 * **Need for Pattern:** Having a **pattern name** is a way of ... 
 
+* **Related Game Patterns:** Add Static Enemy [needed before adding this one], Jumping on Enemies [related] 
+
 * **Coding Concepts involved:** [Data](codingConcepts#data), [Change Listener](widerPatterns#change-listener)
 
 * **Links to other Computing Patterns:** [Systems Dynamics](widerPatterns#systems-dynamics)
