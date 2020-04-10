@@ -26,12 +26,11 @@ pick another and keep adding to it. The following tips will help you:
 
 Add or change what you do in the game
 
-- [Add Lives (Step by Step on MakeCode Project)](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/addLives) - [Add Lives (Printable Version)](addLivesPrint)
-- [Add Enemies](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/addEnemy)
-- Add a Timer
-- Jump on Enemy to zap
-- Moving Enemy
-- Double Jump
+- [Add Player Lives](addLives)
+- [Add Static Enemies](addEnemy)
+- [Jump on Enemy to Zap them](jumpOnEnemies)  
+- Moving Enemies
+- [Double Jump](doubleJump)
 - Following Enemies
 
 ## Game Polish 
@@ -57,6 +56,7 @@ Change the shape or nature of the playing space of the game.
 
 Through challenge and systems, games get harder as you progress to keep your interest.
 
+- [Add a Timer](addTimer)
 - Collect all Food before Progressing
 - Power up - Higher Jump
 - Power up - Player Speed
