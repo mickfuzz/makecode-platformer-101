@@ -20,8 +20,7 @@ This game pattern is one of many you can add to your Platformer in this course.
 
 * **Need for Pattern:** Having hazards increases the challenge of a level, you can place hazards in a way that requires the player to time their jumps well and really control their movement.
 
-* **Related Game Patterns:** After adding this static enemy you may want to **add moving enemies** or let your player
-**jump on enemies**.
+* **Related Game Patterns:** Add Moving Enemies [related], Jump on Enemies [related]
 
 * **Coding Concepts involved:** [Loops](learningDimensions#loops), [Events](learningDimensions#events)
 
