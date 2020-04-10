@@ -6,7 +6,7 @@ If you want to understand more about how the starting code of the template works
 
 ## About this Game Pattern
 
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gameMechanics_timer.jpg)
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/game-mechanics_timer.png)
 
 * **Name:** Add a Timer
 
@@ -19,7 +19,7 @@ level you can reduce the time allowed for the next level to increase the challen
 
 * **Coding Concepts involved:** [Data](codingConcepts#data)
 
-* **Links to other Computing Patterns:** [Systems Dynamics](widerPatterns#systems-dynamics)
+* **Links to other Computing Patterns:** [Systems Dynamics](learningDimensions#systems-dynamics), [Making Functions](learningDimensions#systems-dynamics)
 
 ## How to implement this Pattern in MakeCode
 
