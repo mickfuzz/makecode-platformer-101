@@ -16,9 +16,9 @@ If you want to understand more about how the starting code of the template works
 
 * **Related Game Patterns:** Add Static Enemy [needed before adding this one], Jumping on Enemies [related] 
 
-* **Coding Concepts involved:** [Data](codingConcepts#data), [Change Listener](widerPatterns#change-listener)
+* **Coding Concepts involved:** [Data](learningDimensions#data), [Loops](learningDimensions#loops), [Events](learningDimensions#events)
 
-* **Links to other Computing Patterns:** [Systems Dynamics](widerPatterns#systems-dynamics)
+* **Links to other Computing Patterns:** , [Change Listener](learningDimensions#change-listener), [Input Event](learningDimensions#input-event), [Systems Dynamics](learningDimensions#systems-dynamics)  
 
 ## How to implement this Pattern in MakeCode
 
