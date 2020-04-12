@@ -56,7 +56,7 @@ We now code what happens when our player overlaps with the enemy our **staticEne
 Drag in an on player overlap with block from Sprites. Set the second value to be **Enemy**.
 Inside the block drag in from Game block of **game over** and keep it set to **Lose**.
 
-![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-add-an-enemy/master/images/addStaticEnemy2.png)
+![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-add-an-enemy/master/images/addStaticEnemy3.png)
 
 
 ## Test your game and Next Steps
