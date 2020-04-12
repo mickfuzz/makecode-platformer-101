@@ -34,10 +34,13 @@ We alter our static enemies to animate them. To allow us to do this  go to  **Ad
 ![animated enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/animatedEnemies2.jpg)
 
 We can now drag in an animate block which has an animation effect on it. Alter it so it matches the one below in our 
-**for each element** loop so that it applies to all Enemies.
+**for each element** loop so that it applies to all Enemies. I change the type of animate from the drop down menu to use the 
+simple bobbing in place animation.
 
 ![animated enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/animatedEnemies3.jpg)
 
+You can see here that for simplicity's sake I've have not changed the variable name of staticEnemy. But you can change it or create a 
+new variable if you want to. 
 
 ## Test your Changes and Next Steps
 
@@ -45,11 +48,14 @@ Test your game to check that your changes have the desired behaviour and that th
 
 To check that you are making the most of this pattern you can ask yourself the following questions:
 
-* Are your blocks placed in the right place to make sure you enemies patrol in the right places
-* Can place patrolling enemies towards the end of your game in a way that makes it tricky to get past them?
+* Are there other types of animations that suit your game. 
+* Where can you place the animated enemies to maximise the challenge to your game.
 
 This Game Pattern is one of many allowing you to make improvements to your platform game and to learn coding and wider computing concepts.
 Find more on the [Game Pattern page](gamePatterns.md).
 
-This pattern may make your game much more challenging. To balance it out a potential next step may be to
-add the Jump on Enemies pattern to your game if you haven't already.
+In this pattern we replace our static enemies with animated enemies. If you want to have both kinds of enemies then you can do this
+by following the patterns shown in the **[add a patrolling enemy](movingEnemiesPatrolling)** tutorial. 
+
+Also this pattern may make your game much more challenging. To balance it out a potential next step may be to
+add the **[jump on enemies](jumpOnEnemies)** pattern to your game if you haven't already.
