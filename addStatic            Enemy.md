@@ -33,24 +33,22 @@ Add one or two red blocks to your first level.
 
 
 ### Looping through the tilemap squares 
-We use a **for loop** (to save time) that turns all the yellow squares in a tile map into a sprite of kind Food.
-Find the following loop in the code.
-
 For first line here reads **for element value of array of all...**
 This line contains a value and a list. The loop keeps running until it runs out of a values in the list.
-This means it will create one item of Food for every yellow block.
-Duplicate this code block. 
-
+In this case create one item of Food for every yellow block. 
+### Duplicate the Food Loop
+Duplicate this loop section. 
 ![Duplicate loop ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-add-an-enemy/master/images/duplicate_loop_ae_1.png)
-
-Drop the copied loop back into the function after the original one.
+Now we will change the **for loop** will turn the red squares in a tile map into a sprite of kind of Enemy.
 
 ### Change the values for our loop to create enemies
 
-Now change the values of content of this **for loop**. Change the yellow square to a red one.
-Change the name of **strawberry** for the two blocks for it to mentioned. I'll choose to create a new variable 
-called **staticEnemy** and I'll change change the image too.
+Drop the copied loop back into the function after the original one.Change the values of content of this **for loop**. 
+Change the yellow square to a red one.Change the name of **food1** for the two blocks for it to mentioned. 
+I'll choose to create a new variable called **staticEnemy** and change the image too this time to snake.
+
 Check your code with the example below.
+![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-add-an-enemy/master/images/addStaticEnemy2.png)
 
 ### Create a Collision Listener
 
