@@ -35,7 +35,7 @@ To do this duplicate the  **for element** loop inside your **create level** func
 As with static enemeies, we need to edit out tilemap and add a new colour of tlle to our tilemap and place one in a location
 where it can bump between walls. 
 
-![Change loop elememts1](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addMovingEnemy1.png)
+![add another tile](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addMovingEnemy1.png)
 
 First of all let’s change our type to be a Bumper instead of an Enemy. To do this we’ll have to make a new kind of sprite.
 
@@ -44,7 +44,7 @@ First of all let’s change our type to be a Bumper instead of an Enemy. To do t
 When this is done you can select it from the lists.
 We will also set our enemy heading off in a left or right direction. Set the velocity of our moving enemy to 50 (moving right) or -50 (moving left) 
 
-![Change loop elememts1](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addMovingEnemy2.png)
+![Change loop elements1](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addMovingEnemy2.png)
 
 Then we need to make our bumper enemy change direction when it hits a wall block. You can do this by copying the following block.
 You can see the green block is a familiar pattern where we loop through all the sprites of a particular type in this case.   
