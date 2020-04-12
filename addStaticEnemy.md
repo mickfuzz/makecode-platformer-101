@@ -48,7 +48,7 @@ Change the yellow square to a red one.Change the name of **food1** for the two b
 I'll choose to create a new variable called **staticEnemy** and change the image too this time to snake.
 
 Check your code with the example below.
-![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-add-an-enemy/master/images/addStaticEnemy2.png)
+![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy2.png)
 
 ### Create a Collision Listener
 
@@ -56,7 +56,7 @@ We now code what happens when our player overlaps with the enemy our **staticEne
 Drag in an on player overlap with block from Sprites. Set the second value to be **Enemy**.
 Inside the block drag in from Game block of **game over** and keep it set to **Lose**.
 
-![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-add-an-enemy/master/images/addStaticEnemy3.png)
+![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy3.png)
 
 
 ## Test your game and Next Steps
