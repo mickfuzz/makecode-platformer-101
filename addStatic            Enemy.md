@@ -8,7 +8,7 @@ If you want to understand more about how the starting code of the template works
 
 This game pattern is one of many you can add to your Platformer in this course.
 
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gamemechanic_extralives_800.png)
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gamemechanic_extralives_800.png)
 
 * **Name:** Add a Static Enemy
 
@@ -29,7 +29,7 @@ We add ememies like we add food to the game. Following this tutorial will add st
 Click on the tilemap image for your first level. Create a totally Red tile in **My Tiles**.
 Add one or two red blocks to your first level.  
 
-![Add Red Blocks](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-add-an-enemy/master/images/addStaticEnemy.png)
+![Add Red Blocks](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy.png)
 
 
 ### Looping through the tilemap squares 
@@ -38,7 +38,7 @@ This line contains a value and a list. The loop keeps running until it runs out 
 In this case create one item of Food for every yellow block. 
 ### Duplicate the Food Loop
 Duplicate this loop section. 
-![Duplicate loop ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-add-an-enemy/master/images/duplicate_loop_ae_1.png)
+![Duplicate loop ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/duplicate_loop_ae_1.png)
 Now we will change the **for loop** will turn the red squares in a tile map into a sprite of kind of Enemy.
 
 ### Change the values for our loop to create enemies
