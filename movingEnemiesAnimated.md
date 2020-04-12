@@ -6,7 +6,7 @@ If you want to understand more about how the starting code of the template works
 
 ## About this Game Pattern
 
-![ moving enemies image](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gameMechanics_moving_enemies.jpg)
+![ moving enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_moving_enemies.jpg)
 
 * **Name:** Moving Enemies Animated
 
@@ -28,7 +28,16 @@ It also gives a sense of movement and excitement to the game.
 We can add a bit more challenge to our game by making otherwise static enemies move around a fixed point using animation. 
 This tutorial assumes you have already added a static enemy pattern. 
 
-We alter our static enemies to animate them. 
+We alter our static enemies to animate them. To allow us to do this  go to  **Advanced > + Extensions > Add Animation**
+
+![animated enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/animatedEnemies1.jpg)
+![animated enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/animatedEnemies2.jpg)
+
+We can now drag in an animate block which has an animation effect on it. Alter it so it matches the one below in our 
+**for each element** loop so that it applies to all Enemies.
+
+![animated enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/animatedEnemies3.jpg)
+
 
 ## Test your Changes and Next Steps
 
