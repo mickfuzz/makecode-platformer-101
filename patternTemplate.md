@@ -6,7 +6,7 @@ If you want to understand more about how the starting code of the template works
 
 ## About this Game Pattern
 
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gameMechanics_more_levels.jpg)
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_more_levels.jpg)
 
 * **Name:** Pattern Name
 
