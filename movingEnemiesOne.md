@@ -46,6 +46,12 @@ We will also set our enemy heading off in a left or right direction. Set the vel
 
 ![Change loop elements1](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addMovingEnemy2.png)
 
+We need to set a Collision Listener so that the game is over if the player touches our moving enemy so create a Listener block 
+as below. 
+![Game over elements](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addMovingEnemy3.png)
+
+
+
 Then we need to make our bumper enemy change direction when it hits a wall block. You can do this by copying the following block.
 You can see the green block is a familiar pattern where we loop through all the sprites of a particular type in this case.   
 
