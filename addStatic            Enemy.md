@@ -29,6 +29,9 @@ We add ememies like we add food to the game. Following this tutorial will add st
 Click on the tilemap image for your first level. Create a totally Red tile in **My Tiles**.
 Add one or two red blocks to your first level.  
 
+![Add Red Blocks](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-add-an-enemy/master/images/addStaticEnemy.png)
+
+
 ### Looping through the tilemap squares 
 We use a **for loop** (to save time) that turns all the yellow squares in a tile map into a sprite of kind Food.
 Find the following loop in the code.
@@ -45,13 +48,13 @@ Drop the copied loop back into the function after the original one.
 ### Change the values for our loop to create enemies
 
 Now change the values of content of this **for loop**. Change the yellow square to a red one.
-Change the name of **strawberry** for the two blocks for it to mentioned. I'll choose variable **snake** and  
-I'll change change the image too.
+Change the name of **strawberry** for the two blocks for it to mentioned. I'll choose to create a new variable 
+called **staticEnemy** and I'll change change the image too.
 Check your code with the example below.
 
 ### Create a Collision Listener
 
-We now code what happens when our player overlaps with the enemy our **snake**.
+We now code what happens when our player overlaps with the enemy our **staticEnemy**.
 Drag in an on player overlap with block from Sprites. Set the second value to be Enemy.
 Inside the block drag in from Game block of **game over** and keep it set to **Lose**.
 
