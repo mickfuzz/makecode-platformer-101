@@ -30,14 +30,14 @@ This tutorial assumes you have already added a static enemy pattern.
 
 We alter our static enemies to animate them. To allow us to do this  go to  **Advanced > + Extensions > Add Animation**
 
-![animated enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/animatedEnemies1.png)
-![animated enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/animatedEnemies2.png)
+![animated enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addAnimatedEnemy1.png)
+![animated enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addAnimatedEnemy2.png)
 
 We can now drag in an animate block which has an animation effect on it. Alter it so it matches the one below in our 
 **for each element** loop so that it applies to all Enemies. I change the type of animate from the drop down menu to use the 
 simple bobbing in place animation.
 
-![animated enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/animatedEnemies3.png)
+![animated enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addAnimatedEnemy3.png)
 
 You can see here that for simplicity's sake I've have not changed the variable name of staticEnemy. But you can change it or create a 
 new variable if you want to. 
