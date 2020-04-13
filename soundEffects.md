@@ -30,14 +30,14 @@ Click on the plus sign next to the **destroy otherSprite** block and you can cho
 sprite when the Food gets collected and how soon that effect happens. In the block below the confetti effects happens very quickly
 after the Food is touched. 
 
-![Sound Effect Food Collection](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/soundEffects1.png)
+![Sound Effect Food Collection](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/soundEffect1.png)
 
 ### Sound Effect for Enemy getting Zapped
 
 This requires you to have added the Jumping on Enemies pattern. In the **on sprite of kind Player overlaps otherSprite of kind Enemy**
 condition listener loop add a block which plays a sound effect. You can experiment to see which one you like best.  
 
-![Sound Effect Enemy getting Zapped](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/soundEffects2.png)
+![Sound Effect Enemy getting Zapped](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/soundEffect2.png)
 
 ## Test your Changes and Next Steps
 
