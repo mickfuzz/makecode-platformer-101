@@ -38,9 +38,9 @@ Add or change what you do in the game
 
 Change the look and feel of the game and add to the story
 
-- Add Graphical Effects
-- Add Sound Effects
-- Add a Game Story with Messages
+- [Add Graphical Effects](simpleGraphicalEffects)
+- [Add Sound Effects](soundEffects)
+- [Add a Game Story with Messages](addMessages)
 - Animate your Player's Movements
 - [Make Player Immune](makePlayerImmune)
 
