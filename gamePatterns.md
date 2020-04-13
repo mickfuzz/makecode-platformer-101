@@ -27,11 +27,12 @@ pick another and keep adding to it. The following tips will help you:
 Add or change what you do in the game
 
 - [Add Player Lives](addLives)
-- [Add Static Enemies](addEnemy)
+- [Add Static Enemies](addStaticEnemy)
 - [Jump on Enemy to Zap them](jumpOnEnemies)  
-- Moving Enemies
 - [Double Jump](doubleJump)
-- Following Enemies
+- [Moving / Animated Enemies](movingEnemiesAnimated)
+- [Moving / Patrolling Enemies](movingEnemiesPatrolling)
+- [Moving / Following Enemies](movingEnemiesFollowing)
 
 ## Game Polish 
 
@@ -40,7 +41,6 @@ Change the look and feel of the game and add to the story
 - Add Graphical Effects
 - Add Sound Effects
 - Add a Game Story with Messages
-- Simple Animation of Enemy
 - Animate your Player's Movements
 
 ## Game Space
