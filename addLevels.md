@@ -72,4 +72,12 @@ We will replace it with code that changes the level number and builds a new leve
 
 ### Code what happens when we complete a level
 In the **on sprite of kind Player overlaps Door** listener block add a **change level by 1** block.
-Next add a **set mySpr
+Next add a **set mySprite**
+
+## Test your Changes and Next Steps
+
+Test your game to check that your changes have the desired behaviour and that there are no side effects.
+For example check that each time you touch the end goal you progress by a level and the design matches.
+
+This Game Pattern is one of many allowing you to make improvements to your platform game and to learn coding and wider computing concepts.
+Find more on the [Game Pattern page](gamePatterns.md).
