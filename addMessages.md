@@ -16,7 +16,6 @@ If you want to understand more about how the starting code of the template works
 them clues as they progress or just making the game more fun to play. 
 
 * **Related Game Patterns:** Add Graphical Elements [related] 
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/a.jpg)
 
 * **Coding Concepts involved:** [Data](learningDimensions#data), [Events](learningDimensions#events)
 
