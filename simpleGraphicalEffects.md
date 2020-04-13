@@ -24,8 +24,23 @@ feedback on what happens in the game.
 
 ## How to implement this Pattern in MakeCode
 
-### Step by Step instructions
-Step by Step instructions.
+### Animate Food Collection
+
+Click on the plus sign next to the **destroy otherSprite** block and you can choose from many effects that happen to your 
+sprite when the Food gets collected and how soon that effect happens. In the block below the confetti effects happens very quickly
+after the Food is touched. 
+
+![Animate Food Collection](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/graphicalEffects1.png)
+
+### Animate Enemy getting Zapped
+
+This requires you to have added the Jumping on Enemies pattern. In the **on sprite of kind Player overlaps otherSprite of kind Enemy**
+condition listener loop click on the plus sign to the **destroy otherSprite** block and you can choose from many effects that happen to your 
+sprite when the Food gets collected and how soon that effect happens. 
+
+![Animate Enemy getting Zapped](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/graphicalEffects1.png)
+
+
 
 ## Test your Changes and Next Steps
 
