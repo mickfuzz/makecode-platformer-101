@@ -12,7 +12,7 @@ If you want to understand more about how the starting code of the template works
 
 This game pattern is one of many you can add to your Platformer in this course.
 
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gamemechanic_extralives_800.png)
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gamemechanic_extralives_800.png)
 
 * **Name:** Add Player Lives
 
@@ -34,16 +34,23 @@ We can add in the starting number of lives.
 To do this drag in from **Info** a  **set lives to 3** block to the
 beginning of the on start loop.
 
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addLives.png)
+
 ### Change the overlap loop for our Enemy
 In this game previously the player overlapping with an Enemy would be Game Over with the player losing.
 Now let's change to replace the Game Over lose block with a **change lives by -1** block
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addLives2.png)
 
 
-## Test your game and Next Steps
-### Test your game and Next Steps
-**This tutorial is now complete.**
+## Test your Changes and Next Steps
 
-You can test your game to check that each time you touch an enemy your number of lives
-goes down by one.
+Test your game to check that your changes have the desired behaviour and that there are no side effects. 
+For example check that each time you touch an enemy your number of lives goes down by one.
 
-This tutorial is one of many allowing you add different Game Element on the home page of this Platformer Making Course.
+There is a known side effect with some kinds of enemies where you lose more thatn one life. To avoid this you may need to 
+**[add Player Immunity](addPlayerImmunity)** pattern
+
+This Game Pattern is one of many allowing you to make improvements to your platform game and to learn coding and wider computing concepts. 
+Find more on the [Game Pattern page](gamePatterns.md). 
+
+          
