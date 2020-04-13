@@ -30,7 +30,7 @@ Click on the plus sign next to the **destroy otherSprite** block and you can cho
 sprite when the Food gets collected and how soon that effect happens. In the block below the confetti effects happens very quickly
 after the Food is touched. 
 
-![Animate Food Collection](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/graphicalEffects1.png)
+![Animate Food Collection](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/graphicalEffect1.png)
 
 ### Animate Enemy getting Zapped
 
@@ -38,7 +38,7 @@ This requires you to have added the Jumping on Enemies pattern. In the **on spri
 condition listener loop click on the plus sign to the **destroy otherSprite** block and you can choose from many effects that happen to your 
 sprite when the Food gets collected and how soon that effect happens. 
 
-![Animate Enemy getting Zapped](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/graphicalEffects2.png)
+![Animate Enemy getting Zapped](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/graphicalEffect2.png)
 
 
 ## Test your Changes and Next Steps
