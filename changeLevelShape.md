@@ -42,15 +42,14 @@ second value (the height) much higher than first value (the width)
 
 If you want your player to start at the bottom then you'll need to change your starting position. You may need to do some maths.
 The position is in pixels. If each square on the tilemap is 16 pixels and it is 40 squares high then the screen will be 40 x 16 pixels
-high. You can set your player position based on that. 
+high. You can set your player position based on that.
 
 ## Test your Changes and Next Steps
 
 Test your game to check that your changes have the desired behaviour and that there are no side effects. For example,  
 you can ask yourself the following questions:
 
-* Check your messages aren't too long and disappear of the side of the screen
-* Check that the messages appear in the right place
+* Check your levels aren't too long and therefore feel boring
 
 This Game Pattern is one of many allowing you to make improvements to your platform game and to learn coding and wider computing concepts.
 Find more on the [Game Pattern page](gamePatterns.md).
