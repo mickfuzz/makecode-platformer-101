@@ -36,7 +36,7 @@ To do this we will check the Player's x axis velocity. As the numbers are measur
 
 Check if that’s true using the code blocks below, and if that isn’t the case then set the game to game over. 
 
-![Jumping on Enemies to Zap them](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/jumpOnEnemies1.jpg)
+![Jumping on Enemies to Zap them](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/jumpOnEnemies1.jpg)
 
 The blocks in the **else** section may be different for example if you are using player lives, you will want your player to lose a life instead. 
 
