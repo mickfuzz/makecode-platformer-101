@@ -38,8 +38,7 @@ This requires you to have added the Jumping on Enemies pattern. In the **on spri
 condition listener loop click on the plus sign to the **destroy otherSprite** block and you can choose from many effects that happen to your 
 sprite when the Food gets collected and how soon that effect happens. 
 
-![Animate Enemy getting Zapped](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/graphicalEffects1.png)
-
+![Animate Enemy getting Zapped](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/graphicalEffects2.png)
 
 
 ## Test your Changes and Next Steps
