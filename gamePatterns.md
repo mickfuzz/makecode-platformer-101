@@ -42,6 +42,7 @@ Change the look and feel of the game and add to the story
 - Add Sound Effects
 - Add a Game Story with Messages
 - Animate your Player's Movements
+- [Make Player Immune](makePlayerImmune)
 
 ## Game Space
 
