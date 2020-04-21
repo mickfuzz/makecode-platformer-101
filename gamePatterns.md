@@ -38,6 +38,7 @@ Add or change what you do in the game
 
 Change the look and feel of the game and add to the story
 
+- [Gain Points when Collecting Food](collectPoints)
 - [Add Graphical Effects](simpleGraphicalEffects)
 - [Add Sound Effects](soundEffects)
 - [Add a Game Story with Messages](addMessages)
@@ -51,14 +52,14 @@ Change the shape or nature of the playing space of the game.
 - [Add More Levels](moreLevels)
 - [Change Shape of Levels](changeLevelShape)
 - [Change the Background Image](changeBackgroundImage)
-- [Key and Door](keyDoor)
+- [Key and Door](keyAndDoor)
 
 ## Challenge and Systems 
 
 Through challenge and systems, games get harder as you progress to keep your interest.
 
 - [Add a Timer](addTimer)
-- Collect all Food before Progressing
+- [Collect all Food before Progressing](collectAllFood)
 - Power up - Higher Jump
 - Power up - Player Speed
 - Randomly Spawning Enemies
