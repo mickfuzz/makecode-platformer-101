@@ -29,7 +29,10 @@ We will create a simple animation using different frames of our player.
 To allow us to do this  go to  **Advanced > + Extensions > Add Animation**
 Drag in the animation block that you see below.
 
-![simple animation](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/animatedPlayer.png)
+![simple animation](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addAnimatedPlayer1.png)
+
+Click on the frames image to change the different frames of your animation, then interval
+to update how quickly the frames update and finally turn loop on so the animation keeps running. 
 
 ### Animated Walking and Jumping using Animation States
 See the following https://makecode.com/_ecqJXwWrpJXw
@@ -66,7 +69,7 @@ Test your game to check that your changes have the desired behaviour and that th
 To check that you are making the most of this pattern you can ask yourself the following questions:
 
 * Is your animation smooth? Do you need to add more frames?
-* Do you want to add more states for jumping? 
+* Do you want to add more states for jumping?
 
 This Game Pattern is one of many allowing you to make improvements to your platform game and to learn coding and wider computing concepts.
 Find more on the [Game Pattern page](gamePatterns.md).
