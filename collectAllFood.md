@@ -23,9 +23,25 @@ works well in combination with having a timer.
 * **Links to other Computing Patterns:** , [Change Listener](learningDimensions#change-listener)
 ## How to implement this Pattern in MakeCode
 
-### Step by Step instructions
+### Add a Logic Step into our Overlap Listener
 
-To add this patterns we need to alter the overlap listener which checks to see if the player is touching the end goal. 
+To add this patterns we need to add some logic the overlap listener which checks to see if the player is touching the end goal. 
+Drag in an **if then** logic block and follow up with a **0 = 0** operator comparison block.
+From **Advanced > Arrays** drag a **length of array list** block into the first side of the comparison block.
+![collect all food ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/collectAllFood.png)
+
+### Check the number of Food Items
+
+Check the number of food items by replacing the list variable with a real list. In this case the list
+of food items. To do this drag in from **Advanced > Arrays** a block that says **set sprite list to array of kind Player**.
+Drag this into a blank area near our overlap listener as we only need on part of it. 
+
+![collect all food ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/collectAllFood2.png)
+
+So Drag the blue block saying **array of kind player** inside the **length of array** block, and change Player to Food. 
+Check with the screenshot below. 
+
+![collect all food ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/collectAllFood3.png)
 
 ## Test your Changes and Next Steps
 
