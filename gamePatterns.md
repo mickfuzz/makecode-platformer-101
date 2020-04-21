@@ -41,7 +41,7 @@ Change the look and feel of the game and add to the story
 - [Add Graphical Effects](simpleGraphicalEffects)
 - [Add Sound Effects](soundEffects)
 - [Add a Game Story with Messages](addMessages)
-- Animate your Player's Movements
+- [Animate your Player's Movements](animatePlayer.md)
 - [Make Player Immune](makePlayerImmune)
 
 ## Game Space
@@ -49,9 +49,9 @@ Change the look and feel of the game and add to the story
 Change the shape or nature of the playing space of the game. 
 
 - [Add More Levels](moreLevels)
-- Change Shape of Levels
-- Change the Background Image
-- Keys and Door
+- [Change Shape of Levels](changeLevelShape)
+- [Change the Background Image](changeBackgroundImage)
+- [Key and Door](keyDoor)
 
 ## Challenge and Systems 
 
