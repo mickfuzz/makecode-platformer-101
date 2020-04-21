@@ -55,7 +55,7 @@ We will set this to 1 to show that the player has one key.
 Then only progress if the player is touching the end goal and the  **hasKey** variable
 has been change to one, as in the screenshot below.
 
-![key and door 4 ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/keyDoor3.png)
+![key and door 4 ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/keyDoor4.png)
 
 ## Test your Changes and Next Steps
 
