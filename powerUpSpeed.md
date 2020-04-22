@@ -58,6 +58,16 @@ we can make the power up dissappear and increase the velocity of the players spe
 the value of the variable that we have just created.
 ![power up speed](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/powerUpSpeed4.jpg)
 
+
+### Move Input Controls into a forever block
+
+We need to do one last thing to make it possible for our player speed settings to be updated as we
+are playing the game. We need to move the block setting the player speed out of the on start block
+into a loop that is constantly being updated. If not that setting is set at the start but never updated.
+
+![power up speed](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/powerUpSpeed5.jpg)
+
+
 ## Test your Changes and Next Steps
 
 Test your game to check that your changes have the desired behaviour and that there are no side effects.
