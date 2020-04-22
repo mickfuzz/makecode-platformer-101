@@ -227,17 +227,16 @@ Closely linked to collaborative production above. Example behaviours include:
 * Applying knowledge
 * Striving to understand
 
-### Digital Literacies
-
-**Navigating Windows, Tabs and Internet Sites:** 
+### Digital Literacy: Navigating Windows, Tabs and Internet Sites
 The detail of moving from one site to another, if especially downloading images from one and then transfering to another gives rise to the 
 chance to learn and share a variety of practices which make up key web-navigations literacies. This is an area where young people often are
-able to help adults. 
+able to help adults. Often parents as a repository for the logins and passwords of their children as well as encouraging them to save their work.
 
-**Logging in and Passwords and Version Control:**
-This category is a form of digital literacy which proficient users may take for granted. However for beginner users may need some support with this process.
-Often parents as a repository for the logins and passwords of their children as well as encouraging them to save their work.  The way MakeCode doesn't support log ins
-encourages a process of saving versions of your work frequently and saving them in a document, say an online google doc with dates and descriptions.
+### Digital Literacy: Version Control
+The way MakeCode doesn't support log ins
+encourages a process of saving versions of your work frequently and saving them in a document, say an online google doc with dates and descriptions. The process of keeping a track of different versions
+of your work is called version control. There are many ways of doing it but doing it in a manually 
+to keep track of changes to our game is a great way to start to understand the value of this process. 
 
 ### Notes on Missing elements - TO INTEGRATE
 If we look [ at Frameworks here](https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#) we can see missing elements around reflection, and expressing elements of understanding (some of which integrated above).
