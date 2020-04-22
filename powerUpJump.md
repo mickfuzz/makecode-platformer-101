@@ -37,16 +37,19 @@ the design to include an area that the player would not be able to access with t
 Follow the code pattern shown in the screenshot below to make the power up appear in our game.
 ![power up higher jump](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/powerUpHigherJump2.jpg)
 
+### Create a new Variable
+
 To be able to change the jump height of our player we will need to create a new variable for our game.
 This will then be used when the player presses the jump button. To do this create a new variable called
 jumpVelocity and and set it to the value you have in your on **A button pressed** input listener.
 
 ![power up higher jump](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/powerUpHigherJump3.jpg)
-
+### Change Input Listener
 You can now replace the original velocity y (vy) value with this new variable.
 
 ![power up higher jump](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/powerUpHigherJump4.jpg)
 
+### Create the new Variable Value
 Then we will add a condition listener to see when the player is overlapping this power up. When they do
 we can make the power up dissappear and increase the velocity of the players jump. By increasing
 the value of the variable that we have just created.
