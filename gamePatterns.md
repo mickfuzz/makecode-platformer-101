@@ -62,4 +62,4 @@ Through challenge and systems, games get harder as you progress to keep your int
 - [Collect all Food before Progressing](collectAllFood)
 - [Power up - Higher Jump](powerUpJump)
 - [Power up - Player Speed](powerUpSpeed)
-- Randomly Spawning Enemies- Enemies Double in Number Regularly
+- [Random Doubling Enemies](randomDoublingEnemies)
