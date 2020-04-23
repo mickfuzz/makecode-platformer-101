@@ -221,11 +221,24 @@ understandings of concepts or processes being worked with.
 * Requesting or offering help in solving problems
 
 ### Joint Problem Solving and Development of Understanding
-Closely linked to collaborative production above. Example behaviours include:
+While, this dimension of learning is linked to collaborative production above, it is more reflective in nature.
+Examples include:
 
 * Offering explanation(s) for a strategy, tool, or outcome
 * Applying knowledge
 * Striving to understand
+* Linking existing experience to wider learning
+
+### Non-Technical Project Support
+The process of offering, providing or requesting help with the non-technical aspects of advancing the project in question.
+ There are other
+aspects of support which are needed outside of the session like access to resources or helping particpants to access the learning
+in a general sense. This is often the role of parents but sometimes siblings or child participants step into this role.
+This includes:
+
+* emotional support through general encouragement and keeping a sense of perspective
+* brokering access to learning opportunities
+* procuring resources to support fellow participants
 
 ### Digital Literacy: Navigating Windows, Tabs and Internet Sites
 The detail of moving from website to another, especially when keeping several browser tabs open, offers the  
@@ -235,13 +248,17 @@ This is an area where young people often are able to help adults. Activities inc
 * parents or siblings as a repository for the logins and passwords of their children
 
 ### Digital Literacy: Version Control
-The way MakeCode doesn't support log ins
-encourages a process of saving versions of your work frequently and saving them in a document,
+The way MakeCode doesn't support log ins encourages a process of saving versions of your work frequently
+and saving them in a document,
 say an online google doc with dates and descriptions. The process of keeping a track of different versions
 of your work is called version control. There are many ways of doing it but doing it in a manually
 to keep track of changes to our game is a great way to start to understand the value of this process.
+
 Example behaviour showing this skill includes:
+
 * encourament between participants to save work and keep a record of changes
+
+
 
 ### Notes on Missing elements - TO INTEGRATE
 If we look [ at Frameworks here](https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#) we can see missing elements around reflection, and expressing elements of understanding (some of which integrated above).
