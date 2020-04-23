@@ -1,9 +1,9 @@
 # Learning Dimensions of this Project
 
-This section includes a map of differnt learning dimensions which are possible and likely to emerge from taking part in this 
+This section includes a map of differnt learning dimensions which are possible and likely to emerge from taking part in this
 game making course. It is inspired by the work of Bevan and Petrich around their study of 'tinkering' in science museums, who through
-close observation in partnership with learning facilitators mapped some of the complex learning processes which may be 
-hard to spot in a quite chaotic and messy learning environment. 
+close observation in partnership with learning facilitators mapped some of the complex learning processes which may be
+hard to spot in a quite chaotic and messy learning environment.
 
 * [Coding Concepts](#coding-concepts)
 * [Wider Patterns](#wider-patterns)
@@ -93,7 +93,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Name:** Creating Functions
 
-* **Description:** Also known as abstraction and decompostion (by modularisation), this is a pattern that allows programmes to be broken down into smaller pieces, which do a specialist job. In this case the pieces are called functions. 
+* **Description:** Also known as abstraction and decompostion (by modularisation), this is a pattern that allows programmes to be broken down into smaller pieces, which do a specialist job. In this case the pieces are called functions.
 
 * **Why is it needed :** The concept is in line with a programming principle called DRY (Don't Repeat Yourself). It allows you to call the same piece of code from different parts of your programme so you don't have to repeat them in more than one place.
 
@@ -155,7 +155,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 ## Design Practices
 
-These concepts are based on the computational thinking concepts of Brennan and Resnick. They also link to the adapted version of Resnick's creative design spiral.
+This adaptation of design-based concepts to game making is  inspired by the [computational thinking defintions of Brennan and Resnick](http://scratched.gse.harvard.edu/ct/files/AERA2012.pdf).
 
 ### Goal Setting (decision to add a new mechanic, or change space in a fundamental way)
 The process of remxing a game Example activities which demonstrate this incude:
@@ -203,21 +203,22 @@ The process of making work public or sharing a 'finished' version with the group
 
 ## 21st Century Skills
 ***21st Century Skills including Digital Literacies***
-To an extent, in keeping with the broad definitions of 21st Century Skills, this final section 
-is a bit of a catch all to hold some of the learning skills not covered in previous sections. 
-There certain elements of key 21st Century Skills like communication, 
-collaboration, critical thinking and creativity are covered the design practices. 
+To an extent, in keeping with the broad definitions of 21st Century Skills, this final section
+is a bit of a catch all to hold some of the learning skills not covered in previous sections.
+There certain elements of key 21st Century Skills like communication,
+collaboration, critical thinking and creativity are covered the design practices.
 
-The topic of **digital literacy** is also broad and mapped well by Mozilla. There are certain very
+The topic of **digital and web literacy** is broad. ]The web literacy project by Mozilla maps it well](https://foundation.mozilla.org/en/initiatives/web-literacy/
+). Certain very
 specific digital skills that are well suited to the kind of collaborative and digital game making
-outlined in this programme. 
+outlined in this programme are listed at the end of this section.
 
 ### Developing Shared Practices and Vocabulary
 The process of working on a joint project involves the development of shared understanding of the problem being worked on. This may involve
-checking working concepts by advancing them and questioning meaning of other's expression. This may also include advancing new 
+checking working concepts by advancing them and questioning meaning of other's expression. This may also include advancing new
 understandings of concepts or processes being worked with.  
 
-* Requesting or offering help in solving problems 
+* Requesting or offering help in solving problems
 
 ### Joint Problem Solving and Development of Understanding
 Closely linked to collaborative production above. Example behaviours include:
@@ -228,17 +229,17 @@ Closely linked to collaborative production above. Example behaviours include:
 
 ### Digital Literacy: Navigating Windows, Tabs and Internet Sites
 The detail of moving from website to another, especially when keeping several browser tabs open, offers the  
-chance to learn and share a variety of practices which make up key web-navigations literacies. 
+chance to learn and share a variety of practices which make up key web-navigations literacies.
 This is an area where young people often are able to help adults. Activities include:
 * asking or offering help in navigating between websites or browser tabs  
-* parents or siblings as a repository for the logins and passwords of their children 
+* parents or siblings as a repository for the logins and passwords of their children
 
 ### Digital Literacy: Version Control
 The way MakeCode doesn't support log ins
-encourages a process of saving versions of your work frequently and saving them in a document, 
+encourages a process of saving versions of your work frequently and saving them in a document,
 say an online google doc with dates and descriptions. The process of keeping a track of different versions
-of your work is called version control. There are many ways of doing it but doing it in a manually 
-to keep track of changes to our game is a great way to start to understand the value of this process. 
+of your work is called version control. There are many ways of doing it but doing it in a manually
+to keep track of changes to our game is a great way to start to understand the value of this process.
 Example behaviour showing this skill includes:
 * encourament between participants to save work and keep a record of changes
 
@@ -247,5 +248,5 @@ If we look [ at Frameworks here](https://docs.google.com/document/d/1ARce8w_31RX
 
 * Social scaffolding
 * Development of understanding
-NOTE - The are links with 'perspectives' in Brennan and Resink which are more linked to 21st Century 
+NOTE - The are links with 'perspectives' in Brennan and Resink which are more linked to 21st Century
 Skills. See also Barron's categorisation of helping behaviours around technology.
