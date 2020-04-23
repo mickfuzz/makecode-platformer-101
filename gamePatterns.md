@@ -49,6 +49,7 @@ Change the look and feel of the game and add to the story
 
 Change the shape or nature of the playing space of the game.
 
+- [Change Design of Levels](changeLevelDesign)
 - [Add More Levels](moreLevels)
 - [Change Shape of Levels](changeLevelShape)
 - [Change the Background Image](changeBackgroundImage)
