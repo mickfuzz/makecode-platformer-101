@@ -202,16 +202,15 @@ The process of making work public or sharing a 'finished' version with the group
 
 
 ## 21st Century Skills
-### 21st Century Skills including Digital Literacies
+***21st Century Skills including Digital Literacies***
+To an extent, in keeping with the broad definitions of 21st Century Skills, this final section 
+is a bit of a catch all to hold some of the learning skills not covered in previous sections. 
+There certain elements of key 21st Century Skills like communication, 
+collaboration, critical thinking and creativity are covered the design practices. 
 
-To an extent, in keeping with the broad definitions of 21st Century Skils, this final section is a bit of a catch all to hold some
-of the learning skills not covered in previous sections. There are certainly elements of key 21st Century Skills like communication, 
-collaboration, critical thinking and creativity are covered the design practices. Certain very specific behaviours especially 
-around digital literacies are listed below 
-that are well suited to the kind of collaborative and digital game making outlined in this programme. 
-
-NOTE - The are links with 'perspectives' in Brennan and Resink which are more linked to 21st Century Skills. See also Barron's
-categorisation of helping behaviours around technology.
+The topic of **digital literacy** is also broad and mapped well by Mozilla. There are certain very
+specific digital skills that are well suited to the kind of collaborative and digital game making
+outlined in this programme. 
 
 ### Developing Shared Practices and Vocabulary
 The process of working on a joint project involves the development of shared understanding of the problem being worked on. This may involve
@@ -227,20 +226,26 @@ Closely linked to collaborative production above. Example behaviours include:
 * Applying knowledge
 * Striving to understand
 
-### Digital Literacies
+### Digital Literacy: Navigating Windows, Tabs and Internet Sites
+The detail of moving from website to another, especially when keeping several browser tabs open, offers the  
+chance to learn and share a variety of practices which make up key web-navigations literacies. 
+This is an area where young people often are able to help adults. Activities include:
+* asking or offering help in navigating between websites or browser tabs  
+* parents or siblings as a repository for the logins and passwords of their children 
 
-**Navigating Windows, Tabs and Internet Sites:** 
-The detail of moving from one site to another, if especially downloading images from one and then transfering to another gives rise to the 
-chance to learn and share a variety of practices which make up key web-navigations literacies. This is an area where young people often are
-able to help adults. 
-
-**Logging in and Passwords and Version Control:**
-This category is a form of digital literacy which proficient users may take for granted. However for beginner users may need some support with this process.
-Often parents as a repository for the logins and passwords of their children as well as encouraging them to save their work.  The way MakeCode doesn't support log ins
-encourages a process of saving versions of your work frequently and saving them in a document, say an online google doc with dates and descriptions.
+### Digital Literacy: Version Control
+The way MakeCode doesn't support log ins
+encourages a process of saving versions of your work frequently and saving them in a document, 
+say an online google doc with dates and descriptions. The process of keeping a track of different versions
+of your work is called version control. There are many ways of doing it but doing it in a manually 
+to keep track of changes to our game is a great way to start to understand the value of this process. 
+Example behaviour showing this skill includes:
+* encourament between participants to save work and keep a record of changes
 
 ### Notes on Missing elements - TO INTEGRATE
 If we look [ at Frameworks here](https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#) we can see missing elements around reflection, and expressing elements of understanding (some of which integrated above).
 
 * Social scaffolding
 * Development of understanding
+NOTE - The are links with 'perspectives' in Brennan and Resink which are more linked to 21st Century 
+Skills. See also Barron's categorisation of helping behaviours around technology.
