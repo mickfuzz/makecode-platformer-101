@@ -176,9 +176,9 @@ Outline the different elements of a game which can be changed by the designer to
 
 * Components - the nouns of the game for example for a platformer (player, collectable food, enemies, end goal sprite, )
 * Mechanics - the verbs of the game (walking, jumping, collecting)
-* Space - changes to the layout of the game (location of platforms, )
-* Rules
-* Goal
+* Space - changes to the layout of the game (location of platforms, does the space scroll when you move)
+* Rules - what are you allowed to do, not allowed to do, what must you do (e.g. you must collect all food before progressing a level)   
+* Goal - what is the main goal of the player of your game (e.g. collecting points or progress to levels by reaching an end goal?)
 
 Have these written out and ask participants to try to match them with the following elements from our game.  
 
@@ -199,7 +199,7 @@ Follow the Creative Design Game Making Session pattern as outlined in week two.
 * Set goals to add chosen game patterns
 * Follow the coding help to make the changes you need
 * Test the game yourself imagining the end player's experience
-* Playtest other people's game and get feedback for yours
+* Play test other people's game and get feedback for yours
 * Reflect on our progress
 
 This week add in the following element to goals setting.
@@ -221,16 +221,33 @@ Try to add in as much as you can between sessions. Bring any problems to the nex
 Can this be made into a game of some kind ?
 There are different kinds of that you may come up against. Knowing how to deal with them is a good tactic to keep us progressing.
 
-* Errors
-* Blank Screen Errors
-* Glitches
+* **Bugs** are errors in your code which stop the game from functioning. 
+* **Glitches** don't stop your game from running but as you play you see that there is an unintended effect the game does something 
+different from what we want it to do. 
 
-Learn to celebrate glitches. Find out what is happening in the following projects. What type of error are they?
-How can you solve them?
+**Recognising Bugs and Fixing Bugs**
+
+Bugs are errors in the code we write, there are a lot of things MakeCode does to make it harder for us to make these kinds of
+syntax errors. 
+
+**Finding and Fixing Glitches**
+
+Glitches often show up when we are testing our game. Sometimes they show themselves quickly when we are self-testing, 
+sometimes it takes other people playing the game to find glitches that's why play testing is so important. 
+
+We can sometimes celebrate glitches. They can be a way for us to understand more about what is happening on a code level. 
+
+The following projects have Glitches or Bugs in them. 
+Play them and find out the following:
+
+* What type of error are they Bugs or Glitches?
+* If they are bugs can you find the error messages?
+* If they are glitches what is the different between the intended behaviour or effect and the actual behaviour?
+* How can you solve the errors?
 
 ### Creative Design Game Making Session
 
-Follow the Creative Design Game Making Session pattern as outlined in week two.
+Follow the Creative Design Game Making Session pattern as outlined in week two - **Set goals, follow the coding help, self-test the game yourself, play-testing, reflection on our progress**
 
 In terms of goal setting. What is becoming special about your game. What are the final changes you want to make?
 Use the following check list to make quick changes to your game.
@@ -239,12 +256,16 @@ Use the following check list to make quick changes to your game.
 * Have you applied a Mission Card or a system pattern yet?
 * Have you got a balanced of game patterns added?
 
-### Reflection
+Also pay special attention to the **play testing phase** this time to see if you can see any glitches that others may find in your game. 
 
-What are the final changes you want to make for the last session?  
+### Setting your Goals for the Final Week
 
-### Homework
-Try not to add any more to your game in terms of new patterns. Focus as much as you can on the playability of your game.
+If you are following this guide as a five week program then this will be the penultimate week. It is common to not have the time to make
+all the changes you want to make. You now have to make the difficult decisions to decide on the last big changes you will make to your game.
+You also need to decide on which goals you will not be able to add to this game. To do this you can make a list and choose only 
+the top two or three to work on. Try to use your experience from previous sessions to estimate how long this will take you. 
+Try not to much more to your game in terms of new patterns. Focus as much as you can on the playability of your game.
+Make sure to allow time for a lot of self testing. 
 
 ## Session Five
 
