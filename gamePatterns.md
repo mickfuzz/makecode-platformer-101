@@ -41,6 +41,7 @@ Change the look and feel of the game and add to the story
 - [Gain Points when Collecting Food](collectPoints)
 - [Add Graphical Effects](simpleGraphicalEffects)
 - [Add Sound Effects](soundEffects)
+- [Add a Sound Track (Music)](soundTrack)
 - [Add a Game Story with Messages](addMessages)
 - [Animate your Player's Movements](animatePlayer.md)
 - [Make Player Immune](makePlayerImmune)
