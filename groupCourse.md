@@ -374,7 +374,7 @@ the top two or three to work on. Try to use your experience from previous sessio
 Try not to much more to your game in terms of new patterns. Focus as much as you can on the playability of your game.
 Make sure to allow time for a lot of self testing.
 
-## Session Five Finale
+## Session Five
 
 This session is fairly free of content as hopefully you will be just finalising final changes and getting ready for
 showcasing between the differnt participants or even better to an invited audience.
