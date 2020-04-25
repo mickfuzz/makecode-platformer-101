@@ -221,14 +221,32 @@ Try to add in as much as you can between sessions. Bring any problems to the nex
 Can this be made into a game of some kind ?
 There are different kinds of that you may come up against. Knowing how to deal with them is a good tactic to keep us progressing.
 
-* **Bugs** are errors in your code which stop the game from functioning. 
+* **Syntax Bugs** are errors in your code which stop the game from functioning at all. 
+* **Behaviour Bugs** are errors which in your code which don't stop the game from functioning but ;
 * **Glitches** don't stop your game from running but as you play you see that there is an unintended effect the game does something 
 different from what we want it to do. 
 
-**Recognising Bugs and Fixing Bugs**
+**Recognising and Fixing Syntax Bugs**
 
-Bugs are errors in the code we write, there are a lot of things MakeCode does to make it harder for us to make these kinds of
-syntax errors. 
+Syntax Bugs are errors in the code we write, there are a lot of things MakeCode does to make it harder for us to make these kinds of
+syntax errors. However they can arise when we put the wrong kind of block in a particular location. 
+
+When there is a syntax error in MakeCode Arcade your game will not run and may just show a grey version of your game in the preview 
+window. 
+![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging2.png)
+
+When this happens have a look for the **!** sign in a hazard triangle somewhere in your code. This is where the problems is. 
+![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging3.png)
+
+Click on the triangle and you will get more details of what the error is about. 
+![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging1.png)
+
+This may not make a lot of sense to you. But often it is due to putting the wrong kind of block in the gap. In this case 
+there should be an Image block in this gap. 
+
+
+**Recognising and Fixing Behaviour Bugs**
+
 
 **Finding and Fixing Glitches**
 
