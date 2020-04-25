@@ -163,7 +163,7 @@ Here are ideas for making the most of this course:
 
 * Working on your games at home is a great way to make the most of this course - check that you have all you need to be able to access your game later
 * When you keeping a track of the location of different versions of your games - include a bit about what you are learning each time
-* Are you keeping any other kind of learning journal to reflect on what you are learning? 
+* Are you keeping any other kind of learning journal to reflect on what you are learning?
 
 ## Session Three
 
@@ -286,7 +286,39 @@ To do this click on the image of the bug under the game preview window.
 
 This brings up a new window and also changes how the blocks look on the block building part of our screen. It puts little
 squares next to them. These allow us to set code break points.
-A break point is ...
+A break point is a way of stopping the running of the game code at a certain point. In our case let's use an example were
+we do that to check the value of a variable we have created.
+
+Imagine we want to increase the gravity every two seconds as the game progresses. Just a little, so the game
+gets harder as time goes on. The desired behaviour is to change the gravity so it increases by 10 each 2 seconds.
+To do this the following blocks are tried.
+
+![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging4.png)
+
+The desired behaviour doesn't happen. The player gets lighter not heavier.
+You may see the mistake right away but imagine you don't.
+
+Turn on debugging by clicking on the image of the bug under your preview screen.
+
+![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging6.png)
+
+We are going to set break points in our code to see what is happening. Do this by clicking in the circle next to the
+code we are interested in. In this case in our game update loop.
+
+![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging7.png)
+
+Now click on the green Play button to start running the code. It will stop when it gets to the break point.
+We can now see what the value of the variable we are interested in is at this point. In this case click
+on the arrow next to mySprite to see what the ay (gravity) variable is. We can see that instead of increasing by 10
+each 2 seconds it is being set directly to 10 instead.
+
+![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging8.png)
+
+Now we know this is the cause of the error we can change the block to **change mySprite ay by 10** instead. If we repeat  
+the debugging then we'll see the value go up in steps of 10 each  time we click on the green play arrow to step through
+the code.
+
+
 
 **Finding and Fixing Glitches**
 
