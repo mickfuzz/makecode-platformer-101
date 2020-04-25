@@ -242,11 +242,23 @@ Click on the triangle and you will get more details of what the error is about.
 ![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging1.png)
 
 This may not make a lot of sense to you. But often it is due to putting the wrong kind of block in the gap. In this case 
-there should be an Image block in this gap. 
+there should be an Image block in this gap. The code error message can help us debug our code as even if we don't fully 
+understand it, at least we know where the problem is. We can try out different blocks in this space to solve the problems. 
+Also you can use the undo button at the bottom of the screen to go back in stages to a situation where the code was working. 
+If you have made a few changes keep pressing that buttons until the game preview is in colour again. 
 
 
 **Recognising and Fixing Behaviour Bugs**
 
+Behaviour Bugs are tricky to find sometimes. You have made changes in your code but nothing is changing in how the game is 
+behaving. 
+
+One technique you can use to try to find out what his this is is debugging with a technique called watching variables. 
+To do this click on the image of the bug under the game preview window. 
+
+This brings up a new window and also changes how the blocks look on the block building part of our screen. It puts little
+squares next to them. These allow us to set code break points. 
+A break point is ... 
 
 **Finding and Fixing Glitches**
 
