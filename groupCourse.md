@@ -16,19 +16,19 @@ deliver the course to a group. You can work through it by yourself. There is als
 We will start to understand games by playing a few arcade games and starting to look at what makes them tick.
 On entry participants play the following games ( from MakeCode )
 
-* Galaga
-* Ballon Game
-* Duck Run
-* Eat Fruit
-* Level Up
+* [Chicken Run](https://makecode.com/_3jbT4hLeP9tH)
+* [Hot Air Ballon Game](https://makecode.com/_h7zCkiX4wgL0)
+* [Bunny Hop](https://makecode.com/_cj4WmuaT37sP)
+* [Eat the Fruit](https://makecode.com/_1Mvaf0TXPTdu)
+* [Level Up](https://makecode.com/_aMDL6JL9ELD6)
 
 Write down the main VERBs for these games. Pick from the following some have more than one Mechanic.
 
-* Jumping
 * Collecting
 * Avoiding
 * Chasing
 * Shooting
+* Walking / Running
 
 Knowing what the main mechanics for our game are and making sure that they feel fun and responsive for our player is key to making a
 great game.
@@ -131,8 +131,13 @@ For now choose 2 patterns to add to your game. Choose at least one that you thin
 We will add them to our game before the end of the session. Fill out the Goal Setting sheet. ( Create this sheet )
 
 ***Create*** See the sheet and the pages to help you make the changes. These are normally step by step instructions.
-Sometimes there are places where you make your own decisions.
-Think about story of the game and the characters involved.
+Sometimes there are places where you make your own decisions. Think about story of the game and the characters involved.
+
+ As we make changes to our game we will learn about the specific coding concepts needed to do
+computer programming, ideas like loops and logic. We'll also find links to wider patterns of computer programming and systems ideas
+that are important in the world of Human Computer Interaction and Systems Thinking. Have a look at
+a list of the [learning dimensions](learningDimension) we might
+pick up through our game making.
 
 ***Test*** You should play your game after every change you make to see how it has changed the playing experience.
 Keep in mind the experience of the end player when you are testing your game. Also try to think about the right level of
@@ -149,12 +154,16 @@ You can also use the MakeCode forum as a way of getting feedback this. To do thi
 
 ***Reflect*** Reflecting on our progress allows us to getting the most out of the making to deepen our learning and make links to other areas of making.
 
-There are different ways to do this, and if you are in a group you may want to make this into some kind of fun activity. See this link
-for fun ideas of reflection games like reflection web.
+There are different ways to do this, and if you are in a group you may want to make this into some kind of fun activity. One fun idea
+is to do a [Reflection Web](https://pblactivities.wordpress.com/2018/09/03/reflection-web/)
 
-***Learning notes:*** As we make changes to our game we will learn about the specific coding concepts needed to do
-computer programming, ideas like loops and logic. We'll also find links to wider patterns of computer programming and systems ideas
-that are important in the world of Human Computer Interaction and Systems Thinking.
+### Final Reflection - Keeping a track of our progress and our Games
+
+Here are ideas for making the most of this course:
+
+* Working on your games at home is a great way to make the most of this course - check that you have all you need to be able to access your game later
+* When you keeping a track of the location of different versions of your games - include a bit about what you are learning each time
+* Are you keeping any other kind of learning journal to reflect on what you are learning? 
 
 ## Session Three
 
@@ -207,12 +216,31 @@ This week add in the following element to goals setting.
 ***Extra Mission Cards*** These extra missions encourage us to think of our games as dynamic systems that change as we play the game.  
 [Mission Cards for this Sessions](https://docs.google.com/document/d/1tKr8kWzoI6Hdn1zHPHmDP7hd4C_G12PSkwUP-Zsw69s/edit)
 
+You can point them towards elements of systems thinking that arise from these challenges. These may include the following.
+
+* [Systems Elements](learningDimensions#systems-elements)
+* [Systems Dynamics](learningDimensions#systems-dynamics)
+* [Balancing Feedback Loops](learningDimensions#balancing-feedback-loops)
+* [Reinforcing Feedback Loops](learningDimensions#reinforcing-feedback-loops)
+
+
 ### Reflection Activity
 
-Something to do with challenge and systems.
+Paper Slide: On paper, indivduals or groups sketch and write what they learned or have been working on this seession.
+Then line up and, one at a time, slide their work under a video camera
+ while quickly summarizing what was learned. [The camera doesn’t stop recording](https://www.youtube.com/watch?v=vxF4P8vx3o8) until each representative has completed his or her summary.
+
+For this reflection activity ask participants to include any new objectives or work on systems dynamics.
 
 ### Homework
-Try to add in as much as you can between sessions. Bring any problems to the next session.
+You are now over half-way through the course. I hope you have been enjoying it. Time flies.
+There is only so much you can do in the  sessions. If  you really want to make your game your own then try to add in as much as you can between sessions.
+This really helps. Then you can bring any problems to the next session.
+
+If you get stuck trying to add one element to  your game then share a link of the broken game with your facilitator or the [ friendly
+online MakeCode community](https://forum.makecode.com/c/Share-your-Arcade-projects-here/5). But don't let that stop you. Go back to your
+last working version and try to add a different game pattern. That way when you solve your original problem you can add in the changes to your
+new version.
 
 ## Session Four  
 
@@ -221,53 +249,53 @@ Try to add in as much as you can between sessions. Bring any problems to the nex
 Can this be made into a game of some kind ?
 There are different kinds of that you may come up against. Knowing how to deal with them is a good tactic to keep us progressing.
 
-* **Syntax Bugs** are errors in your code which stop the game from functioning at all. 
+* **Syntax Bugs** are errors in your code which stop the game from functioning at all.
 * **Behaviour Bugs** are errors which in your code which don't stop the game from functioning but ;
-* **Glitches** don't stop your game from running but as you play you see that there is an unintended effect the game does something 
-different from what we want it to do. 
+* **Glitches** don't stop your game from running but as you play you see that there is an unintended effect the game does something
+different from what we want it to do.
 
 **Recognising and Fixing Syntax Bugs**
 
 Syntax Bugs are errors in the code we write, there are a lot of things MakeCode does to make it harder for us to make these kinds of
-syntax errors. However they can arise when we put the wrong kind of block in a particular location. 
+syntax errors. However they can arise when we put the wrong kind of block in a particular location.
 
-When there is a syntax error in MakeCode Arcade your game will not run and may just show a grey version of your game in the preview 
-window. 
+When there is a syntax error in MakeCode Arcade your game will not run and may just show a grey version of your game in the preview
+window.
 ![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging2.png)
 
-When this happens have a look for the **!** sign in a hazard triangle somewhere in your code. This is where the problems is. 
+When this happens have a look for the **!** sign in a hazard triangle somewhere in your code. This is where the problems is.
 ![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging3.png)
 
-Click on the triangle and you will get more details of what the error is about. 
+Click on the triangle and you will get more details of what the error is about.
 ![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging1.png)
 
-This may not make a lot of sense to you. But often it is due to putting the wrong kind of block in the gap. In this case 
-there should be an Image block in this gap. The code error message can help us debug our code as even if we don't fully 
-understand it, at least we know where the problem is. We can try out different blocks in this space to solve the problems. 
-Also you can use the undo button at the bottom of the screen to go back in stages to a situation where the code was working. 
-If you have made a few changes keep pressing that buttons until the game preview is in colour again. 
+This may not make a lot of sense to you. But often it is due to putting the wrong kind of block in the gap. In this case
+there should be an Image block in this gap. The code error message can help us debug our code as even if we don't fully
+understand it, at least we know where the problem is. We can try out different blocks in this space to solve the problems.
+Also you can use the undo button at the bottom of the screen to go back in stages to a situation where the code was working.
+If you have made a few changes keep pressing that buttons until the game preview is in colour again.
 
 
 **Recognising and Fixing Behaviour Bugs**
 
-Behaviour Bugs are tricky to find sometimes. You have made changes in your code but nothing is changing in how the game is 
-behaving. 
+Behaviour Bugs are tricky to find sometimes. You have made changes in your code but nothing is changing in how the game is
+behaving.
 
-One technique you can use to try to find out what his this is is debugging with a technique called watching variables. 
-To do this click on the image of the bug under the game preview window. 
+One technique you can use to try to find out what his this is is debugging with a technique called watching variables.
+To do this click on the image of the bug under the game preview window.
 
 This brings up a new window and also changes how the blocks look on the block building part of our screen. It puts little
-squares next to them. These allow us to set code break points. 
-A break point is ... 
+squares next to them. These allow us to set code break points.
+A break point is ...
 
 **Finding and Fixing Glitches**
 
-Glitches often show up when we are testing our game. Sometimes they show themselves quickly when we are self-testing, 
-sometimes it takes other people playing the game to find glitches that's why play testing is so important. 
+Glitches often show up when we are testing our game. Sometimes they show themselves quickly when we are self-testing,
+sometimes it takes other people playing the game to find glitches that's why play testing is so important.
 
-We can sometimes celebrate glitches. They can be a way for us to understand more about what is happening on a code level. 
+We can sometimes celebrate glitches. They can be a way for us to understand more about what is happening on a code level.
 
-The following projects have Glitches or Bugs in them. 
+The following projects have Glitches or Bugs in them.
 Play them and find out the following:
 
 * What type of error are they Bugs or Glitches?
@@ -286,16 +314,16 @@ Use the following check list to make quick changes to your game.
 * Have you applied a Mission Card or a system pattern yet?
 * Have you got a balanced of game patterns added?
 
-Also pay special attention to the **play testing phase** this time to see if you can see any glitches that others may find in your game. 
+Also pay special attention to the **play testing phase** this time to see if you can see any glitches that others may find in your game.
 
 ### Setting your Goals for the Final Week
 
 If you are following this guide as a five week program then this will be the penultimate week. It is common to not have the time to make
 all the changes you want to make. You now have to make the difficult decisions to decide on the last big changes you will make to your game.
-You also need to decide on which goals you will not be able to add to this game. To do this you can make a list and choose only 
-the top two or three to work on. Try to use your experience from previous sessions to estimate how long this will take you. 
+You also need to decide on which goals you will not be able to add to this game. To do this you can make a list and choose only
+the top two or three to work on. Try to use your experience from previous sessions to estimate how long this will take you.
 Try not to much more to your game in terms of new patterns. Focus as much as you can on the playability of your game.
-Make sure to allow time for a lot of self testing. 
+Make sure to allow time for a lot of self testing.
 
 ## Session Five
 
