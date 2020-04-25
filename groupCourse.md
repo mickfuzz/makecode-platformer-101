@@ -43,7 +43,7 @@ Now we will start coding by jumping right in. Try to play the following game. It
 At the end of the session make sure to Publish a copy of your game and to give it your own name.
 Keep a record of the link to your game. We'll come back to it next week.
 
-### Reflection on Session One
+### To End - Reflection on Session One
 
 Play a quick reflection game to find out what people thought and got out of the first session. The [Reflection Web](https://pblactivities.wordpress.com/2018/09/03/reflection-web/) is a fun one to start with. Ask the following questions.
 
@@ -154,16 +154,21 @@ You can also use the MakeCode forum as a way of getting feedback this. To do thi
 
 ***Reflect*** Reflecting on our progress allows us to getting the most out of the making to deepen our learning and make links to other areas of making.
 
-There are different ways to do this, and if you are in a group you may want to make this into some kind of fun activity. One fun idea
-is to do a [Reflection Web](https://pblactivities.wordpress.com/2018/09/03/reflection-web/)
+There are different ways to do this, and if you are in a group you may want to make this into some kind of fun activity. There are
+some [nice closure ideas here](https://www.edutopia.org/blog/22-powerful-closure-activities-todd-finley)
 
-### Final Reflection - Keeping a track of our progress and our Games
+### To End - A Game and Tips to Keep track of our Progress and our Games
 
-Here are ideas for making the most of this course:
+Play musical chairs. When someone is left standing up. Ask themselves
+
+* what new idea or coding technique jumped out for  you today?
+* what do you want to do next?
+
+Then share the following tips for participants to make the most of this course:
 
 * Working on your games at home is a great way to make the most of this course - check that you have all you need to be able to access your game later
-* When you keeping a track of the location of different versions of your games - include a bit about what you are learning each time
-* Are you keeping any other kind of learning journal to reflect on what you are learning?
+* Be careful in keeping track of the location of different versions of your games, include a version number, describe what changed, even  include a bit about what you are learned since the last version
+* If this works well then why not keep a separate learning journal to reflect on what you are learning?
 
 ## Session Three
 
@@ -224,7 +229,7 @@ You can point them towards elements of systems thinking that arise from these ch
 * [Reinforcing Feedback Loops](learningDimensions#reinforcing-feedback-loops)
 
 
-### Reflection Activity
+### To End - Reflection Activity
 
 Paper Slide: On paper, indivduals or groups sketch and write what they learned or have been working on this seession.
 Then line up and, one at a time, slide their work under a video camera
@@ -249,24 +254,34 @@ new version.
 Can this be made into a game of some kind ?
 There are different kinds of that you may come up against. Knowing how to deal with them is a good tactic to keep us progressing.
 
-* **Syntax Bugs** are errors in your code which stop the game from functioning at all.
+* **Syntax and Program Errors** are errors in your code which stop the game from functioning at all.
 * **Behaviour Bugs** are errors which in your code which don't stop the game from functioning but ;
 * **Glitches** don't stop your game from running but as you play you see that there is an unintended effect the game does something
 different from what we want it to do.
 
-**Recognising and Fixing Syntax Bugs**
+**Recognising and Fixing Program Errors and Syntax Errors**
 
-Syntax Bugs are errors in the code we write, there are a lot of things MakeCode does to make it harder for us to make these kinds of
+Syntax Errors are mistakes in the code we write, there are a lot of things MakeCode does to make it harder for us to make these kinds of
 syntax errors. However they can arise when we put the wrong kind of block in a particular location.
 
-When there is a syntax error in MakeCode Arcade your game will not run and may just show a grey version of your game in the preview
-window.
+You may get a **Program Error** on the screen and a Black screen in the preview window.
+
+![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/program_error1.png)
+
+The problem may be to do with the order of your code. The code in the screenshot here tries to move a sprite
+to a location but before it has even been created. If you get one of these code try reading through your code to see
+if it is the right order.
+
+A similar type of error is a **Syntax Error**. When there is a syntax error in MakeCode Arcade your game will not run and may just show a grey version of your game in the preview window.
+
 ![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging2.png)
 
-When this happens have a look for the **!** sign in a hazard triangle somewhere in your code. This is where the problems is.
+When this happens have a look for the **!** sign in a hazard triangle somewhere in your code. This is where the problem is.
+
 ![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging3.png)
 
 Click on the triangle and you will get more details of what the error is about.
+
 ![ debugging ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/debugging1.png)
 
 This may not make a lot of sense to you. But often it is due to putting the wrong kind of block in the gap. In this case
@@ -276,12 +291,20 @@ Also you can use the undo button at the bottom of the screen to go back in stage
 If you have made a few changes keep pressing that buttons until the game preview is in colour again.
 
 
-**Recognising and Fixing Behaviour Bugs**
+**Finding and Fixing Glitches and Behaviour Bugs**
 
-Behaviour Bugs are tricky to find sometimes. You have made changes in your code but nothing is changing in how the game is
-behaving.
+This is not universally accepted as a difference but for the purposes of this course bugs and glitches are different.
 
-One technique you can use to try to find out what his this is is debugging with a technique called watching variables.
+* Bugs are mistakes in the code where the intended effect doesn't happen so you can't achieve what you want
+* Glitches are mistakes where unintended effects do happen that are different from what you wanted
+
+Bugs and Glitches often show up when we are testing our game. Sometimes they show themselves quickly when we are self-testing,
+sometimes it takes other people playing the game to find glitches that's why play testing is so important.
+
+While bugs are often just frustrating, we can sometimes celebrate glitches.
+They can be fun and are normally a good way for us to understand more about what is happening on a code level.
+
+One technique you can use to try to solve glitches or bugs is through debugging with a technique called **watching variables**.
 To do this click on the image of the bug under the game preview window.
 
 This brings up a new window and also changes how the blocks look on the block building part of our screen. It puts little
@@ -320,20 +343,12 @@ the code.
 
 
 
-**Finding and Fixing Glitches**
+When you are self-testing or play testing games and find mistakes find out the following:
 
-Glitches often show up when we are testing our game. Sometimes they show themselves quickly when we are self-testing,
-sometimes it takes other people playing the game to find glitches that's why play testing is so important.
-
-We can sometimes celebrate glitches. They can be a way for us to understand more about what is happening on a code level.
-
-The following projects have Glitches or Bugs in them.
-Play them and find out the following:
-
-* What type of error are they Bugs or Glitches?
-* If they are bugs can you find the error messages?
-* If they are glitches what is the different between the intended behaviour or effect and the actual behaviour?
-* How can you solve the errors?
+* What type of error are you encoutering - Errors, Bugs or Glitches?
+* If they are black or grey screen errors can you find any messages?
+* If they are bugs glitches what is the different between the intended behaviour or effect and the actual behaviour?
+* What tactics are there to solve the errors, bugs or glitches?
 
 ### Creative Design Game Making Session
 
@@ -348,30 +363,76 @@ Use the following check list to make quick changes to your game.
 
 Also pay special attention to the **play testing phase** this time to see if you can see any glitches that others may find in your game.
 
+
 ### Setting your Goals for the Final Week
 
 If you are following this guide as a five week program then this will be the penultimate week. It is common to not have the time to make
 all the changes you want to make. You now have to make the difficult decisions to decide on the last big changes you will make to your game.
+
 You also need to decide on which goals you will not be able to add to this game. To do this you can make a list and choose only
 the top two or three to work on. Try to use your experience from previous sessions to estimate how long this will take you.
 Try not to much more to your game in terms of new patterns. Focus as much as you can on the playability of your game.
 Make sure to allow time for a lot of self testing.
 
-## Session Five
+## Session Five Finale
 
-### Playability Tweaking and Hardware
+This session is fairly free of content as hopefully you will be just finalising final changes and getting ready for
+showcasing between the differnt participants or even better to an invited audience.
 
-Ask participants to send games via emails so they may be loaded up onto computer or hand helds.
-You may want to run a session on making a console with computer electronics including hardware elements of arcade buttons.
+### Using Hardware Device
 
-In arranging the hardware for showcasing you may encourange last minute changes based on facilitator feedback.
+There are different hardware available for making a splash  with the finished games. Using hardware with buttons
+can also increase the playability of the games as well.
 
-### Showcasing
+These include:
 
-Have in place a form which allows participants to reflect on the final product, player reactions.
+**Hand-held Devices**: A number of game-boy like devices exist which are great to use with old school buttons and mini screens. [See a list here.](https://arcade.makecode.com/hardware)
 
-### Reflection
+![ boxes ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/devices1.jpg)
 
+
+**Arcade Cabinets**: A bit of carpentry can create a fun looking arcade cabinet, we have some great ones where we pop in old laptops and use arcade buttons and [makey makey's to create great looking machines](https://arcade.makecode.com/hardware/makey-makey).
+
+![ boxes ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/cardboard_panel1.jpg)
+
+**Cardboard Cabinets**: Even more fun perhaps is to make your own arcade cabinet machine out of cardboard and hook up your buttons and makey makey's to that. [More info here](https://arcade.makecode.com/hardware/raspberry-pi/cardboard-control-panel)
+
+![ boxes ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/cardboard_panel2.jpg)
+
+
+You may want to run an extra session on making a console with computer electronics including hardware elements of arcade buttons. There
+are [links to resources to help you here](https://arcade.makecode.com/hardware).
+
+If your project involves cardboard elements then it can be a great idea for particpants to take the cardboard home and to
+decorate it with ideas from their game.
+
+
+
+### Ideas for Showcasing
+
+If you do have a chance it can be a really exciting experience to showcase your games at an event or in a public
+place where you can **get passing strangers to play your games**. For our courses at the Manchester Met University we have a captive audience of undergraduate students.
+
+I have found that this is often where parents come into their element. **Ask parents to be cproactive to draw in passing
+people** to play and give feedback on games.
+**It is very satisfying to witness strangers play your game** and experience the kind
+of fun frustration and desire to try again to beat a particular part of your level design.
+
+If this is not possible then try to make the final playing of each other's games a real event. **The use of the hardware
+and especially decoration of cardboard cabinets can really help to create a sense of an event.** Also ask particpants
+what they want to do to **celebrate, share food, play music** as a shared play list for example.
+
+You may want to have in place a form which allows participants to **gather player reactions**. This can be via a written form or
+a quick recorded interview if suitable.
+
+### To End - Evaluation and Reflection
+
+You may want to use this as an opportunity to gather feedback from particpants on the course to make improvements
+and to  encourage final reflections from course members on what they gained from the game making activities. The following
+questions may be useful.
+
+* How has your learning journey been?
+* What is the most noticeable change along the way?
+* Can you share about your changes in confidence in use of the specifics of coding concepts?
+* What do you feel you've learned about wider patterns - computer programming/ systems designs?
 * What are your final takeaways?
-* Share about your changes in confidence in use of specifics of coding concepts.
-* What do you feel you've learned about wider patterns - computer programming/ systems designs.
