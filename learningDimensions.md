@@ -17,11 +17,15 @@ be fully rewritten later.
 ### Sequences
 A particular activity or task can be expressed as a series of steps or instructions that can be run by a computer. Like a recipe, a sequence of programming instructions specifies the action that should be happen. The order that taks happen in is significant. Some bugs are due to errors to commands being run in the wrong sequence.
 
-### Data
-Data involves storing, retrieving, and updating values. These incude: variables (to contain numbers or strings or images) and lists ( a collection of numbers or strings). Keeping score is a common way to use variables.
+
+### Variables
+Varables area kind of data that involves storing, retrieving, and updating values. Variables can contain numbers or strings or images and are particularly useful when we know something may change when our program is running. 
 
 ### Loops
 We could programme an enemy to move 100 pixels to the right, wait 0.2 seconds, and then to repeat the action – moving another 10 steps, and waiting another 0.2 seconds. What if, instead of a single repetition of the action, we want the enemy to move and wait three more times? We could easily add more move and wait blocks. But what if we wanted to repeat the process 100 or 1000 more times? Loops are a way to run the same sequence many times.
+
+### Lists
+Lists or Arrays also allow you to storing, retrieving, and updating values but as a flexible collection of numbers or strings or images. They are commonly used in combination with loops, to loop through a list of things to repeat a process.  
 
 ### Events
 Events – one thing causing another thing to happen – are an essential component of interactive
