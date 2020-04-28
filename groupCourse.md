@@ -255,7 +255,7 @@ Can this be made into a game of some kind ?
 There are different kinds of that you may come up against. Knowing how to deal with them is a good tactic to keep us progressing.
 
 * **Syntax and Program Errors** are errors in your code which stop the game from functioning at all.
-* **Behaviour Bugs** are errors which in your code which don't stop the game from functioning but ;
+* **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
 * **Glitches** don't stop your game from running but as you play you see that there is an unintended effect the game does something
 different from what we want it to do.
 
@@ -291,7 +291,7 @@ Also you can use the undo button at the bottom of the screen to go back in stage
 If you have made a few changes keep pressing that buttons until the game preview is in colour again.
 
 
-**Finding and Fixing Glitches and Behaviour Bugs**
+**Finding and Fixing Glitches and No Behaviour Bugs**
 
 This is not universally accepted as a difference but for the purposes of this course bugs and glitches are different.
 
