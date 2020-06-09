@@ -149,7 +149,6 @@ These wider patterns and concepts are a way to learn about wider computing pract
 * **How this happens in our Platformer:** Examples include:
       - creating a hectic game with many spawning enemies
 
-
 ## Design Practices
 
 This adaptation of design-based concepts to game making is  inspired by the [computational thinking defintions of Brennan and Resnick](http://scratched.gse.harvard.edu/ct/files/AERA2012.pdf).
@@ -222,15 +221,13 @@ Examples include:
 
 ## 21st Century Skills
 ***21st Century Skills including Digital Literacies***
-To an extent, in keeping with the broad definitions of 21st Century Skills, this final section
-is a bit of a catch all to hold some of the learning skills not covered in previous sections.
 There certain elements of key 21st Century Skills like communication,
-collaboration, critical thinking and creativity are covered the design practices.
+collaboration, critical thinking and creativity are covered the design practices. Others are included here.
 
-The topic of **digital and web literacy** is broad. ]The web literacy project by Mozilla maps it well](https://foundation.mozilla.org/en/initiatives/web-literacy/
+The topic of **digital and web literacy** is broad. [The web literacy project by Mozilla maps it well](https://foundation.mozilla.org/en/initiatives/web-literacy/
 ). Certain very
 specific digital skills that are well suited to the kind of collaborative and digital game making
-outlined in this programme are listed at the end of this section.
+outlined in this programme are included section.
 
 ### Developing Shared Vocabulary
 The process of working on a joint project involves the development of shared understanding of the problem being worked on. This may involve
@@ -252,6 +249,15 @@ Example behaviour includes:
 * Striving to understand project concepts
 * Linking project experience to wider learning
 
+### Wider Project Support
+The process of offering, providing or requesting help with the non-technical aspects of advancing the project in question.
+ There are other aspects of support which are needed outside of the session like access to resources or helping particpants to access learning
+in a general sense. This is often the role of parents but sometimes siblings or child participants step into this role.
+Example behaviours include:
+
+* Emotional support through general encouragement and keeping a sense of perspective
+* Brokering access to learning opportunities
+* Procuring resources to support fellow participants
 
 ### Web Navigation
 The detail of moving from website to another, especially when keeping several browser tabs open, offers the  
@@ -275,13 +281,3 @@ Example behaviour showing this skill includes:
 * Keeping written records of changes
 * Deciding to create a new version of work
 * Explaining and reminding peers of value of version control
-
-### Wider Project Support
-The process of offering, providing or requesting help with the non-technical aspects of advancing the project in question.
- There are other aspects of support which are needed outside of the session like access to resources or helping particpants to access learning
-in a general sense. This is often the role of parents but sometimes siblings or child participants step into this role.
-Example behaviours include:
-
-* Emotional support through general encouragement and keeping a sense of perspective
-* Brokering access to learning opportunities
-* Procuring resources to support fellow participants
