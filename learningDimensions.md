@@ -17,7 +17,6 @@ be fully rewritten later.
 ### Sequences
 A particular activity or task can be expressed as a series of steps or instructions that can be run by a computer. Like a recipe, a sequence of programming instructions specifies the action that should be happen. The order that taks happen in is significant. Some bugs are due to errors to commands being run in the wrong sequence.
 
-
 ### Variables
 Varables area kind of data that involves storing, retrieving, and updating values. Variables can contain numbers or strings or images and are particularly useful when we know something may change when our program is running.
 
@@ -26,11 +25,6 @@ We could programme an enemy to move 100 pixels to the right, wait 0.2 seconds, a
 
 ### Lists
 Lists or Arrays also allow you to storing, retrieving, and updating values but as a flexible collection of numbers or strings or images. They are commonly used in combination with loops, to loop through a list of things to repeat a process.  
-
-### Events
-Events – one thing causing another thing to happen – are an essential component of interactive
-media. For example, a button triggering the beginning of a music video, or the collision of
-two objects causing a game’s player to lose a life.
 
 ### Logic
 Another key concept in interactive media is logic / conditionals – the ability to make decisions based on
@@ -61,7 +55,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** In many media programmes you need to change formatting or to make something happen based on the conditions of other objects.
 
-* **Examples in MakeCode:** Here are one or more examples:
+* **Examples in MakeCode:** Examples include:
   - listening for the player being in a condition of overlap with an Enemy
   - changing the animation of a player based on if they are still, moving or jumping
 
@@ -71,11 +65,11 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Name:** Input Event
 
-* **Description:** Also known as an event handler, this allows do something like use the keyboard or use the mouse and for your programme to do something in response.
+* **Description:** Also known as an event handler.  Events – one thing causing another thing to happen – are important to interactive media like games. For example, a button triggering the start of play, or controlling game player' s movements.
 
 * **Why is it needed :** Working with User Input is a key part of most computer programming design, it allows the user to interact with the programme to make things happen.
 
-* **How this happens in MakeCode:** Here are one or more examples:
+* **How this happens in MakeCode:** Examples include:
   - controlling the player movements
 
 ### Separate Formatting from Data
@@ -88,7 +82,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** In many examples this separation allows editors of the project to make changes to the data easily without worrying about the formatting.
 
-* **How this happens in MakeCode:** Here are one or more examples:
+* **How this happens in MakeCode:** Examples include:
     - using tilemaps to represent level layout
 
 ### Creating Functions
@@ -101,7 +95,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** The concept is in line with a programming principle called DRY (Don't Repeat Yourself). It allows you to call the same piece of code from different parts of your programme so you don't have to repeat them in more than one place.
 
-* **How this happens in MakeCode:** Here are one or more examples:
+* **How this happens in MakeCode:** Examples include:
       - creating levels on start and when goal is reached
 
 ### Systems Elements
@@ -115,7 +109,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** This process of recognising and naming the system elements is the start of being able to understand how a system works.
 
-* **How this happens in our Platformer:** Here are one or more examples:
+* **How this happens in our Platformer:** Examples include:
    - naming the components, rules, space, mechanics and goals of our starting platformer
    - the process of making changes to these game elements
 
@@ -128,7 +122,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** Recognising dynamic parts of systems allows you to make more informed decisions about how it will change and react to changes. For example understanding these dynamics are important when making a game to make sure the level of challenge for the player is suitable.
 
-* **How this happens in our Platformer:** Here are one or more examples:
+* **How this happens in our Platformer:** Examples include:
       - increasing the number of enemies to increase challenge
 
 ### Balancing Feedback Loops
@@ -140,7 +134,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** In eco-systems balancing loops work to keep a system stable, preventing there from being too many predators for example, as they will die off if there isn't enough food for them to prey on. In games balance is needed to maintain the right level of challenge for the player.  
 
-* **How this happens in our Platformer:** Here are one or more examples:
+* **How this happens in our Platformer:** Examples include:
       - gravity acting as a balancing force to jump velocity
 
 ### Reinforcing Feedback Loops
@@ -152,9 +146,8 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** In a game you may want a reinforcing loop if you want to increase the challenge fo a game. For example, you may want the number of enemies to drastically increase towards the end of a level.
 
-* **How this happens in our Platformer:** Here are one or more examples:
+* **How this happens in our Platformer:** Examples include:
       - creating a hectic game with many spawning enemies
-
 
 
 ## Design Practices
@@ -170,7 +163,7 @@ build on existing knowledge.
 
    - Invitation to peers to set new goal or revise existing goals
    - Participants expressing new goals to include in game or around the wider making experience
-   - Clarification or questions about desired design behaviour
+   - Clarification or questions about desired game design behaviour
 
 ### Being incremental and iterative
 Designing a project is not a clean, sequential process of first identifying a concept for a project,
@@ -198,22 +191,34 @@ Example activities which demonstrate this incude:
 ### Reusing and remixing
 Building on other people’s work has been a longstanding practice in programming, and has only
 been amplified by network technologies that provide access to a wide range of other people’s
-work to reuse and remix.
-   - Appropriation without comment or direct copying just taking the idea
-   - More direct copying of code via observation or conversation
+work to reuse and remix. This behaviour may be remixing the work of others or through helping others
+to replicate thier own work.
+
+Example activities which demonstrate this incude:
+   - Direct copying of game features from other games by replicating code
+   - More indirect copying of features and ideas via observation or conversation with peers
 
 ### Collaborative Production
 
-Where participants work together on game making as pairs or in family groups
+Where participants work together on game making as pairs or in family groups particpants
+often demonstrate behaviour which encourage collaboration and participation in the broader
+community aspects of game making. These may come naturally
+or may be more deliberate as a strategy to enhance learning potential.
 
-example activities which demonstrate this incude:
-   - Refocusing: redirection back to other participants earlier goals
-   - Invitation to imagine the ideal player’s experience
-   - Remarks on problematic real behaviour in game play
+Example activities which demonstrate this incude:
+
+   - Redirection of other participant's activity back to reflect their earlier goals
+   - Invitation to imagine the end game player’s experience
+   * Advancing or suggesting alterations to collaborative working practices
 
 ### Publishing and Evaluating
-The process of making work public or sharing a 'finished' version with the group is a key part of the design process and one which can harness key skills of validational and evaluation in a focused way.
+The process of making work public or sharing a 'finished' version with the group is a key part of the design process.
+The process can support development of the key skills of validation and evaluation.
 
+Examples include:
+* Creating a public link from a game making workspace
+* Sharing a project for playtesting or evaluation
+* Requesting or providing formative feedback on a game project
 
 ## 21st Century Skills
 ***21st Century Skills including Digital Literacies***
@@ -227,31 +232,37 @@ The topic of **digital and web literacy** is broad. ]The web literacy project by
 specific digital skills that are well suited to the kind of collaborative and digital game making
 outlined in this programme are listed at the end of this section.
 
-### Developing Shared Practices and Vocabulary
+### Developing Shared Vocabulary
 The process of working on a joint project involves the development of shared understanding of the problem being worked on. This may involve
-checking working concepts by advancing them and questioning meaning of other's expression. This may also include advancing new
-understandings of concepts or processes being worked with.  
+checking working concepts by advancing them and questioning meaning of other's expression. Related activities also include
 
-* Requesting or offering help in solving problems
+ Examples include:
 
-### Joint Problem Solving and Development of Understanding
-While, this dimension of learning is linked to collaborative production above, it is more reflective in nature.
-Examples include:
+* Asking or providing clarification of terms being used
+* Requesting or offering help in solving problems using specialist terms
 
-* Offering explanation(s) for a strategy, tool, or outcome
-* Applying knowledge
-* Striving to understand
-* Linking existing experience to wider learning
+### Problem Solving
+Problem solving and developing understanding develops some of the aspects of collaborative work to
+working processes or domain knowledge.
+
+Example behaviour includes:
+
+* Giving explanation for outcomes or tactics
+* Applying exising knowledge to the problem at hand
+* Striving to understand project concepts
+* Linking project experience to wider learning
 
 
-### Digital Literacy: Navigating Windows, Tabs and Internet Sites
+### Web Navigation
 The detail of moving from website to another, especially when keeping several browser tabs open, offers the  
-chance to learn and share a variety of practices which make up key web-navigations literacies.
-This is an area where young people often are able to help adults. Activities include:
-* asking or offering help in navigating between websites or browser tabs  
-* parents or siblings as a repository for the logins and passwords of their children
+chance to learn and share a variety of practices which make up key web-navigation literacies.
+This is an area where young people often are able to help adults.
 
-### Digital Literacy: Version Control
+Activities include:
+* Asking or offering help in navigating between websites or browser tabs  
+* Parents or siblings as a repository for the logins and passwords of their children
+
+### Version Control
 The way MakeCode doesn't support log ins encourages a process of saving versions of your work frequently
 and saving them in a document,
 say an online google doc with dates and descriptions. The process of keeping a track of different versions
@@ -260,17 +271,17 @@ to keep track of changes to our game is a great way to start to understand the v
 
 Example behaviour showing this skill includes:
 
-* encourament between participants to save work
-* keeping written records of changes
-* deciding to create a new version of work
-* explaining and reminding peers of value of version control
+* Encourament between participants to save work
+* Keeping written records of changes
+* Deciding to create a new version of work
+* Explaining and reminding peers of value of version control
 
-### General Support in undertaking the Project
+### Wider Project Support
 The process of offering, providing or requesting help with the non-technical aspects of advancing the project in question.
- There are other aspects of support which are needed outside of the session like access to resources or helping particpants to access the learning
+ There are other aspects of support which are needed outside of the session like access to resources or helping particpants to access learning
 in a general sense. This is often the role of parents but sometimes siblings or child participants step into this role.
 Example behaviours include:
 
-* emotional support through general encouragement and keeping a sense of perspective
-* brokering access to learning opportunities
-* procuring resources to support fellow participants
+* Emotional support through general encouragement and keeping a sense of perspective
+* Brokering access to learning opportunities
+* Procuring resources to support fellow participants
