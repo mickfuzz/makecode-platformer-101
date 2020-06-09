@@ -19,7 +19,7 @@ A particular activity or task can be expressed as a series of steps or instructi
 
 
 ### Variables
-Varables area kind of data that involves storing, retrieving, and updating values. Variables can contain numbers or strings or images and are particularly useful when we know something may change when our program is running. 
+Varables area kind of data that involves storing, retrieving, and updating values. Variables can contain numbers or strings or images and are particularly useful when we know something may change when our program is running.
 
 ### Loops
 We could programme an enemy to move 100 pixels to the right, wait 0.2 seconds, and then to repeat the action – moving another 10 steps, and waiting another 0.2 seconds. What if, instead of a single repetition of the action, we want the enemy to move and wait three more times? We could easily add more move and wait blocks. But what if we wanted to repeat the process 100 or 1000 more times? Loops are a way to run the same sequence many times.
@@ -161,22 +161,29 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 This adaptation of design-based concepts to game making is  inspired by the [computational thinking defintions of Brennan and Resnick](http://scratched.gse.harvard.edu/ct/files/AERA2012.pdf).
 
-### Goal Setting (decision to add a new mechanic, or change space in a fundamental way)
-The process of remxing a game Example activities which demonstrate this incude:
-   - Invitation to set new goal or revise existing goals
-   - Participant expressing a new goal to include in game or around the wider making experience
-   - Clarification or questions on desired design behaviour
+### Goal Setting
+
+The process of remxing a game involves decisions to change the game intentionally in minor or more fundamental ways. These moments of participant initiative draw from and
+build on existing knowledge.
+
+ Example activities which demonstrate this incude:
+
+   - Invitation to peers to set new goal or revise existing goals
+   - Participants expressing new goals to include in game or around the wider making experience
+   - Clarification or questions about desired design behaviour
 
 ### Being incremental and iterative
 Designing a project is not a clean, sequential process of first identifying a concept for a project,
 then developing a plan for the design, and then implementing the design in code. It is an adaptive
-process, one in which the plan might change in response to approaching a solution in small steps.
+process, one in which the plan might change in response to approaching a solution in small steps. Examples include:
+
    - Small revisions to address the game pattern being worked on or sub goals
    - Changes which seeking to maintain or create game balance for suitable challenge level
    - Evaluating aesthetics of graphics / sound elements and revising further
 
 ### Debugging
 Various testing and debugging practices are possible from learning to scan block code for error messages, to using tools to watch variables. Debugging involves different strategies for dealing with  different kinds of errors including:
+
    - Glitches - code still works but unexpected result (questioning
    - No errors blank screen, no idea (often retrace steps, go back to earlier version, or have to start again)
    - Clues, greyed out code, red dots, error messages (try to narrow down issue, remove sections of code, again go back, try to find duplication of code blocks)
@@ -196,7 +203,10 @@ work to reuse and remix.
    - More direct copying of code via observation or conversation
 
 ### Collaborative Production
-Where participants work together on game making as pairs or in family groups example activities which demonstrate this incude:
+
+Where participants work together on game making as pairs or in family groups
+
+example activities which demonstrate this incude:
    - Refocusing: redirection back to other participants earlier goals
    - Invitation to imagine the ideal player’s experience
    - Remarks on problematic real behaviour in game play
@@ -233,16 +243,6 @@ Examples include:
 * Striving to understand
 * Linking existing experience to wider learning
 
-### Non-Technical Project Support
-The process of offering, providing or requesting help with the non-technical aspects of advancing the project in question.
- There are other
-aspects of support which are needed outside of the session like access to resources or helping particpants to access the learning
-in a general sense. This is often the role of parents but sometimes siblings or child participants step into this role.
-This includes:
-
-* emotional support through general encouragement and keeping a sense of perspective
-* brokering access to learning opportunities
-* procuring resources to support fellow participants
 
 ### Digital Literacy: Navigating Windows, Tabs and Internet Sites
 The detail of moving from website to another, especially when keeping several browser tabs open, offers the  
@@ -260,14 +260,17 @@ to keep track of changes to our game is a great way to start to understand the v
 
 Example behaviour showing this skill includes:
 
-* encourament between participants to save work and keep a record of changes
+* encourament between participants to save work
+* keeping written records of changes
+* deciding to create a new version of work
+* explaining and reminding peers of value of version control
 
+### General Support in undertaking the Project
+The process of offering, providing or requesting help with the non-technical aspects of advancing the project in question.
+ There are other aspects of support which are needed outside of the session like access to resources or helping particpants to access the learning
+in a general sense. This is often the role of parents but sometimes siblings or child participants step into this role.
+Example behaviours include:
 
-
-### Notes on Missing elements - TO INTEGRATE
-If we look [ at Frameworks here](https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#) we can see missing elements around reflection, and expressing elements of understanding (some of which integrated above).
-
-* Social scaffolding
-* Development of understanding
-NOTE - The are links with 'perspectives' in Brennan and Resink which are more linked to 21st Century
-Skills. See also Barron's categorisation of helping behaviours around technology.
+* emotional support through general encouragement and keeping a sense of perspective
+* brokering access to learning opportunities
+* procuring resources to support fellow participants
