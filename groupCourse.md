@@ -99,8 +99,8 @@ Additionally as a bonus can you see any of the following:
 If you are a planner then you may want to take the time to work your way through these tutorials.
 If not jump right on to the next section.
 
-- [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/partOne)
-- [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartTwo)
+- [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
+- [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartTwo)
 
 ### Goal Setting and Getting Cracking Making our Game
 
