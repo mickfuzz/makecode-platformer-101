@@ -38,7 +38,6 @@ Add or change what you do in the game
 
 Change the look and feel of the game and add to the story
 
-- [Gain Points when Collecting Food](collectPoints)
 - [Add Graphical Effects](simpleGraphicalEffects)
 - [Add Sound Effects](soundEffects)
 - [Add a Sound Track (Music)](soundTrack)
@@ -60,6 +59,7 @@ Change the shape or nature of the playing space of the game.
 
 Through challenge and systems, games get harder as you progress to keep your interest.
 
+- [Gain Points when Collecting Food](collectPoints)
 - [Add a Timer](addTimer)
 - [Collect all Food before Progressing](collectAllFood)
 - [Power up - Higher Jump](powerUpJump)
