@@ -43,11 +43,11 @@ Now let's change to replace the Game Over lose block with a **change lives by -1
 
 ## Reflecting on what's happening
 
-In this example you are using a [Variable](learningDimensions#variables)of called life to keep track of the player lives. In this example you start with three and you update the value of that [Variable](learningDimensions#variables) everytime you bump into an enemy.
+**[Variables](learningDimensions#variables):** In this example you are using a [Variable](learningDimensions#variables) of called life to keep track of the player lives. In this example you start with three and you update the value of that [Variable](learningDimensions#variables) everytime you bump into an enemy.
 
-The **on sprite kind overlap** block is always listening out for a change where if there is a new overlap with an enemy the programme will run the code inside that block. This kind of [Change Listener](learningDimensions#change-listener) is often used in computer programmes to react to new situations.
+**[Change Listener](learningDimensions#change-listener):** The **on sprite kind overlap** block is always listening out for a change where if there is a new overlap with an enemy the programme will run the code inside that block. This kind of [Change Listener](learningDimensions#change-listener) is often used in computer programmes to react to new situations.
 
-The use of new lives means that the balance of the game will be altered. This may make it easier so you may need to balance this out by making something in your game harder. This process of balancing out systems elements allow us to explore [Systems Dynamics](learningDimensions#systems-dynamics).
+**[Systems Dynamics](learningDimensions#systems-dynamics):** The use of new lives means that the balance of the game will be altered. This may make it easier so you may need to balance this out by making something in your game harder. This process of balancing out systems elements allow us to explore [Systems Dynamics](learningDimensions#systems-dynamics).
 
 ## Test your Changes and Next Steps
 
