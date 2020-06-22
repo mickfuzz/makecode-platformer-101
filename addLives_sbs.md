@@ -6,7 +6,7 @@
 
 In this tutorial we will **add player lives** to our platformer.
 To do this tutorial you will also need to have done one on *Add an Enemy*.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/makecode-platformer-101)
+If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
  to create the game step by step.
 
 #### About this Game Pattern

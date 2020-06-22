@@ -2,7 +2,7 @@
 
 In this tutorial we will change the game so that the player has to collect all items of Food before they can  win the game or .
 progress to the next level.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/makecode-platformer-101)
+If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
  to create the game step by step.
 
 ## About this Game Pattern

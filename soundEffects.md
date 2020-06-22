@@ -1,7 +1,7 @@
 # Remixing a Platformer Game - Add Sound Effects
 
 In this tutorial we will add **Sound Effects** to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/makecode-platformer-101)
+If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
  to create the game step by step.
 
 ## About this Game Pattern
