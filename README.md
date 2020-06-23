@@ -7,23 +7,10 @@ game patterns and features.
 One way to learn coding in depth is to learn how to *make the sample game from scratch* and you can do that by following this
 [Tutorial to create game from scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne) and [Part Two](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartTwo)
 
-| [Tutorial to create game from scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)             |  [Part Two](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartTwo) |
+| [Tutorial to Create Game from Scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)             |  [Tutorial to Create Game from Scratch Part Two](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartTwo) |
 :-------------------------:|:-------------------------:
 ! <ul><li>Create a Player character</li> <li>Move the Player element around the screen</li><li>Create a Game Space using platforms using the tilemap tool </li><li>Add Food to collect using the tilemap tool</li></ul>| <ul><li>Adding an end goal that you must touch to win game</li> <li>Make it so you must collect all Food to win game</li><li>Creating a larger Game Space </li><li>Adding Levels</li><li>Adding a Timer</li></ul>
   
-
-[Tutorial to create game from scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
-* Create a Player character
-* Move the Player element around the screen
-* Create a Game Space using platforms using the tilemap tool
-* Add Food to collect using the tilemap tool
-
-[Tutorial to create game from scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
-* Adding an end goal that you must touch to win game
-* Make it so you must collect all Food to win game
-* Creating a larger Game Space
-* Adding Levels
-* Adding a Timer
 
 
 Another fun way is to remix this [starting template of a Platform Game](https://makecode.com/_6630XRAuUePh)
