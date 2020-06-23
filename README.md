@@ -4,8 +4,14 @@
 This course is built on the simple idea of starting with a platform game and adding familiar
 game patterns and features.
 
-A fun way is to remix this [starting template of a Platform Game](https://makecode.com/_6630XRAuUePh)
+### Remix a Starting Game Template
+
+A fun way to start is to remix a [starting template of a Platform Game](https://makecode.com/_6630XRAuUePh)
 by adding in different features which we call [Game Patterns](https://mickfuzz.github.io/makecode-platformer-101/gamePatterns)
+
+| Starting Game To Remix | Patterns to Add to Game  |
+| :-------------------------- | :-------------------------- |
+| ![starting template](/images/summary_1.png) 	 | ![starting template](/images/summary_2.png) |
 
 Another way to learn coding from first principles is to learn how to *make the sample game from scratch* and you can do that by following the following tutorials made with the MakeCode tutorial system. 
 
