@@ -7,14 +7,9 @@ game patterns and features.
 One way to learn coding in depth is to learn how to *make the sample game from scratch* and you can do that by following this
 [Tutorial to create game from scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne) and [Part Two](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartTwo)
 
-| [Tutorial to create game from scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)             |  Block letters |
+| [Tutorial to create game from scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)             |  [Part Two](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartTwo) |
 :-------------------------:|:-------------------------:
-!* Create a Player character
-* Move the Player element around the screen
-* Create a Game Space using platforms using the tilemap tool
-* Add Food to collect using the tilemap tool|  ![Tutorial to create game from scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
-
-
+! <ul><li>Create a Player character</li> <li>Move the Player element around the screen</li><li>Create a Game Space using platforms using the tilemap tool </li><li>Add Food to collect using the tilemap tool| <ul><li>Create a Player character</li> <li>Move the Player element around the screen</li><li>Create a Game Space using platforms using the tilemap tool </li><li>Add Food to collect using the tilemap tool  
 
 [Tutorial to create game from scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
 * Create a Player character
