@@ -12,8 +12,8 @@ Another way to learn coding from first principles is to learn how to *make the s
 ![makecode layout](/images/tutorial_1.png) 	
 
 | [Tutorial to Create Game from Scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)             |  [Tutorial to Create Game from Scratch Part Two](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartTwo) |
-:-------------------------- | :--------------------------
-<ul><li>Create a Player character</li> <li>Move the Player element around the screen</li><li>Create a Game Space using platforms using the tilemap tool </li><li>Add Food to collect using the tilemap tool</li></ul>| <ul><li>Adding an end goal that you must touch to win game</li> <li>Make it so you must collect all Food to win game</li><li>Creating a larger Game Space </li><li>Adding Levels</li><li>Adding a Timer</li></ul>
+| :-------------------------- | :-------------------------- |
+| <ul><li>Create a Player character</li> <li>Move the Player element around the screen</li><li>Create a Game Space using platforms using the tilemap tool </li><li>Add Food to collect using the tilemap tool</li></ul> | <ul><li>Adding an end goal that you must touch to win game</li> <li>Make it so you must collect all Food to win game</li><li>Creating a larger Game Space </li><li>Adding Levels</li><li>Adding a Timer</li></ul> |
   
 
 ## Course Materials
