@@ -6,12 +6,15 @@ game patterns and features.
 
 ### Remix a Starting Game Template
 
-A fun way to start is to remix a [starting template of a Platform Game](https://makecode.com/_6630XRAuUePh)
+A fun way to start coding and game making is to remix a [starting template of a Platform Game](https://makecode.com/_6630XRAuUePh)
 by adding in different features which we call [Game Patterns](https://mickfuzz.github.io/makecode-platformer-101/gamePatterns)
 
 | Starting Game To Remix | Patterns to Add to Game  |
 | :-------------------------- | :-------------------------- |
-| ![starting template](/images/summary_1.png) 	 | ![starting template](/images/summary_2.png) |
+| ![starting template](/images/summary_3.png) 	 | ![starting template](/images/summary_2.png) |
+
+
+### Step by Step Instructions from First Principles
 
 Another way to learn coding from first principles is to learn how to *make the sample game from scratch* and you can do that by following the following tutorials made with the MakeCode tutorial system. 
 
@@ -22,7 +25,7 @@ Another way to learn coding from first principles is to learn how to *make the s
 | <ul><li>Create a Player character</li> <li>Move the Player element around the screen</li><li>Create a Game Space using platforms using the tilemap tool </li><li>Add Food to collect using the tilemap tool</li></ul> | <ul><li>Adding an end goal that you must touch to win game</li> <li>Make it so you must collect all Food to win game</li><li>Creating a larger Game Space </li><li>Adding Levels</li><li>Adding a Timer</li></ul> |
   
 
-## Course Materials
+### Follow this Example Course 
 There is material here for a five session course on game making. This takes two forms:
 
 * [Session Materials to run with a group of participants](https://mickfuzz.github.io/makecode-platformer-101/groupCourse)
