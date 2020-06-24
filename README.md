@@ -11,13 +11,14 @@ by adding in different features which we call [Game Patterns](https://mickfuzz.g
 
 | Starting Game To Remix | Patterns to Add to Game  |
 | :-------------------------- | :-------------------------- |
-| [<img src="/images/summary_3.png">](https://makecode.com/_6630XRAuUePh) | [<img src="/images/summary_2.png">](https://mca-platformer-examples.glitch.me/) |
+| [<img src="/images/summary_3.png">](https://makecode.com/_6630XRAuUePh) | [![tutorials](/images/summary_2.png)](https://mca-platformer-examples.glitch.me/) |
 
 ### Step by Step Instructions from First Principles
 
-Another way to learn coding from first principles is to learn how to *make the sample game from scratch* and you can do that by following the following tutorials made with the MakeCode tutorial system.
+Another way to learn coding from first principles is to learn how to [make the sample game from scratch](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne) and you can do that by following the following tutorials made with the MakeCode tutorial system.
 
-[<img src="/images/tutorial_1.png">](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne) 	
+![tutorial](/images/tutorial_1.png) 	
+
 
 | [Tutorial to Create Game from Scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)             |  [Tutorial to Create Game from Scratch Part Two](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartTwo) |
 | :-------------------------- | :-------------------------- |
