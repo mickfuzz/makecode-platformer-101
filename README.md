@@ -2,7 +2,7 @@
 
 ## Summary
 This course is built on the simple idea of starting with a platform game and adding familiar
-game patterns and features. You can get started in a number of ways. See the sections below to find out more.
+game patterns and features. You can get started in a number of ways. See the sections below to find out more. If you find mistakes in this resource or want to contribute please [start an issue here.](https://github.com/mickfuzz/makecode-platformer-101/issues)
 
 ### Remix a Starting Game Template
 
