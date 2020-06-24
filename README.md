@@ -11,7 +11,7 @@ by adding in different features which we call [Game Patterns](https://mickfuzz.g
 
 | Starting Game To Remix | Patterns to Add to Game  |
 | :-------------------------- | :-------------------------- |
-| [<img src="/images/summary_3.png">](https://makecode.com/_6630XRAuUePh) | [![tutorials](/images/summary_2.png)](https://mca-platformer-examples.glitch.me/) |
+| [![template](/images/summary_3.png)](https://makecode.com/_FqWD64MxEiRi) | [![tutorials](/images/summary_2.png)](https://mca-platformer-examples.glitch.me/) |
 
 
 ### Step by Step Instructions from First Principles
