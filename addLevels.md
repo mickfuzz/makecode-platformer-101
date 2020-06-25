@@ -72,7 +72,10 @@ We will replace it with code that changes the level number and builds a new leve
 
 ### Code what happens when we complete a level
 In the **on sprite of kind Player overlaps Door** listener block add a **change level by 1** block.
-Next add a **set mySprite**
+Next add call createLevels block to recall the function that does the work of adding the different blocks to the game.
+
+![insert change levels block](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels7.png)
+
 
 ## Test your Changes and Next Steps
 
