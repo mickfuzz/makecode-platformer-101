@@ -1,11 +1,12 @@
 # Learning Dimensions of this Project
 
-This section includes a map of different learning dimensions which are possible and likely to emerge from taking part in this
-game making course. It is inspired by the work of Bevan and Petrich around their study of 'tinkering' in science museums, who through
-close observation in partnership with learning facilitators mapped some of the complex learning processes which may be
+This section includes a map of different learning dimensions which are possible and likely to emerge from taking part in this game making course.
+
+It is inspired by the work of Bevan and Petrich around their study of 'tinkering' in science museums, who through close observation in partnership with learning facilitators
+mapped some of the complex learning processes which may be
 hard to spot in a quite chaotic and messy learning environment.
 
-LINK to the
+Other ideas behind the structure of this section [are explored here](makecode-platformer-101/#ideas-behind-this-course).
 
 * [Coding Concepts](#coding-concepts)
 * [Systems Patterns](#systems-patterns)
@@ -18,10 +19,10 @@ These concepts are based on the computational thinking concepts of Brennan and R
 be fully rewritten later.
 
 ### Sequences
-A particular activity or task can be expressed as a series of steps or instructions that can be run by a computer. Like a recipe, a sequence of programming instructions specifies the action that should be happen. The order that taks happen in is significant. Some bugs are due to errors to commands being run in the wrong sequence.
+A particular activity or task can be expressed as a series of steps or instructions that can be run by a computer. Like a recipe, a sequence of programming instructions specifies the action that should be happen. The order that tasks happen in is significant. Some bugs are due to errors to commands being run in the wrong sequence.
 
 ### Variables
-Varables area kind of data that involves storing, retrieving, and updating values. Variables can contain numbers or strings or images and are particularly useful when we know something may change when our program is running.
+Variables are a kind of data that involves storing, retrieving, and updating values. Variables can contain numbers or strings or images and are particularly useful when we know something may change when our program is running.
 
 ### Loops
 We could programme an enemy to move 100 pixels to the right, wait 0.2 seconds, and then to repeat the action – moving another 10 steps, and waiting another 0.2 seconds. What if, instead of a single repetition of the action, we want the enemy to move and wait three more times? We could easily add more move and wait blocks. But what if we wanted to repeat the process 100 or 1000 more times? Loops are a way to run the same sequence many times.
@@ -45,14 +46,7 @@ applicable beyond the world of making games especially in Interactive Media Desi
 * [Input Event](#input-event)
 * [Separate Formatting from Data](#separate-formatting-from-data)
 
-## Systems Patterns
 
-These ideas are common in the area  and Systems Thinking.
-
-* [Systems Elements](#systems-elements)
-* [Systems Dynamics](#systems-dynamics)
-* [Balancing Feedback Loops](#balancing-feedback-loops)
-* [Reinforcing Feedback Loops](#reinforcing-feedback-loops)
 
 ### Change Listener
 #### About this Pattern / Concept
@@ -106,6 +100,15 @@ These ideas are common in the area  and Systems Thinking.
 * **How this happens:** Examples include:
       - creating levels on start and when goal is reached
 
+## Systems Patterns
+
+      These ideas are common in the area  and Systems Thinking.
+
+      * [Systems Elements](#systems-elements)
+      * [Systems Dynamics](#systems-dynamics)
+      * [Balancing Feedback Loops](#balancing-feedback-loops)
+      * [Reinforcing Feedback Loops](#reinforcing-feedback-loops)
+
 ### Systems Elements
 
 #### About this Pattern / Concept
@@ -126,7 +129,7 @@ These ideas are common in the area  and Systems Thinking.
 #### About this Pattern / Concept
 * **Name:** Identifying Systems Dynamics
 
-* **Description:** Links between systems elements can be static or dynamic. For example in a game you can have a static number of hazards that never changes, or a dynamic population of enemies that may increase or decrease. The nature of relationship between enemies and player will then be different. The idea of stocks and flows is important.
+* **Description:** Links between systems elements can be static or dynamic. The idea of stocks and flows is important. For example in a game you can have a static number of hazards that never changes, or a dynamic population of enemies that may increase or decrease. The nature of relationship between enemies and player will then be different.
 
 * **Why is it needed :** Recognising dynamic parts of game system allows you to make more informed decisions about how it will change and react to changes. For example understanding these dynamics are important when making a game to make sure the level of challenge for the player is suitable.
 
@@ -159,7 +162,7 @@ These ideas are common in the area  and Systems Thinking.
 
 ## Design Practices
 
-This adaptation of design-based concepts to game making is inspired by the [computational thinking defintion of Brennan and Resnick](http://scratched.gse.harvard.edu/ct/files/AERA2012.pdf).
+This adaptation of design-based concepts to game making is inspired by the [computational thinking definition of Brennan and Resnick](http://scratched.gse.harvard.edu/ct/files/AERA2012.pdf).
 
 ### Goal Setting
 
@@ -252,13 +255,13 @@ working processes or domain knowledge.
 Example behaviour includes:
 
 * Giving explanation for outcomes or tactics
-* Applying exising knowledge to the problem at hand
+* Applying existing knowledge to the problem at hand
 * Striving to understand project concepts
 * Linking project experience to wider learning
 
 ### Wider Project Support
 The process of offering, providing or requesting help with the non-technical aspects of advancing the project in question.
- There are other aspects of support which are needed outside of the session like access to resources or helping particpants to access learning
+ There are other aspects of support which are needed outside of the session like access to resources or helping participants to access learning
 in a general sense. This is often the role of parents but sometimes siblings or child participants step into this role.
 Example behaviours include:
 
@@ -284,7 +287,7 @@ to keep track of changes to our game is a great way to start to understand the v
 
 Example behaviour showing this skill includes:
 
-* Encourament between participants to save work
+* Encouragement between participants to save work
 * Keeping written records of changes
 * Deciding to create a new version of work
 * Explaining and reminding peers of value of version control
