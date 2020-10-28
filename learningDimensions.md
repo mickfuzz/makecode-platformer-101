@@ -1,13 +1,16 @@
 # Learning Dimensions of this Project
 
-This section includes a map of differnt learning dimensions which are possible and likely to emerge from taking part in this
+This section includes a map of different learning dimensions which are possible and likely to emerge from taking part in this
 game making course. It is inspired by the work of Bevan and Petrich around their study of 'tinkering' in science museums, who through
 close observation in partnership with learning facilitators mapped some of the complex learning processes which may be
 hard to spot in a quite chaotic and messy learning environment.
 
+LINK to the
+
 * [Coding Concepts](#coding-concepts)
-* [Wider Patterns](#wider-patterns)
-* [Design Practices](#design-pratices)
+* [Systems Patterns](#systems-patterns)
+* [Computing Design Patterns](#computing-design-patterns)
+* [Design Practices](#design-practices)
 * [21st Century Skills](#21st-century-skills)
 
 ## Coding Concepts
@@ -32,15 +35,20 @@ certain conditions, which supports the expression of multiple outcomes. Operator
 string expressions, this commonly used to compare conditions before running code.
 
 
-## Wider Patterns
-### Wider Computing Patterns and Systems Concepts
+## Computing Design Patterns
 
-These wider patterns and concepts are a way to learn about wider computing practices that are also applicable beyond the world of making games. These ideas are common in the area of Interactive Media Design and Systems Thinking.
+These wider patterns and concepts are a way to learn about wider computing practices that are also
+applicable beyond the world of making games especially in Interactive Media Design.
 
+* [Creating Functions](#creating-functions)
 * [Change Listener](#change-listener)
 * [Input Event](#input-event)
 * [Separate Formatting from Data](#separate-formatting-from-data)
-* [Creating Functions](#creating-functions)
+
+## Systems Patterns
+
+These ideas are common in the area  and Systems Thinking.
+
 * [Systems Elements](#systems-elements)
 * [Systems Dynamics](#systems-dynamics)
 * [Balancing Feedback Loops](#balancing-feedback-loops)
@@ -55,7 +63,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** In many media programmes you need to change formatting or to make something happen based on the conditions of other objects.
 
-* **Examples in MakeCode:** Examples include:
+* **How this happens:** Examples include:
   - listening for the player being in a condition of overlap with an Enemy
   - changing the animation of a player based on if they are still, moving or jumping
 
@@ -69,7 +77,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** Working with User Input is a key part of most computer programming design, it allows the user to interact with the programme to make things happen.
 
-* **How this happens in MakeCode:** Examples include:
+* **How this happens:** Examples include:
   - controlling the player movements
 
 ### Separate Formatting from Data
@@ -82,7 +90,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** In many examples this separation allows editors of the project to make changes to the data easily without worrying about the formatting.
 
-* **How this happens in MakeCode:** Examples include:
+* **How this happens:** Examples include:
     - using tilemaps to represent level layout
 
 ### Creating Functions
@@ -95,7 +103,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** The concept is in line with a programming principle called DRY (Don't Repeat Yourself). It allows you to call the same piece of code from different parts of your programme so you don't have to repeat them in more than one place.
 
-* **How this happens in MakeCode:** Examples include:
+* **How this happens:** Examples include:
       - creating levels on start and when goal is reached
 
 ### Systems Elements
@@ -109,7 +117,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** This process of recognising and naming the system elements is the start of being able to understand how a system works.
 
-* **How this happens in our Platformer:** Examples include:
+* **How this happens:** Examples include:
    - naming the components, rules, space, mechanics and goals of our starting platformer
    - the process of making changes to these game elements
 
@@ -118,11 +126,11 @@ These wider patterns and concepts are a way to learn about wider computing pract
 #### About this Pattern / Concept
 * **Name:** Identifying Systems Dynamics
 
-* **Description:** Links between systems elements can be static or dynamic. For example in a game you can have a static number of hazards that never changes, or a dynamic number of enemies that may increase or decrease. The nature of relationship between hazards and player or enemies and player will then be different.
+* **Description:** Links between systems elements can be static or dynamic. For example in a game you can have a static number of hazards that never changes, or a dynamic population of enemies that may increase or decrease. The nature of relationship between enemies and player will then be different. The idea of stocks and flows is important.
 
-* **Why is it needed :** Recognising dynamic parts of systems allows you to make more informed decisions about how it will change and react to changes. For example understanding these dynamics are important when making a game to make sure the level of challenge for the player is suitable.
+* **Why is it needed :** Recognising dynamic parts of game system allows you to make more informed decisions about how it will change and react to changes. For example understanding these dynamics are important when making a game to make sure the level of challenge for the player is suitable.
 
-* **How this happens in our Platformer:** Examples include:
+* **How this happens:** Examples include:
       - increasing the number of enemies to increase challenge
 
 ### Balancing Feedback Loops
@@ -134,7 +142,7 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** In eco-systems balancing loops work to keep a system stable, preventing there from being too many predators for example, as they will die off if there isn't enough food for them to prey on. In games balance is needed to maintain the right level of challenge for the player.  
 
-* **How this happens in our Platformer:** Examples include:
+* **How this happens:** Examples include:
       - gravity acting as a balancing force to jump velocity
 
 ### Reinforcing Feedback Loops
@@ -146,19 +154,18 @@ These wider patterns and concepts are a way to learn about wider computing pract
 
 * **Why is it needed :** In a game you may want a reinforcing loop if you want to increase the challenge fo a game. For example, you may want the number of enemies to drastically increase towards the end of a level.
 
-* **How this happens in our Platformer:** Examples include:
+* **How this happens:** Examples include:
       - creating a hectic game with many spawning enemies
 
 ## Design Practices
 
-This adaptation of design-based concepts to game making is  inspired by the [computational thinking defintions of Brennan and Resnick](http://scratched.gse.harvard.edu/ct/files/AERA2012.pdf).
+This adaptation of design-based concepts to game making is inspired by the [computational thinking defintion of Brennan and Resnick](http://scratched.gse.harvard.edu/ct/files/AERA2012.pdf).
 
 ### Goal Setting
 
-The process of remxing a game involves decisions to change the game intentionally in minor or more fundamental ways. These moments of participant initiative draw from and
-build on existing knowledge.
+The process of remixing a game involves decisions to change the game intentionally in minor or more fundamental ways. These moments of participant initiative draw from and build on existing knowledge.
 
- Example activities which demonstrate this incude:
+ Example activities which demonstrate this include:
 
    - Invitation to peers to set new goal or revise existing goals
    - Participants expressing new goals to include in game or around the wider making experience
