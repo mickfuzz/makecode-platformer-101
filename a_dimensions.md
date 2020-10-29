@@ -2,7 +2,11 @@
 
 ##Coding Concepts involved
 
-[Data](learningDimensions#lists), [Change Listener](learningDimensions#change-listener), [Variables](learningDimensions#variables), [Sequences](learningDimensions#sequences), [Loops](learningDimensions#loops), [Logic](learningDimensions#logic)
+[Arrays](learningDimensions#arrays),  
+[Variables](learningDimensions#variables),
+[Sequences](learningDimensions#sequences),
+[Loops](learningDimensions#loops),
+[Logic](learningDimensions#logic)
 
 ##Systems Thinking:
 [Systems Elements](#systems-elements)

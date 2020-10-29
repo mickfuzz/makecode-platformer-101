@@ -14,9 +14,7 @@ If you want to understand more about how the starting code of the template works
 
 * **Need for Pattern:** Having the ability to change the level space design is important to be able to change the challenge level of your game.  
 
-* **Related Game Patterns:** [Add More Levels](moreLevels) [related], [Change Shape of Levels](changeLevelShape) [related]
-
-* **Coding Concepts involved:** [Data](learningDimensions#data)
+* **Coding Concepts involved:** [Lists](learningDimensions#lists),  
 
 * **Links to other Computing Patterns:** [Separate Formatting from Data](#separate-formatting-from-data)
 
@@ -40,7 +38,7 @@ Click on your tilemap image and add in more platforms using the tile gallery.
 Create a line of tiles to be a platform. Choose a suitable tile for your platform.
 You can choose the first, default one or another kind if you want to create variation.
 
-The program does not know that we want these squares to be ones our player can stand one and not travel throught yet.
+The program does not know that we want these squares to be ones our player can stand one and not travel through yet.
 To do this select the **Wall Drawing tool** and click the same squares. Then click on Done.
 
 ![Create a row of images and walls ](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/makecode-1-2020-02-14-145027.gif)

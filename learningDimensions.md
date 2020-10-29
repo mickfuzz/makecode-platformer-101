@@ -18,14 +18,48 @@ Other ideas behind the structure of this section [are explored here](README.md#i
 These concepts are needed to put Algorithmic Thinking into practice. The following are loosely  based on the computational thinking concepts of [Brennan and Resnick](http://scratched.gse.harvard.edu/ct/files/AERA2012.pdf).
 
 ### Sequences
-A particular activity or task can be expressed as a  series of steps or instructions that can be run by a computer. Like a recipe, a sequence of programming instructions specifies the action that should be happen. The order that tasks happen in is significant. Some bugs are due to errors to commands being run in the wrong sequence.
+* **Description:** Tasks that can be expressed as a series of steps.
 
-* **How it happens in practice:**  An example of a sequence is the starting sequence that runs when
+* **Why is it needed :** Computers don't have common sense. They need precise instructions that are broken down into individual steps. The order that tasks happen in is significant. Some bugs are due to errors to commands being run in the wrong sequence.
 
-* **Game Patterns exploring this concept:** [Add Player Lives](addLives),
+* **How it happens in practice:** You would put the sequence inside a on start block. An example from our starting template is below.
+
+![logic](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/logic_1.png)
+
+A common practice when there is a set of instructions that might be run in more than one situation, or to keep code neat is to create a separate function. The last block of the
+code above does that.
+
+* **Examples in our Game Patterns:**  [Add Player Lives](addLives),
 
 ### Variables
-* **Description:** Variables are a kind of data that involves storing, retrieving, and updating values. Variables can contain numbers or strings or images and are particularly useful when we know something may change when our program is running.
+* **Description:** Variables are a kind of data that involves storing, retrieving, and updating values.
+
+* **Why is it needed :** Variables are useful when we know something may change when our program is running. For example if we create more than one level, we can create a variable
+called level and increase this each time a player progresses.  
+
+* **How it happens in practice:** You can create and set variable us using blocks in the
+Variable section.
+
+![logic](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/variables_1.png)
+
+
+* **Examples in our Game Patterns:**  [Add More Levels](addLevels),
+
+### Logic
+* **Description:** the ability to make decisions based on
+certain conditions so that of multiple outcomes may occur.
+
+* **Why is it needed :**
+This is a key concept in interactive media as it allows for different things to
+happen based on different input choices from the user / player. Or in games to respond to different conditions of play in the game.
+
+* **How it happens in practice:**
+
+There are logic blocks in MakeCode which express different pathways using the if / then / else logical pattern. Comparison blocks let you compare the values of mathematical and text values and then run different blocks of code depending on the result.
+
+![logic](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/logic_1.png)
+
+* **Examples in our Game Patterns:** [Animate your Player's Movements](animatePlayer.md)
 
 ### Loops
 * **Description:** A loop is a way of repeating a piece of code so that it runs more than once.
@@ -36,15 +70,21 @@ A particular activity or task can be expressed as a  series of steps or instruct
 
 ![loop one](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/loop_1.png)
 
-* **Examples of Loops in our Game Patterns:** [Add Static Enemies](addStaticEnemy),
+* **Examples in our Game Patterns:** [Add Static Enemies](addStaticEnemy),
 
-### Lists
-Lists or Arrays also allow you to storing, retrieving, and updating values but as a flexible collection of numbers or strings or images. They are commonly used in combination with loops, to loop through a list of things to repeat a process.  
+### Arrays
+* **Description:** Arrays are a kind of list which also allow you to store and retrieve values but as a flexible collection of numbers or strings or images.   
 
-### Logic
-Another key concept in interactive media is logic / conditionals – the ability to make decisions based on
-certain conditions, which supports the expression of multiple outcomes. Operators provide support for mathematical, logical, and
-string expressions, this commonly used to compare conditions before running code.
+* **Why is it needed :**  Arrays are commonly used in combination with loops, to loop through a list of things to repeat a process. An example would be the way a tile map is turned
+into a game layout.
+
+* **How it happens in practice:** There is a group of code blocks in the advanced section
+of the Arcade MakeCode interface which help us to work with Arrays.
+
+![array](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/list_1.png)
+
+* **Examples in our Game Patterns:** [Change Design of Levels](changeLevelDesign)
+
 
 
 ## Computing Design Patterns
@@ -68,6 +108,8 @@ applicable beyond the world of making games especially in Interactive Media Desi
 * **How it happens in practice:** Examples include:
   - listening for the player being in a condition of overlap with an Enemy
   - changing the animation of a player based on if they are still, moving or jumping
+
+  [Add a Game Story with Messages](addMessages)
 
 ### Input Event
 

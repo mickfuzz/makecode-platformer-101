@@ -20,7 +20,7 @@ This game pattern is one of many you can add to your Platformer in this course.
 * **Need for Pattern:** Having more than one level is a way increasing the length and challenge of the game. You can also bring other elements
 of design and even game mechanics to new levels.
 
-* **Coding Concepts involved:** [Data](learningDimensions#data)
+* **Coding Concepts involved:** [Data](learningDimensions#data), [Variables](learningDimensions#variables),
 
 * **Links to other Computing Patterns:** [Systems Dynamics](learningDimensionss#systems-dynamics), [Change Listener](learningDimensions#change-listener)
 
