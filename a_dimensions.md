@@ -1,8 +1,18 @@
 # Listing Learning Dimensions
 
+##Coding Concepts involved
 
+[Data](learningDimensions#lists), [Change Listener](learningDimensions#change-listener), [Variables](learningDimensions#variables), [Sequences](learningDimensions#sequences), [Loops](learningDimensions#loops), [Logic](learningDimensions#logic)
 
+##Systems Thinking:
+[Systems Elements](#systems-elements)
+[Systems Dynamics](#systems-dynamics)
+[Reinforcing Feedback Loops](#reinforcing-feedback-loops)
+[Balancing Feedback Loops](#balancing-feedback-loops)
 
-* **Coding Concepts involved:** [Data](learningDimensions#lists), [Change Listener](learningDimensions#change-listener), [Variables](learningDimensions#variables), [Sequences](learningDimensions#sequences), [Loops](learningDimensions#loops), [Logic](learningDimensions#logic)
+## Computing Design Patterns
 
-* **Links to other Computing Patterns:** [Systems Dynamics](learningDimensions#systems-dynamics),[Change Listener](learningDimensions#change-listener),
+[Creating Functions](#creating-functions)
+[Change Listener](#change-listener)
+[Input Event](#input-event)
+[Separate Formatting from Data](#separate-formatting-from-data)
