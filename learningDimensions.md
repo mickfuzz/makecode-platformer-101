@@ -34,7 +34,7 @@ A particular activity or task can be expressed as a  series of steps or instruct
 
 * **How it happens in practice:** in Make Code we use green Loops blocks to repeat code. An example is the "repeat x times" block.
 
-images/blocks/loop_1.png
+![loop one](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/loop_1.png)
 
 * **Examples of Loops in our Game Patterns:** [Add Static Enemies](addStaticEnemy),
 
@@ -57,7 +57,7 @@ applicable beyond the world of making games especially in Interactive Media Desi
 * [Input Event](#input-event)
 * [Separate Formatting from Data](#separate-formatting-from-data)
 
-![loop one](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/loop_1.png)
+
 
 ### Change Listener
 
