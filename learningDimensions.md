@@ -57,7 +57,7 @@ applicable beyond the world of making games especially in Interactive Media Desi
 * [Input Event](#input-event)
 * [Separate Formatting from Data](#separate-formatting-from-data)
 
-![mechanics space polish and systems](/images/blocks/loop_1.png)
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/loop_1.png)
 
 ### Change Listener
 
