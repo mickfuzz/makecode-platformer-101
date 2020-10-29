@@ -24,7 +24,7 @@ These concepts are needed to put Algorithmic Thinking into practice. The followi
 
 * **How it happens in practice:** You would put the sequence inside a on start block. An example from our starting template is below.
 
-![logic](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/logic_1.png)
+![logic](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/sequence_1.png)
 
 A common practice when there is a set of instructions that might be run in more than one situation, or to keep code neat is to create a separate function. The last block of the
 code above does that.
