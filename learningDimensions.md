@@ -117,7 +117,8 @@ applicable beyond the world of making games especially in Interactive Media Desi
 * **Why is it needed :** Working with User Input is a key part of most computer programming design, it allows the user to interact with the programme to make things happen.
 
 * **How it happens in practice:**  Examples include:
-  - controlling the player movements
+  - controlling the player movements on screen
+  - responding to button presses for jumping for firing etc
 
 ### Separate Formatting from Data
 
@@ -139,12 +140,12 @@ applicable beyond the world of making games especially in Interactive Media Desi
 
 ## Systems Patterns
 
-      These ideas are common in the area  and Systems Thinking.
+These ideas are common in the area  and Systems Thinking.
 
-      * [Systems Elements](#systems-elements)
-      * [Systems Dynamics](#systems-dynamics)
-      * [Reinforcing Feedback Loops](#reinforcing-feedback-loops)
-      * [Balancing Feedback Loops](#balancing-feedback-loops)
+* [Systems Elements](#systems-elements)
+* [Systems Dynamics](#systems-dynamics)
+* [Reinforcing Feedback Loops](#reinforcing-feedback-loops)
+* [Balancing Feedback Loops](#balancing-feedback-loops)
 
 ### Systems Elements
 
