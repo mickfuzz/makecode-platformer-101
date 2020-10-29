@@ -42,7 +42,6 @@ Variable section.
 
 ![logic](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/variables_1.png)
 
-
 * **Examples in our Game Patterns:**  [Add More Levels](addLevels),
 
 ### Logic
