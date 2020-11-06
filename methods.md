@@ -1,15 +1,6 @@
-# Group Course Overview
+# Methods
 
-This page gives an overview of a five session platform game making programme. It is designed to be used as a guide to
-deliver the course to a group. You can work through it by yourself. There is also an [online individual course here](onlineCourse.md).  
-
-* [Session One](#session-one)
-* [Session Two](#session-two)
-* [Session Three](#session-three)
-* [Session Four](#session-four)
-* [Session Five](#session-five)
-
-### The Method in the Madness
+## The Method in the Madness
 
 Whenever I have delivered this kind of game making course, there is a kind of productive chaos that emerges.
 To help this to happen but also retain the illusion of control there are some techniques that are used to help
@@ -17,10 +8,10 @@ learners and facilitators to manage the kind of messy learning happening.
 
 * [Missions](gamePatterns): The core missions of this game making process are the Game Design Patterns that you choose
 * [Map](learningDimensions): The map here are the learning outcomes that can result from doing game making.
-* [Methods](methods): The techniques that facilitators and learners can use to help navigate the process of making a game
+* [Methods](#methods): The techniques that facilitators and learners can use to help navigate the process of making a game
 and reflecting on what is being learned in the process.
 
-## Session One - Jumping Right In
+## Methods
 
 ### Identify Game Mechanics
 
