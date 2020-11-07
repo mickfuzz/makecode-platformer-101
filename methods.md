@@ -1,30 +1,27 @@
 # Methods
 
-## The Method in the Madness
+Along with [Game Making Missions](gamePatterns) and a learning [Map of Learning Outcomes](learningDimensions),
+[Methods](#) are techniques that facilitators and learners can use to help navigate the process of making a game and reflecting on what is being learned in the process.
 
-Whenever I have delivered this kind of game making course, there is a kind of productive chaos that emerges.
-To help this to happen but also retain the illusion of control there are some techniques that are used to help
-learners and facilitators to manage the kind of messy learning happening.
+The following methods are ones that are used in the Group Course process, but which may
+also help individual game makers.
 
-* [Missions](gamePatterns): The core missions of this game making process are the Game Design Patterns that you choose
-* [Map](learningDimensions): The map here are the learning outcomes that can result from doing game making.
-* [Methods](#methods): The techniques that facilitators and learners can use to help navigate the process of making a game
-and reflecting on what is being learned in the process.
+* Discovering Game mechanics
+* Improving Half Baked Games
+* Circle / Physical Reflection Games
+* Predicting Code Outcomes via Games
 
-## Methods
+You'll see that the categories of activities have certain things in common.
 
-### Identify Game Mechanics
+* Playful / Gameful approach
+* Building on existing knowledge / experience
 
-We will start to understand games by playing a few arcade games and starting to look at what makes them tick.
-On entry participants play the following games ( from MakeCode )
+## Discovering Game Mechanics
 
-* [Chicken Run](https://makecode.com/_3jbT4hLeP9tH)
-* [Hot Air Ballon Game](https://makecode.com/_h7zCkiX4wgL0)
-* [Bunny Hop](https://makecode.com/_cj4WmuaT37sP)
-* [Eat the Fruit](https://makecode.com/_1Mvaf0TXPTdu)
-* [Level Up](https://makecode.com/_aMDL6JL9ELD6)
+Knowing what the main mechanics for games are and making sure that they feel fun and
+responsive for our player is key to making a great game.
 
-Write down the main VERBs for these games. Pick from the following some have more than one Mechanic.
+Game Mechanics are often represented as verbs. Examples include;
 
 * Collecting
 * Avoiding
@@ -32,12 +29,33 @@ Write down the main VERBs for these games. Pick from the following some have mor
 * Shooting
 * Walking / Running
 
-Knowing what the main mechanics for our game are and making sure that they feel fun and responsive for our player is key to making a
-great game.
+The process of identifying the verbs of the game, also normally allows the participants to
+list the main components of the game too. This can start to build a knowledge of systems dynamics.
 
-### Fix the Broken Game
 
-Now we will start coding by jumping right in. Try to play the following game. It's broken right? Now look at the code of this broken game and use the link to workshop cards with activities to fix the game and add some elements quickly.
+## Example Activity - Identify Game Mechanics in Existing Games
+
+We will start to understand games by playing a few arcade games and starting to look at what makes them tick.
+On entry participants play the following games (from MakeCode )
+
+* [Chicken Run](https://makecode.com/_3jbT4hLeP9tH)
+* [Hot Air Ballon Game](https://makecode.com/_h7zCkiX4wgL0)
+* [Bunny Hop](https://makecode.com/_cj4WmuaT37sP)
+* [Eat the Fruit](https://makecode.com/_1Mvaf0TXPTdu)
+* [Level Up](https://makecode.com/_aMDL6JL9ELD6)
+
+Write down the main VERBs for these games. Some have more than one Mechanic.
+
+## Improving Half Baked Games
+
+This process is a way to jump right into altering code. Instead of planning from first principles,
+learners are given a game that is designed to provoke players to tweak it. This process is inspired by game modding
+and a process called using [half-baked games](https://discovery.ucl.ac.uk/id/eprint/10079330/8/Giannoutsou_Children%20challenging%20the%20design%20of%20half-baked%20games.%20Expressing%20values%20through%20the%20process%20of%20game%20modding_AAM.pdf)
+is often called  
+
+### Example Activity - Fix the Broken Game
+Now we will start coding by jumping right in. Try to play [this game](https://makecode.com/_2iLfej4d6Rfa). It's broken right? You can't jump high enough.
+Now look at the code of this broken game and use the link to workshop cards with activities to fix the game and add some elements quickly.
 
 - [Broken Platform Game to Fix](https://makecode.com/_2iLfej4d6Rfa)
 - [Supporting Activity Cards](https://docs.google.com/presentation/d/1vgHFm4zSC3YEVAXJORSoDHBFYSBIHK2mSCNfgbpiaHY/edit?usp=sharing)
@@ -45,7 +63,13 @@ Now we will start coding by jumping right in. Try to play the following game. It
 At the end of the session make sure to Publish a copy of your game and to give it your own name.
 Keep a record of the link to your game. We'll come back to it next week.
 
-### To End - Reflection on Session One
+
+## Circle / Physical / Drama Games
+
+From stables of drama and community process. They are to introduce concepts in a playful way,
+and to help reflection - often this works just to draw participants away from their screens to interactive in a different way.  
+
+### Example Activity -  Reflection Web Activity to End a Session
 
 Play a quick reflection game to find out what people thought and got out of the first session. The [Reflection Web](https://pblactivities.wordpress.com/2018/09/03/reflection-web/) is a fun one to start with. Ask the following questions.
 
@@ -53,12 +77,131 @@ Play a quick reflection game to find out what people thought and got out of the 
 * Share something you found hard
 * Share something that surprised you
 
-### Homework - What kind of Game Player are you
+
+### Line Up Reflection Activity
+
+Paper Slide: On paper, individuals or groups sketch and write what they learned or have been working on this session.
+Then line up and, one at a time, slide their work under a video camera
+ while quickly summarizing what was learned. [The camera doesn’t stop recording](https://www.youtube.com/watch?v=vxF4P8vx3o8) until each representative has completed his or her summary.
+
+For this reflection activity ask participants to include any new objectives or work on systems dynamics.
+
+### Example Activity - A Game and Tips to Keep track of our Progress and our Games
+
+Play musical chairs. When someone is left standing up. Ask themselves
+
+* what new idea or coding technique jumped out for  you today?
+* what do you want to do next?
+
+Then share the following tips for participants to make the most of this course:
+
+* Working on your games at home is a great way to make the most of this course - check that you have all you need to be able to access your game later
+* Be careful in keeping track of the location of different versions of your games, include a version number, describe what changed, even  include a bit about what you are learned since the last version
+* If this works well then why not keep a separate learning journal to reflect on what you are learning?
+
+### Example Activity - Bomb and Shield
+Play a game to understand the elements of a game. There is a game called bomb and shield which you can play with a small group
+in the following way.
+
+* Mark out your game space, no-one can walk or run outside of that.
+* Everyone choose one person but don't say who it is. This person i your bomb
+* Choose another person but don't say who it is. This person i your shield
+* Everyone walk around the space but try to keep your shield between you and tyour bomb.
+
+Say Freeze. Stop the game and see who is safe.
+Play again, get them to swap people or choose new people.
+
+***Exploring the Elements of a Game***
+
+Outline the different elements of a game which can be changed by the designer to change the nature of the game.
+
+* Components - the nouns of the game for example for a platformer (player, collectable food, enemies, end goal sprite, )
+* Mechanics - the verbs of the game (walking, jumping, collecting)
+* Space - changes to the layout of the game (location of platforms, does the space scroll when you move)
+* Rules - what are you allowed to do, not allowed to do, what must you do (e.g. you must collect all food before progressing a level)   
+* Goal - what is the main goal of the player of your game (e.g. collecting points or progress to levels by reaching an end goal?)
+
+Have these written out and ask participants to try to match them with the following elements from our game.  
+
+* Bomb, Shield, Player
+* A clear space outside or in which is about the size of a room
+* You are not allowed to push people out the way.
+* Win the game by staying safe by having your shield protect you from your bomb
+* Walking
+
+Explain that digital games can be analysed in the same way and that we will learn to use this knowledge to make a challenging game.
+
+
+### Fun Project Evaluation and Reflection
+
+You may want to use this as an opportunity to gather feedback from participants on the course to make improvements
+and to  encourage final reflections from course members on what they gained from the game making activities. The following
+questions may be useful.
+
+FUN THIS UP?
+
+* How has your learning journey been?
+* What is the most noticeable change along the way?
+* Can you share about your changes in confidence in use of the specifics of coding concepts?
+* What do you feel you've learned about wider patterns - computer programming/ systems designs?
+* What are your final takeaways?
+
+
+## Drawing on Home Cultures
+
+This method is inspired by third space theory and the importance of being able to work with
+Home Discourses.
+
+### Using Hardware Device to Increase Motivation
+
+There are different hardware available for making a splash  with the finished games. Using hardware with buttons
+can also increase the playability of the games as well.
+
+These include:
+
+**Hand-held Devices**: A number of game-boy like devices exist which are great to use with old school buttons and mini screens. [See a list here.](https://arcade.makecode.com/hardware)
+
+![ boxes ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/devices1.jpg)
+
+**Arcade Cabinets**: A bit of carpentry can create a fun looking arcade cabinet, we have some great ones where we pop in old laptops and use arcade buttons and [makey makey's to create great looking machines](https://arcade.makecode.com/hardware/makey-makey).
+
+![ boxes ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/cardboard_panel1.jpg)
+
+**Cardboard Cabinets**: Even more fun perhaps is to make your own arcade cabinet machine out of cardboard and hook up your buttons and makey makey's to that. [More info here](https://arcade.makecode.com/hardware/raspberry-pi/cardboard-control-panel)
+
+![ boxes ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/cardboard_panel2.jpg)
+
+
+You may want to run an extra session on making a console with computer electronics including hardware elements of arcade buttons. There
+are [links to resources to help you here](https://arcade.makecode.com/hardware).
+
+If your project involves cardboard elements then it can be a great idea for participants to take the cardboard home and to
+decorate it with ideas from their game.
+
+
+### Showcasing to and External / Authentic Audience
+
+If you do have a chance it can be a really exciting experience to showcase your games at an event or in a public
+place where you can **get passing strangers to play your games**. For our courses at the Manchester Met University we have a captive audience of undergraduate students.
+
+I have found that this is often where parents come into their element. **Ask parents to be cproactive to draw in passing
+people** to play and give feedback on games.
+**It is very satisfying to witness strangers play your game** and experience the kind
+of fun frustration and desire to try again to beat a particular part of your level design.
+
+If this is not possible then try to make the final playing of each other's games a real event. **The use of the hardware
+and especially decoration of cardboard cabinets can really help to create a sense of an event.** Also ask participants
+what they want to do to **celebrate, share food, play music** as a shared play list for example.
+
+You may want to have in place a form which allows participants to **gather player reactions**. This can be via a written form or
+a quick recorded interview if suitable.
+
+### Example Activity - What kind of Game Player are you
 
 As digital and online games became more complicated Richard Bartle proposed that different people play these games in different
 ways and look to get different things out of them. In short there are different kinds of players. The Bartle test finds out what kind of game player you are. **[Do the online Bartle Player test.](http://matthewbarr.co.uk/bartle/)** You may be able to find a way of doing it as a group by moving around the room.
 
-This is also true of the way that people play games. There's a well known model of different play style types by Richard Bartle. This model, which was based on observing and analyzing the behaviors people playing together in a multi-user game, holds that there are four different kinds of play style interests, each of which is given a descriptive name: Griefers, Achievers, Explorers, and Socializers.
+This is also true of the way that people play games. There's a well known model of different play style types by Richard Bartle. This model, which was based on observing and analysing the behaviours people playing together in a multi-user game, holds that there are four different kinds of play style interests, each of which is given a descriptive name: Griefers, Achievers, Explorers, and Socializers.
 
 * Griefers: interfere with the functioning of the game world or the play experience of other players
 * Achievers: accumulate status tokens by beating the rules-based challenges of the game world
@@ -77,11 +220,46 @@ In the same way there are different styles of making games. I'm proposing the fo
 As well as different game player types, there are also different game maker types. These are listed here, but if you are a
 planner then you may want to really know how all of the code for our game works before you start to make other changes to it.
 
-## Session Two -  Understand Games with a Game
 
-### Matching Games to Code
+### Step by Step Tutorials - (suits Planners especially)
+If you are a planner then you may want to take the time to work your way through these tutorials.
+If not jump right on to the next section.
 
-On entry participants play the following games ( from MakeCode )
+- [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
+- [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartTwo)
+
+### Adding Game Patterns to a Starting Template (suits Magpies especially)
+
+In part one we made changes by adding features called [Game Patterns](gamePatterns) to a broken game. We are now going to start from  with a similar [Platform Game Template to Remix](https://makecode.com/_FqWD64MxEiRi). It is a bit
+simpler, for example there is only one level and you don't have to collect all food before winning.
+There are many ways of thinking about these patterns but in this guide we are dividing them up into the following:
+
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/mech_space_polish_systems.png)
+
+- Game Mechanics:  things to do with the actions of the game
+- Game Space: things to do with the layout of the game
+- Game Polish: music, backgrounds, graphics and story elements
+- Challenge and Systems: how different elements interact to create challenge
+
+Find a fuller list of the different [Game Patterns and how to apply them on this Page](gamePatterns).
+
+### Extra Missions (suits Socializers and Griefers especially)
+
+***Extra Mission Cards*** These extra missions encourage us to think of our games as dynamic systems that change as we play the game.  
+[Mission Cards for this Sessions](https://docs.google.com/document/d/1tKr8kWzoI6Hdn1zHPHmDP7hd4C_G12PSkwUP-Zsw69s/edit)
+
+You can point them towards elements of systems thinking that arise from these challenges. These may include the following.
+
+* [Systems Elements](learningDimensions#systems-elements)
+* [Systems Dynamics](learningDimensions#systems-dynamics)
+* [Balancing Feedback Loops](learningDimensions#balancing-feedback-loops)
+* [Reinforcing Feedback Loops](learningDimensions#reinforcing-feedback-loops)
+
+## Predicting Code Outcomes via a Matching Game
+
+### Matching Games to Code Game
+
+On entry participants play the following games (from MakeCode )
 
 * Galaga
 * Duck Run
@@ -97,32 +275,34 @@ Additionally as a bonus can you see any of the following:
 * Logic
 * Events
 
-#### Step by Step Tutorials for the Planners out there
-If you are a planner then you may want to take the time to work your way through these tutorials.
-If not jump right on to the next section.
+## Creative Design Session template
+### Creative Design Game Making Session Summary
 
-- [Tutorial Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
-- [Tutorial Part Two](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartTwo)
+Follow the Creative Design Game Making Session pattern as outlined in week two.
 
-### Goal Setting and Getting Cracking Making our Game
+* Set goals to add chosen game patterns
+* Follow the coding help to make the changes you need
+* Test the game yourself imagining the end player's experi####  ence
+* Play test other people's game and get feedback for yours
+* Reflect on our progress
 
-#### Adding Game Patterns to a Starting Template
+### Creative Design Checklist
 
-In part one we made changes by adding features called [Game Patterns](gamePatterns) to a broken game. We are now going to start from stratch with a similar [Platform Game Template to Remix](https://makecode.com/_FqWD64MxEiRi). It is a bit
-simpler, for example there is only one level and you don't have to collect all food before winning.
-There are many ways of thinking about these patterns but in this guide we are dividing them up into the following:
+Follow the Creative Design Game Making Session pattern as outlined in week two - **Set goals, follow the coding help, self-test the game yourself, play-testing, reflection on our progress**
 
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/mech_space_polish_systems.png)
+In terms of goal setting. What is becoming special about your game. What are the final changes you want to make?
+Use the following check list to make quick changes to your game.
 
-- Game Mechanics:  things to do with the actions of the game
-- Game Space: things to do with the layout of the game
-- Game Polish: music, backgrounds, graphics and story elements
-- Challenge and Systems: how different elements interact to create challenge
+* Do you have a strong story for your game? Can you add one?
+* Have you applied a Mission Card or a system pattern yet?
+* Have you got a balanced of game patterns added?
 
-Find a fuller list of the different [Game Patterns and how to apply them on this Page](gamePatterns).
+Also pay special attention to the **play testing phase** this time to see if you can see any glitches that others may find in your game.
 
-#### Starting our Creative Design Sessions
 
+### More Detail on Creative Design Game Making Sessions
+
+Locate Academically.
 The sessions are informal and different participants will be doing different things at different times.
 However there is a general pattern to help organise the chaos of our game making sessions.
 The sessions are based around the following pattern.
@@ -159,99 +339,32 @@ You can also use the MakeCode forum as a way of getting feedback this. To do thi
 There are different ways to do this, and if you are in a group you may want to make this into some kind of fun activity. There are
 some [nice closure ideas here](https://www.edutopia.org/blog/22-powerful-closure-activities-todd-finley)
 
-### To End - A Game and Tips to Keep track of our Progress and our Games
 
-Play musical chairs. When someone is left standing up. Ask themselves
+### Revising your Design Goals in the Final Stages
 
-* what new idea or coding technique jumped out for  you today?
-* what do you want to do next?
+When you are making a game it is common to not have the time to make
+all the changes you want to make.
 
-Then share the following tips for participants to make the most of this course:
+If you are nearing the end of the time you have allocated.
+You now have to make the difficult decisions to decide on the last big changes you will make to your game.
 
-* Working on your games at home is a great way to make the most of this course - check that you have all you need to be able to access your game later
-* Be careful in keeping track of the location of different versions of your games, include a version number, describe what changed, even  include a bit about what you are learned since the last version
-* If this works well then why not keep a separate learning journal to reflect on what you are learning?
+You also need to decide on which goals you will not be able to add to this game. To do this you can make a list and choose only
+the top two or three to work on. Try to use your experience from previous sessions to estimate how long this will take you.
+Try not to much more to your game in terms of new patterns. Focus as much as you can on the playability of your game.
+Make sure to allow time for a lot of self testing.
 
-## Session Three
+## Supporting Debugging
 
-### Playing the Game
-Play a game to understand the elements of a game. There is a game called boumb an dshild which you can play with a small group
-in the following way.
+### Describe and Post a problem to your peers or the MakeCode forum
 
-* Mark out your game space, no-one can walk or run outside of that.
-* Everyone choose one person but don't say who it is. This person i your bomb
-* Choose another person but don't say who it is. This person i your shield
-* Everyone walk around the space but try to keep your shield between you and tyour bomb.
+If you get stuck trying to add one element to your game then share a link of the broken game with your facilitator or the [friendly
+online MakeCode community](https://forum.makecode.com/c/Share-your-Arcade-projects-here/5).
 
-Say Freeze. Stop the game and see who is safe.
-Play again, get them to swap people or choose new people.
-
-### Know the Elements of a Game
-
-Outline the different elements of a game which can be changed by the designer to change the nature of the game.
-
-* Components - the nouns of the game for example for a platformer (player, collectable food, enemies, end goal sprite, )
-* Mechanics - the verbs of the game (walking, jumping, collecting)
-* Space - changes to the layout of the game (location of platforms, does the space scroll when you move)
-* Rules - what are you allowed to do, not allowed to do, what must you do (e.g. you must collect all food before progressing a level)   
-* Goal - what is the main goal of the player of your game (e.g. collecting points or progress to levels by reaching an end goal?)
-
-Have these written out and ask participants to try to match them with the following elements from our game.  
-
-* Bomb, Shield, Player
-* A clear space outside or in which is about the size of a room
-* You are not allowed to push people out the way.
-* Win the game by staying safe by having your shield protect you from your bomb
-* Walking
-
-Explain that digital games can be analysed in the same way and that we will learn to use this knowledge to make a challenging game.
-
-### Hands on Making
-
-### Creative Design Game Making Session
-
-Follow the Creative Design Game Making Session pattern as outlined in week two.
-
-* Set goals to add chosen game patterns
-* Follow the coding help to make the changes you need
-* Test the game yourself imagining the end player's experience
-* Play test other people's game and get feedback for yours
-* Reflect on our progress
-
-This week add in the following element to goals setting.
-
-***Extra Mission Cards*** These extra missions encourage us to think of our games as dynamic systems that change as we play the game.  
-[Mission Cards for this Sessions](https://docs.google.com/document/d/1tKr8kWzoI6Hdn1zHPHmDP7hd4C_G12PSkwUP-Zsw69s/edit)
-
-You can point them towards elements of systems thinking that arise from these challenges. These may include the following.
-
-* [Systems Elements](learningDimensions#systems-elements)
-* [Systems Dynamics](learningDimensions#systems-dynamics)
-* [Balancing Feedback Loops](learningDimensions#balancing-feedback-loops)
-* [Reinforcing Feedback Loops](learningDimensions#reinforcing-feedback-loops)
-
-
-### To End - Reflection Activity
-
-Paper Slide: On paper, indivduals or groups sketch and write what they learned or have been working on this seession.
-Then line up and, one at a time, slide their work under a video camera
- while quickly summarizing what was learned. [The camera doesn’t stop recording](https://www.youtube.com/watch?v=vxF4P8vx3o8) until each representative has completed his or her summary.
-
-For this reflection activity ask participants to include any new objectives or work on systems dynamics.
-
-### Homework
-You are now over half-way through the course. I hope you have been enjoying it. Time flies.
-There is only so much you can do in the  sessions. If  you really want to make your game your own then try to add in as much as you can between sessions.
-This really helps. Then you can bring any problems to the next session.
-
-If you get stuck trying to add one element to  your game then share a link of the broken game with your facilitator or the [ friendly
-online MakeCode community](https://forum.makecode.com/c/Share-your-Arcade-projects-here/5). But don't let that stop you. Go back to your
+Also if you get stuck on one problem don't let that stop you. Go back to your
 last working version and try to add a different game pattern. That way when you solve your original problem you can add in the changes to your
 new version.
 
-## Session Four  
-
-### Types of errors and dealing with them.
+### Understanding types of errors and dealing with them
 
 Can this be made into a game of some kind ?
 There are different kinds of that you may come up against. Knowing how to deal with them is a good tactic to keep us progressing.
@@ -343,98 +456,9 @@ Now we know this is the cause of the error we can change the block to **change m
 the debugging then we'll see the value go up in steps of 10 each  time we click on the green play arrow to step through
 the code.
 
-
-
 When you are self-testing or play testing games and find mistakes find out the following:
 
 * What type of error are you encoutering - Errors, Bugs or Glitches?
 * If they are black or grey screen errors can you find any messages?
 * If they are bugs glitches what is the different between the intended behaviour or effect and the actual behaviour?
 * What tactics are there to solve the errors, bugs or glitches?
-
-### Creative Design Game Making Session
-
-Follow the Creative Design Game Making Session pattern as outlined in week two - **Set goals, follow the coding help, self-test the game yourself, play-testing, reflection on our progress**
-
-In terms of goal setting. What is becoming special about your game. What are the final changes you want to make?
-Use the following check list to make quick changes to your game.
-
-* Do you have a strong story for your game? Can you add one?
-* Have you applied a Mission Card or a system pattern yet?
-* Have you got a balanced of game patterns added?
-
-Also pay special attention to the **play testing phase** this time to see if you can see any glitches that others may find in your game.
-
-
-### Setting your Goals for the Final Week
-
-If you are following this guide as a five week program then this will be the penultimate week. It is common to not have the time to make
-all the changes you want to make. You now have to make the difficult decisions to decide on the last big changes you will make to your game.
-
-You also need to decide on which goals you will not be able to add to this game. To do this you can make a list and choose only
-the top two or three to work on. Try to use your experience from previous sessions to estimate how long this will take you.
-Try not to much more to your game in terms of new patterns. Focus as much as you can on the playability of your game.
-Make sure to allow time for a lot of self testing.
-
-## Session Five
-
-This session is fairly free of content as hopefully you will be just finalising final changes and getting ready for
-showcasing between the differnt participants or even better to an invited audience.
-
-### Using Hardware Device
-
-There are different hardware available for making a splash  with the finished games. Using hardware with buttons
-can also increase the playability of the games as well.
-
-These include:
-
-**Hand-held Devices**: A number of game-boy like devices exist which are great to use with old school buttons and mini screens. [See a list here.](https://arcade.makecode.com/hardware)
-
-![ boxes ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/devices1.jpg)
-
-
-**Arcade Cabinets**: A bit of carpentry can create a fun looking arcade cabinet, we have some great ones where we pop in old laptops and use arcade buttons and [makey makey's to create great looking machines](https://arcade.makecode.com/hardware/makey-makey).
-
-![ boxes ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/cardboard_panel1.jpg)
-
-**Cardboard Cabinets**: Even more fun perhaps is to make your own arcade cabinet machine out of cardboard and hook up your buttons and makey makey's to that. [More info here](https://arcade.makecode.com/hardware/raspberry-pi/cardboard-control-panel)
-
-![ boxes ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/cardboard_panel2.jpg)
-
-
-You may want to run an extra session on making a console with computer electronics including hardware elements of arcade buttons. There
-are [links to resources to help you here](https://arcade.makecode.com/hardware).
-
-If your project involves cardboard elements then it can be a great idea for particpants to take the cardboard home and to
-decorate it with ideas from their game.
-
-
-
-### Ideas for Showcasing
-
-If you do have a chance it can be a really exciting experience to showcase your games at an event or in a public
-place where you can **get passing strangers to play your games**. For our courses at the Manchester Met University we have a captive audience of undergraduate students.
-
-I have found that this is often where parents come into their element. **Ask parents to be cproactive to draw in passing
-people** to play and give feedback on games.
-**It is very satisfying to witness strangers play your game** and experience the kind
-of fun frustration and desire to try again to beat a particular part of your level design.
-
-If this is not possible then try to make the final playing of each other's games a real event. **The use of the hardware
-and especially decoration of cardboard cabinets can really help to create a sense of an event.** Also ask particpants
-what they want to do to **celebrate, share food, play music** as a shared play list for example.
-
-You may want to have in place a form which allows participants to **gather player reactions**. This can be via a written form or
-a quick recorded interview if suitable.
-
-### To End - Evaluation and Reflection
-
-You may want to use this as an opportunity to gather feedback from particpants on the course to make improvements
-and to  encourage final reflections from course members on what they gained from the game making activities. The following
-questions may be useful.
-
-* How has your learning journey been?
-* What is the most noticeable change along the way?
-* Can you share about your changes in confidence in use of the specifics of coding concepts?
-* What do you feel you've learned about wider patterns - computer programming/ systems designs?
-* What are your final takeaways?

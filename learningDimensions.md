@@ -32,7 +32,7 @@ code above does that.
 * **Examples in our Game Patterns:**  [Add Player Lives](addLives),
 
 ### Variables
-* **Description:** Variables are a kind of data that involves storing, retrieving, and updating values.
+* **Description:** Variables are a kind of data that allow storing, retrieving, and updating values.
 
 * **Why is it needed :** Variables are useful when we know something may change when our program is running. For example if we create more than one level, we can create a variable
 called level and increase this each time a player progresses.  
@@ -45,15 +45,14 @@ Variable section.
 * **Examples in our Game Patterns:**  [Add More Levels](addLevels),
 
 ### Logic
-* **Description:** the ability to make decisions based on
+* **Description:** Logic (Conditionals) give the ability to make decisions based on
 certain conditions so that of multiple outcomes may occur.
 
 * **Why is it needed :**
-This is a key concept in interactive media as it allows for different things to
+Logic / Conditionals are a key concept in interactive media as it allows for different things to
 happen based on different input choices from the user / player. Or in games to respond to different conditions of play in the game.
 
 * **How it happens in practice:**
-
 There are logic blocks in MakeCode which express different pathways using the if / then / else logical pattern. Comparison blocks let you compare the values of mathematical and text values and then run different blocks of code depending on the result.
 
 ![logic](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/logic_1.png)
