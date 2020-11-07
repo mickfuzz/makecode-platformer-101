@@ -8,8 +8,11 @@ also help individual game makers.
 
 * Discovering Game mechanics
 * Improving Half Baked Games
+* Drawing on Home and Game Cultures
 * Circle / Physical Reflection Games
 * Predicting Code Outcomes via Games
+* Guidance on Running Creative Design Sessions
+* Supporting Debugging
 
 You'll see that the categories of activities have certain things in common.
 
@@ -33,7 +36,7 @@ The process of identifying the verbs of the game, also normally allows the parti
 list the main components of the game too. This can start to build a knowledge of systems dynamics.
 
 
-## Example Activity - Identify Game Mechanics in Existing Games
+### Identify Game Mechanics in Existing Games
 
 We will start to understand games by playing a few arcade games and starting to look at what makes them tick.
 On entry participants play the following games (from MakeCode )
@@ -64,7 +67,7 @@ At the end of the session make sure to Publish a copy of your game and to give i
 Keep a record of the link to your game. We'll come back to it next week.
 
 
-## Circle / Physical / Drama Games
+## Circle / Physical / Drama / Reflection Games
 
 From stables of drama and community process. They are to introduce concepts in a playful way,
 and to help reflection - often this works just to draw participants away from their screens to interactive in a different way.  
@@ -76,7 +79,6 @@ Play a quick reflection game to find out what people thought and got out of the 
 * Share something you found fun
 * Share something you found hard
 * Share something that surprised you
-
 
 ### Line Up Reflection Activity
 
@@ -147,7 +149,7 @@ FUN THIS UP?
 * What are your final takeaways?
 
 
-## Drawing on Home Cultures
+## Drawing on Home and Game Cultures
 
 This method is inspired by third space theory and the importance of being able to work with
 Home Discourses.
@@ -196,7 +198,7 @@ what they want to do to **celebrate, share food, play music** as a shared play l
 You may want to have in place a form which allows participants to **gather player reactions**. This can be via a written form or
 a quick recorded interview if suitable.
 
-### Example Activity - What kind of Game Player are you
+### Exploring - What kind of Game Player / Maker are You?
 
 As digital and online games became more complicated Richard Bartle proposed that different people play these games in different
 ways and look to get different things out of them. In short there are different kinds of players. The Bartle test finds out what kind of game player you are. **[Do the online Bartle Player test.](http://matthewbarr.co.uk/bartle/)** You may be able to find a way of doing it as a group by moving around the room.
@@ -275,7 +277,7 @@ Additionally as a bonus can you see any of the following:
 * Logic
 * Events
 
-## Creative Design Session template
+## Guidance on Running Creative Design Sessions
 ### Creative Design Game Making Session Summary
 
 Follow the Creative Design Game Making Session pattern as outlined in week two.
