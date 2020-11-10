@@ -11,7 +11,7 @@ This page outlines methods and groups them by theme.
 #### Methods Using Missions
 
 * Macro Mission - Tell a Systems Story (environmental or social) through a game  
-* Discovering Game Mechanics via a Game
+* Discovering Game Mechanics
 * Improving Half-Baked Game
 * Limits to the Mission based approach - meeting your self in the middle
 * Player and Maker types & Specialised missions
@@ -21,12 +21,9 @@ This page outlines methods and groups them by theme.
 * Circle / Physical Reflection Games:
 * Guidance on Running Creative Design Sessions: imagined audience,  
 
-#### Methods to draw on Home and Game Cultures (overlap)
+#### Other Methods
 
 * Using Hardware and Playtesting to focus on Imagined Audience  
-
-#### Other Methods to Support Implementation via Code
-
 * Predicting Code Outcomes via Games
 * Coding Concepts via step by step tutorials
 * Supporting Debugging
@@ -61,6 +58,8 @@ On entry participants play the following games (from MakeCode )
 * [Level Up](https://makecode.com/_aMDL6JL9ELD6)
 
 Write down the main VERBs for these games. Some have more than one Mechanic.
+
+***Extending this activity***: This activity can be extended to analyse games using more game Components in line with game theory. [A hand out is available here](https://docs.google.com/presentation/d/1keXqKaWAzwRE7gwxTLoJ9RBzK3UUjkiO_mH7FsuxMqk/edit#slide=id.p2).
 
 ## Improving Half Baked Games
 
