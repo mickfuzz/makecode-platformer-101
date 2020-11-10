@@ -6,7 +6,7 @@
 [Variables](learningDimensions#variables),
 [Sequences](learningDimensions#sequences),
 [Loops](learningDimensions#loops),
-[Logic](learningDimensions#logic)
+[Logic](learningDimensions#logic), 
 
 ##Systems Thinking:
 [Systems Elements](#systems-elements)
