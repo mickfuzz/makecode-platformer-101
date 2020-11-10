@@ -1,23 +1,36 @@
 # Methods
 
-Along with [Game Making Missions](gamePatterns) and a learning [Map of Learning Outcomes](learningDimensions),
-[Methods](#) are techniques that facilitators and learners can use to help navigate the process of making a game and reflecting on what is being learned in the process.
+The resources here are part of a learning model which has the following elements:
 
-The following methods are ones that are used in the Group Course process, but which may
-also help individual game makers.
+* [Game Making MISSIONS](gamePatterns) comprising of authentic game making design patterns that learners can choose to tackle in their own time.
+* [A MAP of Learning Outcomes](learningDimensions) particularly suited to digital game making, presented in an accessible format to teachers and learners.  
+* [Design METHODS](methods) are techniques that facilitators and learners can use to help navigate the process of making a game and reflecting on what is being learned in the process.
 
-* Discovering Game mechanics
-* Improving Half Baked Games
-* Drawing on Home and Game Cultures
-* Circle / Physical Reflection Games
+This page outlines methods and groups them by theme.  
+
+#### Methods Using Missions
+
+* Macro Mission - Tell a Systems Story (environmental or social) through a game  
+* Discovering Game Mechanics via a Game
+* Improving Half-Baked Game
+* Limits to the Mission based approach - meeting your self in the middle
+* Player and Maker types & Specialised missions
+
+#### Methods Using the Learning Map / Design Process
+
+* Circle / Physical Reflection Games:
+* Guidance on Running Creative Design Sessions: imagined audience,  
+
+#### Methods to draw on Home and Game Cultures (overlap)
+
+* Using Hardware and Playtesting to focus on Imagined Audience  
+
+#### Other Methods to Support Implementation via Code
+
 * Predicting Code Outcomes via Games
-* Guidance on Running Creative Design Sessions
+* Coding Concepts via step by step tutorials
 * Supporting Debugging
 
-You'll see that the categories of activities have certain things in common.
-
-* Playful / Gameful approach
-* Building on existing knowledge / experience
 
 ## Discovering Game Mechanics
 

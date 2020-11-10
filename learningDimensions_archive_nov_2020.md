@@ -10,19 +10,12 @@ Other ideas behind the structure of this section [are explored here](README.md#i
 
 * [Coding Concepts](#coding-concepts)
 * [Systems Patterns](#systems-patterns)
+* [Computing Design Patterns](#computing-design-patterns)
 * [Design Practices](#design-practices)
+* [21st Century Skills](#21st-century-skills)
 
 ## Coding Concepts
 These concepts are needed to put Algorithmic Thinking into practice. The following are loosely  based on the computational thinking concepts of [Brennan and Resnick](http://scratched.gse.harvard.edu/ct/files/AERA2012.pdf).
-
-* [Sequences](#sequences)
-* [Variables](#variables)
-* [Logic](#logic)
-* [Loops](#loops)
-* [Arrays](#arrays)
-* [Creating Functions](#creating-functions)
-* [Change Listener](#change-listener)
-* [Input Event](#input-event)
 
 ### Sequences
 * **Description:** Tasks that can be expressed as a series of steps.
@@ -84,29 +77,36 @@ There are logic blocks in MakeCode which express different pathways using the if
 into a game layout.
 
 * **How it happens in practice:** There is a group of code blocks in the advanced section
-of the Arcade MakeCode interface which help us to work with Arrays. Also using tilemaps to represent level layout
-is a kind of array.
+of the Arcade MakeCode interface which help us to work with Arrays.
 
 ![array](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/blocks/list_1.png)
 
 * **Examples in our Game Patterns:** [Change Design of Levels](changeLevelDesign)
 
-### Creating Functions
 
-* **Description:** Also known as abstraction and decompostion (by modularisation), this is a pattern that allows programmes to be broken down into smaller pieces, which do a specialist job. In this case the pieces are called functions.
+## Computing Design Patterns
 
-* **Why is it needed :** The concept is in line with a programming principle called DRY (Don't Repeat Yourself). It allows you to call the same piece of code from different parts of your programme so you don't have to repeat them in more than one place.
+These wider patterns and concepts are a way to learn about wider computing practices that are also
+applicable beyond the world of making games especially in Interactive Media Design.
+
+* [Creating Functions](#creating-functions)
+* [Change Listener](#change-listener)
+* [Input Event](#input-event)
+* [Separate Formatting from Data](#separate-formatting-from-data)
+
+### Change Listener
+
+* **Description:** Also known as States, this pattern is useful when you want one part of your programme to listen out for changes in the stage of another. An example would be listening for an overlap between the player and an enemy. The programme can then take action when this overlap change happens or a particular condition is true.
+
+* **Why is it needed :** In many media programmes you need to change formatting or to make something happen based on the conditions of other objects.
 
 * **How it happens in practice:** Examples include:
-      - creating levels on start and when goal is reached
+  - listening for the player being in a condition of overlap with an Enemy
+  - changing the animation of a player based on if they are still, moving or jumping
 
-* **Examples in our Game Patterns:** [Add Levels](addLevels)
+  [Add a Game Story with Messages](addMessages)
 
-### Events
-
-Events occur at different times in the running of a computer programme. Two types are User Input Events and Change Listeners.
-
-#### Input Event
+### Input Event
 
 * **Description:** Also known as an event handler.  Events – one thing causing another thing to happen – are important to interactive media like games. For example, a button triggering the start of play, or controlling game player' s movements.
 
@@ -116,15 +116,23 @@ Events occur at different times in the running of a computer programme. Two type
   - controlling the player movements on screen
   - responding to button presses for jumping for firing etc
 
-#### Change Listener
+### Separate Formatting from Data
 
-* **Description:** Also known as States, this pattern is useful when you want one part of your programme to listen out for changes in the stage of another. An example would be listening for an overlap between the player and an enemy. The programme can then take action when this overlap change happens or a particular condition is true.
+* **Description:** Also known more generally as separation of concerns, this is a specific example of the computer programming principle that elements that do different jobs should be apart.
 
-* **Why is it needed :** In many media programmes you need to change formatting or to make something happen based on the conditions of other objects.
+* **Why is it needed :** In many examples this separation allows editors of the project to make changes to the data easily without worrying about the formatting.
 
 * **How it happens in practice:** Examples include:
-  - listening for the player being in a condition of overlap with an Enemy
-  - changing the animation of a player based on if they are still, moving or jumping
+    - using tilemaps to represent level layout
+
+### Creating Functions
+
+* **Description:** Also known as abstraction and decompostion (by modularisation), this is a pattern that allows programmes to be broken down into smaller pieces, which do a specialist job. In this case the pieces are called functions.
+
+* **Why is it needed :** The concept is in line with a programming principle called DRY (Don't Repeat Yourself). It allows you to call the same piece of code from different parts of your programme so you don't have to repeat them in more than one place.
+
+* **How it happens in practice:** Examples include:
+      - creating levels on start and when goal is reached
 
 ## Systems Patterns
 
@@ -154,7 +162,8 @@ These ideas are common in the area  and Systems Thinking.
 * **Why is it needed :** Recognising dynamic parts of game system allows you to make more informed decisions about how it will change and react to changes. For example understanding these dynamics are important when making a game to make sure the level of challenge for the player is suitable.
 
 * **How it happens in practice:** Examples include:
-  - increasing the number of enemies to increase challenge
+      - increasing the number of enemies to increase challenge
+
 
 ### Reinforcing Feedback Loops
 
@@ -163,7 +172,7 @@ These ideas are common in the area  and Systems Thinking.
 * **Why is it needed :** In a game you may want a reinforcing loop if you want to increase the challenge for a game. For example, you may want the number of enemies to drastically increase towards the end of a level.
 
 * **How it happens in practice:** Examples include:
-  - creating a hectic game with many spawning enemies
+      - creating a hectic game with many spawning enemies
 
 ### Balancing Feedback Loops
 
@@ -172,22 +181,12 @@ These ideas are common in the area  and Systems Thinking.
 * **Why is it needed:** In eco-systems balancing loops work to keep a system stable, preventing there from being too many predators for example, as they will die off if there isn't enough food for them to prey on. In games balance is needed to maintain the right level of challenge for the player.  
 
 * **How it happens in practice:** Examples include:
-  - gravity acting as a balancing force to jump velocity
-  - keeping a check on the number of enemies that the player has to face so that the game doesn't become impossible
+      - gravity acting as a balancing force to jump velocity
+      - keeping a check on the number of enemies that the player has to face so that the game doesn't become impossible
 
 ## Design Practices
 
-### Defining Design Practices
-
-This mapping of design practices encompasses concepts from the following frameworks.
-
-* Design Thinking Skills: This [computational thinking definition of Brennan and Resnick](http://scratched.gse.harvard.edu/ct/files/AERA2012.pdf) contains a section on design practices afforded by the Scratch media authoring tool. His creative design spiral is similar.
-* 21st Century Skills: There certain elements of key 21st Century Skills like communication,
-collaboration, critical thinking and creativity that are key to design practices.
-* Digital and web literacy: The [web literacy project by Mozilla maps](https://foundation.mozilla.org/en/initiatives/web-literacy/
-) maps digital skills suited to collaborative and digital game making, some element are included here.
-
-
+This adaptation of design-based concepts to game making is inspired by the [computational thinking definition of Brennan and Resnick](http://scratched.gse.harvard.edu/ct/files/AERA2012.pdf).
 
 ### Goal Setting
 
@@ -209,77 +208,8 @@ process, one in which the plan might change in response to approaching a solutio
    - Changes which seeking to maintain or create game balance for suitable challenge level
    - Evaluating aesthetics of graphics / sound elements and revising further
 
-### Developing Shared Vocabulary
-* **Description:** The process of working on a joint project involves the development of shared understanding of the problem being worked on. This may involve
-checking working concepts by advancing them and questioning meaning of other's expression. Related activities also include
-
-* **How it happens in practice:**  Examples include:
-
-  - Asking or providing clarification of terms being used
-  - Requesting or offering help in solving problems using specialist terms
-
-### Collaborative Production
-
-* **Description:** Where participants work together on game making as pairs or in family groups participants
-often demonstrate behaviour which encourage collaboration and participation in the broader
-community aspects of game making.
-The process of offering, providing or requesting help with the non-technical aspects of advancing the project in question.
- There are other aspects of support which are needed outside of the session like access to resources or helping participants to access learning
-in a general sense. This is often the role of parents but sometimes siblings or child participants step into this role.
-
-* **How it happens in practice:** Example activities which demonstrate this include:
-
-   - Redirection of other participant's activity back to reflect their earlier goals
-   - Invitation to imagine the end game player’s experience
-   - Advancing or suggesting alterations to collaborative working practices
-  - Emotional support through general encouragement and keeping a sense of perspective
-  - Brokering access to wider learning opportunities
-
-### Reusing and remixing
-* **Description:** Building on other people’s work has been a long-standing practice in programming, and has only
-been amplified by network technologies that provide access to a wide range of other people’s
-work to reuse and remix. This behaviour may be remixing the work of others or through helping others
-to replicate their own work.
-
-* **How it happens in practice:** Example activities which demonstrate this include:
-   - Direct copying of game features from other games by replicating code
-   - More indirect copying of features and ideas via observation or conversation with peers
-
-### Web Navigation
-* **Description:** The detail of moving from website to another, especially when keeping several browser tabs open, offers the  
-chance to learn and share a variety of practices which make up key web-navigation literacies.
-This is an area where young people often are able to help adults.
-
-* **How it happens in practice:** Activities include:
-  - Asking or offering help in navigating between websites or browser tabs  
-  - Parents or siblings as a repository for the logins and passwords of their children
-
-### Problem Solving
-* **Description:** Problem solving and developing understanding develops some of the aspects of collaborative work to
-working processes or domain knowledge.
-
-* **How it happens in practice:** Example behaviour includes:
-
-  - Giving explanation for outcomes or tactics
-  - Applying existing knowledge to the problem at hand
-  - Striving to understand project concepts
-  - Linking project experience to wider learning
-
-### Version Control
-* **Description:** The process of keeping a track of different versions
-of your work is called version control. There are many ways of doing it but doing it in a manually to keep track of changes to our game is a great way to start to understand the value of this process. The way MakeCode doesn't support log ins encourages a process of saving versions of your work frequently
-and saving them in a document,
-say an online google doc with dates and descriptions.
-
-* **How it happens in practice:** Example behaviour showing this skill includes:
-
-  - Encouragement between participants to save work
-  - Keeping written records of changes
-  - Deciding to create a new version of work
-  - Explaining and reminding peers of value of version control
-
 ### Debugging
-* **Description:** Various testing and debugging practices are possible from learning to scan block code for error messages, to using tools to watch variables.
+Various testing and debugging practices are possible from learning to scan block code for error messages, to using tools to watch variables.
 
 * **How it happens in practice:** Debugging involves different strategies for dealing with  different kinds of errors including:
 
@@ -287,11 +217,106 @@ say an online google doc with dates and descriptions.
    - No errors blank screen, no idea (often retrace steps, go back to earlier version, or have to start again)
    - Clues, greyed out code, red dots, error messages (try to narrow down issue, remove sections of code, again go back, try to find duplication of code blocks)
 
-### Self-Testing, Playtesting and Publishing
-* **Description:**  Game testing can be of one's own game or as 'playtesting' of playing each other's game and giving and receiving feedback on game play. The process of making work public or sharing a 'finished' version with the group can support development of the evaluation.
+### Self-Testing and Playtesting
+Game testing can be of one's own game or as 'playtesting' of playing each other's game and giving and recieving feedback on game play.
 
-* **How it happens in practice:** Example activities which demonstrate this includes:
+* **How it happens in practice:** Example activities which demonstrate this incude:
    - Expression of pride, or fun when playing own game
    - Imagining the user's experience of playing their game
    - Giving or receiving feedback either spontaneously or with support form a feedback / playtesting sheet
-  - Creating a public link from a game making workspace
+
+### Reusing and remixing
+* **Description:** Building on other people’s work has been a longstanding practice in programming, and has only
+been amplified by network technologies that provide access to a wide range of other people’s
+work to reuse and remix. This behaviour may be remixing the work of others or through helping others
+to replicate their own work.
+
+* **How it happens in practice:** Example activities which demonstrate this incude:
+   - Direct copying of game features from other games by replicating code
+   - More indirect copying of features and ideas via observation or conversation with peers
+
+### Collaborative Production
+
+* **Description:** Where participants work together on game making as pairs or in family groups particpants
+often demonstrate behaviour which encourage collaboration and participation in the broader
+community aspects of game making. These may come naturally
+or may be more deliberate as a strategy to enhance learning potential.
+
+* **How it happens in practice:** Example activities which demonstrate this incude:
+
+   - Redirection of other participant's activity back to reflect their earlier goals
+   - Invitation to imagine the end game player’s experience
+   * Advancing or suggesting alterations to collaborative working practices
+
+### Publishing and Evaluating
+* **Description:** The process of making work public or sharing a 'finished' version with the group is a key part of the design process.
+The process can support development of the key skills of validation and evaluation.
+
+* **How it happens in practice:** Examples include:
+* Creating a public link from a game making workspace
+* Sharing a project for playtesting or evaluation
+* Requesting or providing formative feedback on a game project
+
+## 21st Century Skills
+***21st Century Skills including Digital Literacies***
+There certain elements of key 21st Century Skills like communication,
+collaboration, critical thinking and creativity are covered the design practices. Others are included here.
+
+The topic of **digital and web literacy** is broad. [The web literacy project by Mozilla maps it well](https://foundation.mozilla.org/en/initiatives/web-literacy/
+). Certain very
+specific digital skills that are well suited to the kind of collaborative and digital game making
+outlined in this programme are included section.
+
+### Developing Shared Vocabulary
+* **Description:** The process of working on a joint project involves the development of shared understanding of the problem being worked on. This may involve
+checking working concepts by advancing them and questioning meaning of other's expression. Related activities also include
+
+* **How it happens in practice:**  Examples include:
+
+* Asking or providing clarification of terms being used
+* Requesting or offering help in solving problems using specialist terms
+
+### Problem Solving
+* **Description:** Problem solving and developing understanding develops some of the aspects of collaborative work to
+working processes or domain knowledge.
+
+* **How it happens in practice:** Example behaviour includes:
+
+* Giving explanation for outcomes or tactics
+* Applying existing knowledge to the problem at hand
+* Striving to understand project concepts
+* Linking project experience to wider learning
+
+### Wider Project Support
+* **Description:** The process of offering, providing or requesting help with the non-technical aspects of advancing the project in question.
+ There are other aspects of support which are needed outside of the session like access to resources or helping participants to access learning
+in a general sense. This is often the role of parents but sometimes siblings or child participants step into this role.
+
+* **How it happens in practice:** Example behaviours include:
+
+* Emotional support through general encouragement and keeping a sense of perspective
+* Brokering access to learning opportunities
+* Procuring resources to support fellow participants
+
+### Web Navigation
+* **Description:** The detail of moving from website to another, especially when keeping several browser tabs open, offers the  
+chance to learn and share a variety of practices which make up key web-navigation literacies.
+This is an area where young people often are able to help adults.
+
+* **How it happens in practice:** Activities include:
+* Asking or offering help in navigating between websites or browser tabs  
+* Parents or siblings as a repository for the logins and passwords of their children
+
+### Version Control
+* **Description:** The process of keeping a track of different versions
+of your work is called version control. There are many ways of doing it but doing it in a manually
+to keep track of changes to our game is a great way to start to understand the value of this process. The way MakeCode doesn't support log ins encourages a process of saving versions of your work frequently
+and saving them in a document,
+say an online google doc with dates and descriptions.
+
+* **How it happens in practice:** Example behaviour showing this skill includes:
+
+* Encouragement between participants to save work
+* Keeping written records of changes
+* Deciding to create a new version of work
+* Explaining and reminding peers of value of version control
