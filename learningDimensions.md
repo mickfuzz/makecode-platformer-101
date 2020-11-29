@@ -128,8 +128,6 @@ Events occur at different times in the running of a computer programme. Two type
 
 ## Systems Patterns
 
-These ideas are common in the area  and Systems Thinking.
-
 * [Systems Elements](#systems-elements)
 * [Systems Dynamics](#systems-dynamics)
 * [Reinforcing Feedback Loops](#reinforcing-feedback-loops)
@@ -187,6 +185,16 @@ collaboration, critical thinking and creativity that are key to design practices
 * Digital and web literacy: The [web literacy project by Mozilla maps](https://foundation.mozilla.org/en/initiatives/web-literacy/
 ) maps digital skills suited to collaborative and digital game making, some element are included here.
 
+* [Goal Setting](#goal-setting)
+* [Being Incremental and Iterative](#being-incremental-and-iterative)
+* [Developing Shared Vocabulary](#developing-shared-vocabulary)
+* [Reusing and Remixing](#balancing-feedback-loops)
+* [Web Navigation](#web-navigation)
+* [Problem Solving](#problem-solving)
+* [Version Control](#version-control)
+* [Debugging](#debugging)
+* [Reusing and Remixing](#reusing-and-remixing)
+* [Game Testing and Publishing](#game-testing-and-publishing)
 
 
 ### Goal Setting
@@ -199,7 +207,7 @@ collaboration, critical thinking and creativity that are key to design practices
    - Participants expressing new goals to include in game or around the wider making experience
    - Clarification or questions about desired game design behaviour
 
-### Being incremental and iterative
+### Being Incremental and Iterative
 * **Description:** Designing a project is not a clean, sequential process of first identifying a concept for a project,
 then developing a plan for the design, and then implementing the design in code. It is an adaptive
 process, one in which the plan might change in response to approaching a solution in small steps.
@@ -235,7 +243,7 @@ in a general sense. This is often the role of parents but sometimes siblings or 
   - Emotional support through general encouragement and keeping a sense of perspective
   - Brokering access to wider learning opportunities
 
-### Reusing and remixing
+### Reusing and Remixing
 * **Description:** Building on other people’s work has been a long-standing practice in programming, and has only
 been amplified by network technologies that provide access to a wide range of other people’s
 work to reuse and remix. This behaviour may be remixing the work of others or through helping others
@@ -287,7 +295,7 @@ say an online google doc with dates and descriptions.
    - No errors blank screen, no idea (often retrace steps, go back to earlier version, or have to start again)
    - Clues, greyed out code, red dots, error messages (try to narrow down issue, remove sections of code, again go back, try to find duplication of code blocks)
 
-### Self-Testing, Playtesting and Publishing
+### Game Testing and Publishing
 * **Description:**  Game testing can be of one's own game or as 'playtesting' of playing each other's game and giving and receiving feedback on game play. The process of making work public or sharing a 'finished' version with the group can support development of the evaluation.
 
 * **How it happens in practice:** Example activities which demonstrate this includes:
