@@ -185,6 +185,8 @@ collaboration, critical thinking and creativity that are key to design practices
 * Digital and web literacy: The [web literacy project by Mozilla maps](https://foundation.mozilla.org/en/initiatives/web-literacy/
 ) maps digital skills suited to collaborative and digital game making, some element are included here.
 
+The whole process is inspired by [Bevan and all's learning dimensions framework for making and tinkering](https://www.frontiersin.org/articles/10.3389/feduc.2020.00121/full). The following learning dimensions have emerged having been selected based on observation the practices being used in the game making programs:
+
 * [Goal Setting](#goal-setting)
 * [Being Incremental and Iterative](#being-incremental-and-iterative)
 * [Developing Shared Vocabulary](#developing-shared-vocabulary)
