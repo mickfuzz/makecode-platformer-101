@@ -1,5 +1,19 @@
 # Learn Core Design Patterns of a Platformer
 
+## Starting your Game Code with Core Patterns
+
+[updated template to suit core patterns](https://makecode.com/_24RHVmi9kY44)
+
+The following patterns are used to create our starting game template. When we have completed them we can add all sorts of other [Game Patterns](../gamePatterns.md)
+
+- [Building the Game World](onStart.md)   
+- Game (Update) Loop - including including as user input inside the game loop
+- Game Mechanic Collecting
+- Add an End Goal
+- Using Game States - play is the default state - win and lose are built in
+
+In later sections these kids of game patterns are themed into mechanics patterns, game space patterns, game polish patterns and challenge patterns. For now they are ordered in a easy to build way.   
+
 ## Meeting Yourself in the Middle
 
 [See this link for as similar piece of writing](https://en.flossmanuals.net/phaser-game-making-in-glitch/_full/#choose-your-own-adventure)
@@ -15,17 +29,3 @@ This resource section references core patterns to bring you a complete picture a
 
 ### Online Interactive Tutorial
 Make Code has a tutorial system which gives you step by step help as you add in code blocks in the Make Code website. Try this [interactive tutorial to create the platform template game from scratch M- part one](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartOne) and [part two of the tutorial](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101C/tutorialPartTwo)
-
-### Starting your Game Code with Core Patterns
-
-[updated template to suit core patterns](https://makecode.com/_FW6968T8VUvK)
-
-These patterns are quite foundational
-
-Jump to patterns;
-
-- On Start - creating the starting world  
-- Game Loops - update block
-- Player Movement - as user input inside the game loop
-- Collision Detection - a common pattern in computing
-- Game States - play is the default state - win and lose are built in

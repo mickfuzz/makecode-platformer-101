@@ -1,16 +1,12 @@
-### @activities true
-
 # Making a Platformer Game Part One
 
-## Introduction
-### Introduction @unplugged
-
 Welcome to part one of this this tutorial on how to make a platformer game with Arcade MakeCode.
-In this tutorial we will cover the basics of how to:
 
+These coding concepts and patters make up the core of our template game. 
+
+* Create a Game Space using platforms using the tilemap tool
 * Create a Player character
 * Move the Player element around the screen
-* Create a Game Space using platforms using the tilemap tool
 * Add Food to collect using the tilemap tool
 
 We will also cover the following Coding Concepts [(more info here)](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions).
@@ -259,8 +255,6 @@ Keep the blank image in the first part of the block but change the second value 
 elements of the array and turn each one into a different kind of game component.
 
 ![blank square](../images/loop_replace_yellow.png?raw=true)
-
-
 
 ## Eating Food and Points
 ### Eating Food and Points  @fullscreen
