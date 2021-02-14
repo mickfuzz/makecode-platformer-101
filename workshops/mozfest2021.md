@@ -15,7 +15,9 @@
 - Participants complete first activity all together, group help provided to find right resources and get process right
 - Participants choose their next quick start missions - (or allocate by chance) - devise a system to help participants
 - Overview of how this process can be applied using new Make Code software and hardware options
+- Process of trying at home and feeding back given to participants - links to github etc
 - Participants share back creations - Facilitators comment, praise and suggest future directions in relation to the online docs
+- Process of trying at home and feeding back given to participants - links to github etc
 
 ## Simple Plan Two - Dual Phaser and Make Code
 - Starting activity - play this game - what's wrong with it? - https://grid-game-template.glitch.me/
@@ -26,8 +28,9 @@
 - ~~Participants complete first activity all together, group help provided to find right resources and get process right~~
 - Participants choose one technology
 - They are given the links to the quick start docs
-- Overview of differences in usefulness and engagement of different tools  MakeCode and Phaser/Glitch - And importantly the elements of the learning design that are independent of the technology.
 - Participants share back creations - Facilitators comment, praise and suggest future directions in relation to the online docs
+- Overview of differences in usefulness and engagement of different tools  MakeCode and Phaser/Glitch - And importantly the elements of the learning design that are independent of the technology.
+- Process of trying at home and feeding back given to participants - links to github etc
 
 ## Practical Concerns
 - Having enough facilitators that can help participants
