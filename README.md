@@ -73,10 +73,9 @@ these areas to a manageable amount.
 In addition to these subject related learning dimentions, there are notes on process related learning dimensions outside of subject knowledge
 that may be useful to facilitators and parents. These include:
 
-* [Coding Concepts](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#coding-concepts): mechanics of coding including using variables, loops, lists, logic and different types of data.
-* [Design Practices](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts#design-practices): including goal setting, creating, testing adn reflecting
-* [21st Century Skills](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#21st-century-skills): including communication, collaboration, creativity, critical thinking and digital literacies
-* [Wider Computing Patterns and Systems Concepts](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#wider-patterns): including input events, Creating Functions, systems dynamics and different types of feedback loops.
+* [Coding Concepts](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#coding-concepts): mechanics of coding including using variables, loops, lists, logic, different types of data, input events and creating functions.
+* [Design Practices](https://mickfuzz.github.io/makecode-platformer-101/codingConcepts#design-practices): including goal setting, creating, testing and reflecting.
+* [Systems Patterns](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#systems-patterns): systems dynamics and different types of feedback loops.
 
 ### Starting with the Familiar, Zoom into Detail, Zoom out to Wider Patterns
 
