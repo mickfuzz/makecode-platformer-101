@@ -1,4 +1,39 @@
-# WorkShop Planning
+# Work Shop Planning
+
+## Global Aims of the Session
+
+- Give participants a fun experience encouraging them to follow up game making as a way of learning coding and more
+- Hand on experience of one or more game making tools
+- Share the location and potential of some of resources listed above
+- Invite others to feedback on the online docs and test them in Home Ed settings and beyond
+
+## Simple Plan One - focused on Phaser (see below for full links to resources)
+- Starting activity - play this game - what's wrong with it? - https://grid-game-template.glitch.me/
+- Introductions - short tour of resources, big up family learning and this approaches - make sure participant have right tech (suggest logging into glitch)
+- Outline starting process and demo first activity **Fix Gravity** - in Glitch
+- Quickly mention two killer features - learners get immediate feedback from code changes, and they can personalise this experience
+- Participants complete first activity all together, group help provided to find right resources and get process right
+- Participants choose their next quick start missions - (or allocate by chance) - devise a system to help participants
+- Overview of how this process can be applied using new Make Code software and hardware options
+- Participants share back creations - Facilitators comment, praise and suggest future directions in relation to the online docs
+
+## Simple Plan Two - Dual Phaser and Make Code
+- Starting activity - play this game - what's wrong with it? - https://grid-game-template.glitch.me/
+- Introductions - short tour of resources, big up family learning and this approaches - make sure participant have right tech (suggest logging into glitch)
+- Outline starting process and demo first activity **Fix Gravity in Glitch** and preview live changes
+- AND then demo the similar process in Make Code -
+- Quickly mention two killer features - learners get immediate feedback from code changes, and they can personalise this experience
+- ~~Participants complete first activity all together, group help provided to find right resources and get process right~~
+- Participants choose one technology
+- They are given the links to the quick start docs
+- Overview of differences in usefulness and engagement of different tools  MakeCode and Phaser/Glitch - And importantly the elements of the learning design that are independent of the technology.
+- Participants share back creations - Facilitators comment, praise and suggest future directions in relation to the online docs
+
+## Practical Concerns
+- Having enough facilitators that can help participants
+- Having a system to help them in comments or via individual zoom chat -
+- Confusion if we offer two solutions and try to facilitate both making systems
+
 
 ## Background
 
@@ -13,19 +48,18 @@ Feedback given at the event was that it was a really engaging and useful session
 Since that session and in response to later game making sessions I've created the following resources for game making in glitch and phaser but also for the newer MakeCode Arcade system
 
 ### Phaser / Glitch resources
+- [template game to change](https://glitch.com/~grid-game-template)
+- [choices of quick start missions](https://drive.google.com/file/d/1iL9fPP_ntsktGyBpX7u7-kTCnFuCDjdR/view)
 - a list of [game patterns to add themed by mechanic, space and polish](https://ggc-examples.glitch.me/)
-- a book with a tutorial covering how to make the starting template and detail on coding constructs and concepts and some guidance on facilitation (intentionally minimal)
+- a book containing chapters on the patterns and starting with a [tutorial covering how to make the starting template and detail on coding constructs and concepts ](https://en.flossmanuals.net/phaser-game-making-in-glitch/_full) (also some intentionally minimal guidance on facilitation)
+
+**TO DO** make pdf of small missions - include Piskel elements too.(but perhaps not for this session)
 
 ### MakeCode Arcade resources
-
-- a list of [game patterns to add themed by mechanic, space, polish AND challenge/systems ](https://mca-platformer-examples.glitch.me/)
+- [template game to change](https://mickfuzz.github.io/makecode-platformer-101/)
+- [choices of quick start missions](https://docs.google.com/presentation/d/1vgHFm4zSC3YEVAXJORSoDHBFYSBIHK2mSCNfgbpiaHY/edit)
+- [overview of a short 5/6 session course in game making](https://mickfuzz.github.io/makecode-platformer-101/groupCourse) containing fun activities and facilitation help.
+- [possible learning dimensions of this game making approach](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions) in other words what will you learn by doing this.
 - a landing page for these resources and how to use them (https://mickfuzz.github.io/makecode-platformer-101/)
-- [a step by step tutorial using the MakeCode system](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne) (which seems to be broken now) 
-
-
-## Global Aims of the Session
-
-- Give participants a fun experience encouraging them to follow up game making as a way of learning coding and more
-- Hand on experience of one or more game making tools
-- Share the location and potential of some of resources listed above
-- Invite others to feedback and test them
+- a list of [game patterns to add themed by mechanic, space, polish AND challenge/systems ](https://mca-platformer-examples.glitch.me/)
+- [a step by step tutorial using the MakeCode system](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne) (which seems to be broken now)
