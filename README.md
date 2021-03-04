@@ -16,14 +16,24 @@ by adding in different features which we call [Game Patterns](https://mickfuzz.g
 
 ### Step by Step Instructions from First Principles
 
-Another way to learn coding from first principles is to learn how to [make the sample game from scratch](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne) and you can do that by following the following tutorials made with the MakeCode tutorial system.
+Another way to learn coding from first principles is to learn how to [make the sample game from scratch](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/fullTutorial) and you can do that by following the following tutorials made with the MakeCode tutorial system.
 
 ![tutorial](/images/tutorial_1.png) 	
 
+Part One
+- Create a Player character
+- Move the Player element around the screen
+- Create a Game Space using platforms using the tilemap tool
+- Add Food to collect using the tilemap tool
 
-| [Tutorial to Create Game from Scratch Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)             |  [Tutorial to Create Game from Scratch Part Two](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartTwo) |
-| :-------------------------- | :-------------------------- |
-| <ul><li>Create a Player character</li> <li>Move the Player element around the screen</li><li>Create a Game Space using platforms using the tilemap tool </li><li>Add Food to collect using the tilemap tool</li></ul> | <ul><li>Adding an end goal that you must touch to win game</li> <li>Make it so you must collect all Food to win game</li><li>Creating a larger Game Space </li><li>Adding Levels</li><li>Adding a Timer</li></ul> |
+Part Two
+- Adding an end goal that you must touch to win game
+- Make it so you must collect all Food to win game
+- Creating a larger Game Space
+- Adding Levels
+- Adding a Timer
+
+[follow the tutorial online here](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/fullTutorial)
 
 ### Follow an Example Course
 There is material here for a five session course on game making. This takes two forms:
