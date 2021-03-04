@@ -28,4 +28,4 @@ Finally, you may start off by remixing and add in a game patterns to the incompl
 This resource section references core patterns to bring you a complete picture and understanding of the whole of how your code works. There are two main ways of doing this a quick online interactive tutorial, and a more in-depth resource themed around core game patterns.  
 
 ### Online Interactive Tutorial
-Make Code has a tutorial system which gives you step by step help as you add in code blocks in the Make Code website. Try this [interactive tutorial to create the platform template game from scratch M- part one](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/tutorialPartOne) and [part two of the tutorial](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101C/tutorialPartTwo)
+Make Code has a tutorial system which gives you step by step help as you add in code blocks in the Make Code website. Try this [interactive tutorial to create the platform template game from scratch](https://arcade.makecode.com/beta#tutorial:github:mickfuzz/makecode-platformer-101/fullTutorial)
