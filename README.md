@@ -36,10 +36,9 @@ Part Two
 [follow the tutorial online here](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/fullTutorial)
 
 ### Follow an Example Course
-There is material here for a five session course on game making. This takes two forms:
-
+There is material here for a five session course on game making.
 * [Session Materials to run with a group of participants](https://mickfuzz.github.io/makecode-platformer-101/groupCourse)
-* [An online course you can work through by yourself](https://mickfuzz.github.io/makecode-platformer-101/onlineCourse)
+
 
 ## About the MakeCode Arcade Tool
 
@@ -106,6 +105,7 @@ applied in other fields, for example those of Interactive Media Design and Syste
 If you want to get started or begin to investigate what is available the following links will help you.
 
 * View a graphical menu of [Game Patterns](https://mca-platformer-examples.glitch.me/) which contains a short intro on how to apply them to the starting game template
-* Get an overall understanding of the starting game template with step-by-step tutorials - [Part One](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne) and [Part Two](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartTwo)
+* Get an overall understanding of the starting game template with [the step-by-step tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/fullTutorial)
+
 * Browse the [Group Course contents](https://mickfuzz.github.io/makecode-platformer-101/groupCourse) or start to work your way through the individual online course
 * Check out the potential [Learning Dimensions](https://mickfuzz.github.io/makecode-platformer-101/learningDimensions) of this project

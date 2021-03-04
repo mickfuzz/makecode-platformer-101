@@ -1,7 +1,7 @@
 # Group Course Overview
 
 This page gives an overview of a five session platform game making programme. It is designed to be used as a guide to
-deliver the course to a group. You can work through it by yourself. There is also an [online individual course here](onlineCourse.md).  
+deliver the course to a group. You can work through it by yourself. 
 
 * [Session One](#session-one)
 * [Session Two](#session-two)
