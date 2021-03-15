@@ -2,7 +2,7 @@
 
 The resources here are part of a learning model which has the following elements:
 
-* [Game Making MISSIONS](missions) comprising of authentic game making design patterns that learners can choose to tackle in their own time.
+* [Game Making MISSIONS](missions) main missions involve choosing authentic game making design patterns from a menu. Other side missions help with engagement of different making preferences. 
 * [A MAP of Learning Outcomes](learningDimensions) particularly suited to digital game making, presented in an accessible format to teachers and learners.  
 * [Design METHODS](methods) are techniques that facilitators and learners can use to help navigate the process of making a game and reflecting on what is being learned in the process.
 

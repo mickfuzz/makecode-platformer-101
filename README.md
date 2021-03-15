@@ -2,7 +2,13 @@
 
 ## Summary
 This course is built on the simple idea of starting with a platform game and adding familiar
-game patterns and features. You can get started in a number of ways. See the sections below to find out more. If you find mistakes in this resource or want to contribute please [start an issue here.](https://github.com/mickfuzz/makecode-platformer-101/issues)
+game patterns and features. The resources here are part of a learning model which has the following elements:
+
+* [Game Making MISSIONS](missions) main missions involve choosing authentic game making design patterns from a menu. Other side missions help with engagement of different making preferences.  
+* [A MAP of Learning Outcomes](learningDimensions) particularly suited to digital game making, presented in an accessible format to teachers and learners.  
+* [Design METHODS](methods) are techniques that facilitators and learners can use to help navigate the process of making a game and reflecting on what is being learned in the process.
+
+If you find mistakes in this resource or want to contribute please [start an issue here.](https://github.com/mickfuzz/makecode-platformer-101/issues)
 
 ### Remix a Starting Game Template
 

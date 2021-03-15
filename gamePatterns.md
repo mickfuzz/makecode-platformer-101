@@ -1,6 +1,6 @@
 # Game Patterns
 
-The key idea of this course is to start with a simple [Platform Game Template to Remix](https://makecode.com/_FqWD64MxEiRi) and to
+The key idea of this approach to game making is to start with a simple [Platform Game Template to Remix](https://makecode.com/_FqWD64MxEiRi) and to
 add Game Patterns from a menu of possibilities.
 There are many ways of thinking about these patterns but in this guide we are dividing them up into the following:
 
@@ -13,7 +13,7 @@ There are many ways of thinking about these patterns but in this guide we are di
 
 ## How to build your own game from the following Game Mechanics
 
-The process of adding to the [Platform Game Template to Remix]() start by playing the game and then clicking Edit Code to get started.
+The process of adding to the [Platform Game Template to Remix](#). Start by playing the game and then clicking Edit Code to get started.
 Then pick one of the Game Patterns below and follow the instructions to add it to your game. Test it out and when you are happy with it,
 pick another and keep adding to it. The following tips will help you:
 

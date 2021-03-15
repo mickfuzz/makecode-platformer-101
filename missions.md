@@ -2,7 +2,7 @@
 
 The resources here are part of a learning model which has the following elements:
 
-* [Game Making MISSIONS](missions) comprising of authentic game making design patterns that learners can choose to tackle in their own time.
+* [Game Making MISSIONS](missions) main missions involve choosing authentic game making design patterns from a menu. Other side missions help with engagement of different making preferences. 
 * [A MAP of Learning Outcomes](learningDimensions) particularly suited to digital game making, presented in an accessible format to teachers and learners.  
 * [Design METHODS](methods) are techniques that facilitators and learners can use to help navigate the process of making a game and reflecting on what is being learned in the process.
 
@@ -17,7 +17,7 @@ This page outlines different kinds of missions that are used in this game making
 
 ## Main Macro Mission
 
-The starting hook for our mission is to make a game which tells an environmental or social story. This approach is sometimes called Games for Change. The game doesn't need to be too serious and of course it can be a lot of fun. Having a bit of a guide for what kind of game to create can be helpful if learners are unsure of where to get started. 
+The starting hook for our mission is to make a game which tells an environmental or social story. This approach is sometimes called Games for Change. The game doesn't need to be too serious and of course it can be a lot of fun. Having a bit of a guide for what kind of game to create can be helpful if learners are unsure of where to get started.
 
 ## Navigating with Game Design Patterns
 

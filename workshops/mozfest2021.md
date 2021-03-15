@@ -66,3 +66,8 @@ Since that session and in response to later game making sessions I've created th
 - a landing page for these resources and how to use them (https://mickfuzz.github.io/makecode-platformer-101/)
 - a list of [game patterns to add themed by mechanic, space, polish AND challenge/systems ](https://mca-platformer-examples.glitch.me/)
 - [a step by step tutorial using the MakeCode system](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne) (which seems to be broken now)
+
+## notes from training sessions
+
+Create a poll? some question to make it interactive.
+Miro Board - brainstorming - mind map - collect feedback -
