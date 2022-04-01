@@ -1,12 +1,6 @@
-# Remixing a Platformer Game - Collect Points
+#  Collect Points
 
-In this tutorial we will add **point collection** to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
-
-![collect points](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_more_levels.jpg)
+![collect points](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameChallenge_gainpoints.jpg)
 
 * **Name:** Collect Points
 

@@ -1,14 +1,8 @@
-# Remixing a Platformer Game - Change Level Design
+# Change Level Design
 
-In this tutorial we will learn how to **change the design of our Levels** in our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
+![Change Level Design](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameSpace_leveldesign.jpg)
 
-## About this Game Pattern
-
-![Change Level Design](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_more_levels.jpg)
-
-* **Name:** Change Level Shape
+* **Name:** Change Level Design
 
 * **Description:** You may want to change the location of the platforms or add more food to collect or change the location of your end sprite block.  
 
@@ -22,7 +16,7 @@ If you want to understand more about how the starting code of the template works
 
 ### Open the Tilemap Editor and add New Food Items
 
-Click on your tilemap image and add in more food items by clicking on the yellow square in My Tiles and then clicking on squares in your design on the
+Click on your tilemap image  level 0 for and add in more food items by clicking on the yellow square in My Tiles and then clicking on squares in your design on the
 main window.  
 
 ![Change Level Design](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/changeLevelDesign1.png)

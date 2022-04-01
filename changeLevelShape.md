@@ -1,12 +1,6 @@
-# Remixing a Platformer Game - Change Level Shape
+# Change Level Shape
 
-In this tutorial we will learn how to **change the shape of our Levels** in our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
-
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_more_levels.jpg)
+![mechanics space polish and systems](images/patterns/gameSpace_gameSize.jpg)
 
 * **Name:** Change Level Shape
 
