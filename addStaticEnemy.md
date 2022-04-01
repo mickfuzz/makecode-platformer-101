@@ -1,14 +1,6 @@
-# Remixing a Platformer Game - Add a Static Enemy
+# Add a Static Enemy
 
-In this tutorial we will **add a static enemy** to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
-
-This game pattern is one of many you can add to your Platformer in this course.
-
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gamemechanic_extralives_800.png)
+![mechanics add a static enemy](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg)
 
 * **Name:** Add a Static Enemy
 
@@ -32,19 +24,19 @@ Add one or two red blocks to your first level.
 ![Add Red Blocks](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy.png)
 
 
-### Looping through the tilemap squares 
+### Looping through the tilemap squares
 For first line here reads **for element value of array of all...**
 This line contains a value and a list. The loop keeps running until it runs out of a values in the list.
-In this case create one item of Food for every yellow block. 
+In this case create one item of Food for every yellow block.
 ### Duplicate the Food Loop
-Duplicate this loop section. 
+Duplicate this loop section.
 ![Duplicate loop ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/duplicate_loop_ae_1.png)
 Now we will change the **for loop** will turn the red squares in a tile map into a sprite of kind of Enemy.
 
 ### Change the values for our loop to create enemies
 
-Drop the copied loop back into the function after the original one.Change the values of content of this **for loop**. 
-Change the yellow square to a red one.Change the name of **food1** for the two blocks for it to mentioned. 
+Drop the copied loop back into the function after the original one.Change the values of content of this **for loop**.
+Change the yellow square to a red one.Change the name of **food1** for the two blocks for it to mentioned.
 I'll choose to create a new variable called **staticEnemy** and change the image too this time to snake.
 
 Check your code with the example below.
@@ -67,10 +59,10 @@ and that when you touch the enemy the game ends with a Game Over message.
 
 To check that you are making the most of this pattern you can ask yourself the following questions:
 
-* Do you have any enemies in places that make it tricky for your player when they jump. 
+* Do you have any enemies in places that make it tricky for your player when they jump.
 
-This Game Pattern is one of many allowing you to make improvements to your platform game and to learn coding and wider computing concepts. 
-Find more on the [Game Pattern page](gamePatterns.md). 
+This Game Pattern is one of many allowing you to make improvements to your platform game and to learn coding and wider computing concepts.
+Find more on the [Game Pattern page](gamePatterns.md).
 
 As a next step you may find you want to increase the challenge even more perhaps by adding moving enemies. Or you may find
 that you want to balance out the increase of challenge that these hazards have brought and add player lives.

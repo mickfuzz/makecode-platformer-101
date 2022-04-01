@@ -1,18 +1,6 @@
-# Remixing a Platformer Game - Add Player Lives
+# Add Player Lives
 
-## Adding Player Lives
-### Introduction
-
-In this tutorial we will **add player lives** to our platformer.
-To do this tutorial you will also need to have done one on *Add an Enemy*.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-#### About this Game Pattern
-
-This game pattern is one of many you can add to your Platformer in this course.
-
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gamemechanic_extralives_800.png)
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gamemechanic_extralives_800.png){width=80%}
 
 * **Name:** Add Player Lives
 

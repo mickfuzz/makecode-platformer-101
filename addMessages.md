@@ -1,19 +1,12 @@
-# Remixing a Platformer Game - Add Written Messages 
-
-In this tutorial we will learn how to **add written messages** to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
+# Add Written Messages
 
 ![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_more_levels.jpg)
 
 * **Name:** Add Written Messages
 
-* **Description:** The maker can show to the player at the start of the game. You can also add messages when something happens in the game.  
+* **Description:** The game maker can display messages to the player at the start of the game. You can also add messages when something happens in the game.  
 
-* **Need for Pattern:** Having **written messages** is a way of giving playing instructions to the player at the start of the game, giving
-them clues as they progress or just making the game more fun to play.
+* **Need for Pattern:** Having **written messages** is a way of giving playing instructions to the player at the start of the game, giving them clues as they progress or just making the game more fun to play by adding story elements.
 
 * **Related Game Patterns:** Add Graphical Elements [related]
 
