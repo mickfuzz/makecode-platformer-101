@@ -1,15 +1,4 @@
-# Remixing a Platformer Game - Add More Levels
-
-## Add More Levels
-### Introduction
-
-In this tutorial we will **add more levels** to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-#### About this Game Pattern
-
-This game pattern is one of many you can add to your Platformer in this course.
+# Add More Levels
 
 ![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gameMechanics_more_levels.jpg)
 
