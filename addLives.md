@@ -1,6 +1,6 @@
 # Add Player Lives
 
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gamemechanic_extralives_800.png){width=80%}
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gamemechanic_extralives_800.png)
 
 * **Name:** Add Player Lives
 

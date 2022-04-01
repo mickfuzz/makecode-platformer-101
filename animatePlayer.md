@@ -1,19 +1,12 @@
-# Remixing a Platformer Game - Animate Player
+# Animate Player
 
-In this tutorial we will add a **player animation** to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
-
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_more_levels.jpg)
+![mechanics space polish and systems](images/patterns/game_polish_animate.jpg)
 
 * **Name:** Animate Player
 
 * **Description:** The player is animated using different 'frames'.
 
-* **Need for Pattern:** This movement helps create a sense of dynamic movement and
-can help the game player's immersion in the game.
+* **Need for Pattern:** This movement helps create a sense of dynamic movement and can help the game player's immersion in the game.
 
 * **Related Game Patterns:** Add Static Enemy [needed before adding this one], Jumping on Enemies [related]
 
@@ -32,7 +25,7 @@ Drag in the animation block that you see below.
 ![simple animation](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addAnimatedPlayer1.png)
 
 Click on the frames image to change the different frames of your animation, then interval
-to update how quickly the frames update and finally turn loop on so the animation keeps running. 
+to update how quickly the frames update and finally turn loop on so the animation keeps running.
 
 ### Animated Walking and Jumping using Animation States
 See the following https://makecode.com/_ecqJXwWrpJXw

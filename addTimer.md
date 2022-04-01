@@ -1,6 +1,6 @@
 # Add a timer
 
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/game-mechanics_timer.png){width=80%}
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/game-mechanics_timer.png)
 
 * **Name:** Add a Timer
 
