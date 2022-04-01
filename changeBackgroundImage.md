@@ -1,10 +1,4 @@
-# Remixing a Platformer Game - Change Background Image
-
-In this tutorial we will learn how to **change background image** in our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
+# Change Background Image
 
 ![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameSpace_background_image.jpg)
 
