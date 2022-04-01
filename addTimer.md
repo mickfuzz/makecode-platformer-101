@@ -1,10 +1,4 @@
-# Remixing a Platformer Game - Add a timer
-
-In this tutorial we will add a **a timer** to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
+# Add a timer
 
 ![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/game-mechanics_timer.png){width=80%}
 
