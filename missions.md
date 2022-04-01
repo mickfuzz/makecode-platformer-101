@@ -2,7 +2,7 @@
 
 The resources here are part of a learning model which has the following elements:
 
-* [Game Making MISSIONS](missions) main missions involve choosing authentic game making design patterns from a menu. Other side missions help with engagement of different making preferences. 
+* [Game Making MISSIONS](missions) main missions involve choosing authentic [game making design patterns](gamePatterns) from a menu. Other side missions help with engagement of different making preferences.
 * [A MAP of Learning Outcomes](learningDimensions) particularly suited to digital game making, presented in an accessible format to teachers and learners.  
 * [Design METHODS](methods) are techniques that facilitators and learners can use to help navigate the process of making a game and reflecting on what is being learned in the process.
 
@@ -15,6 +15,11 @@ This page outlines different kinds of missions that are used in this game making
 * Player and Maker types & Specialised missions
 * Limits to the Mission based approach - meeting your self in the middle
 
+## Using Game Design Patterns as Missions
+
+One of the driving ideas of this approach is to choose [game making design patterns from a menu](gamePatterns)
+
+
 ## Main Macro Mission
 
 The starting hook for our mission is to make a game which tells an environmental or social story. This approach is sometimes called Games for Change. The game doesn't need to be too serious and of course it can be a lot of fun. Having a bit of a guide for what kind of game to create can be helpful if learners are unsure of where to get started.
@@ -22,7 +27,8 @@ The starting hook for our mission is to make a game which tells an environmental
 ## Navigating with Game Design Patterns
 
 The key idea of this approach to game making is to start with a simple [Platform Game Template to Remix](https://makecode.com/_FqWD64MxEiRi) and to
-add Game Patterns from a menu of possibilities.
+add
+[Game Patterns from a menu of possibilities.](gamePatterns) 
 
 ![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/mech_space_polish_systems.png)
 
