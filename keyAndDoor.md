@@ -1,10 +1,4 @@
-# Remixing a Platformer Game - Key and Door
-
-In this tutorial we will add a key to open a end door to our platformer levels.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
+# Key and Door
 
 ![keys and doors](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameSpace_keysDoors.jpg)
 

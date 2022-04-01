@@ -1,12 +1,6 @@
-# Remixing a Platformer Game - Moving Enemies Pt1 (Patrolling)
+# Moving Enemies Pt1 - Patrolling
 
-In this tutorial we will add a **patrolling enemy** ability to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
-
-![ moving enemies image](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gameMechanics_moving_enemies.jpg)
+![ moving enemies image](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gameMechanics_patrollingenemies.jpg)
 
 * **Name:** Patrolling Enemies
 
@@ -26,14 +20,14 @@ It also gives a sense of movement and excitement to the game.
 
 ### Step by Step instructions
 
-A common pattern or mechanic in a game is to make the enemy move back and forward like a soldier on patrol. The easiest 
-way to do this is to create wall blocks which the enemy bounces between. We can call these kinds of enemies bumpers. 
+A common pattern or mechanic in a game is to make the enemy move back and forward like a soldier on patrol. The easiest
+way to do this is to create wall blocks which the enemy bounces between. We can call these kinds of enemies bumpers.
 
-This tutorial assumes you have already added a static enemy pattern. We are going to add another kind of enemy in the same way. 
-To do this duplicate the  **for element** loop inside your **create level** function and add it back into the function. 
+This tutorial assumes you have already added a static enemy pattern. We are going to add another kind of enemy in the same way.
+To do this duplicate the  **for element** loop inside your **create level** function and add it back into the function.
 
 As with static enemeies, we need to edit out tilemap and add a new colour of tlle to our tilemap and place one in a location
-where it can bump between walls. 
+where it can bump between walls.
 
 ![add another tile](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addMovingEnemy1.png)
 
@@ -42,12 +36,12 @@ First of all let’s change our type to be a Bumper instead of an Enemy. To do t
 ![ patrolling enemies 1](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patrol1.png)
 
 When this is done you can select it from the lists.
-We will also set our enemy heading off in a left or right direction. Set the velocity of our moving enemy to 50 (moving right) or -50 (moving left) 
+We will also set our enemy heading off in a left or right direction. Set the velocity of our moving enemy to 50 (moving right) or -50 (moving left)
 
 ![Change loop elements1](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addMovingEnemy2.png)
 
-We need to set a Collision Listener so that the game is over if the player touches our moving enemy so create a Listener block 
-as below. 
+We need to set a Collision Listener so that the game is over if the player touches our moving enemy so create a Listener block
+as below.
 
 ![Game over elements](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addMovingEnemy3.png)
 

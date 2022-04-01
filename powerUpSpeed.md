@@ -1,12 +1,6 @@
-# Remixing a Platformer Game - Power Up Speed
+# Power Up Speed
 
-In this tutorial we will add a **Power Up Speed** ability to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
-
-![power up higher speed](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_more_levels.jpg)
+![power up higher speed](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameChallenge_powerupspeed.jpg)
 
 * **Name:** Power Up Player Speed
 

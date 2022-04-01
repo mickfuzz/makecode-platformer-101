@@ -1,12 +1,6 @@
-# Remixing a Platformer Game - Add Sound Effects
+# Add Sound Effects
 
-In this tutorial we will add **Sound Effects** to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
-
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_more_levels.jpg)
+![add sound effects](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/game_polish_new_sounds.jpg)
 
 * **Name:** Add Sound Effects
 
@@ -43,7 +37,7 @@ condition listener loop add a block which plays a sound effect. You can experime
 
 Test your game to check that your changes have the desired behaviour and that there are no side effects.
 
-This Game Pattern is one of many allowing you to make improvements to your platform game and to learn coding and wider computing concepts. 
+This Game Pattern is one of many allowing you to make improvements to your platform game and to learn coding and wider computing concepts.
 Find more on the [Game Pattern page](gamePatterns.md).
 
 A next step you might want to try is to add a sound track.

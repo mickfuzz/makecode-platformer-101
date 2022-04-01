@@ -1,12 +1,6 @@
-# Remixing a Platformer Game - Moving Enemies Pt3 - Following
+# Moving Enemies - Following
 
-In this tutorial we will add a **moving following enemy** to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
-
-![ moving enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_moving_enemies.jpg)
+![ moving enemies image](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_followingenemies.jpg)
 
 * **Name:** Moving Enemies Animated
 

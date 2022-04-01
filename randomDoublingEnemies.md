@@ -1,12 +1,7 @@
 # Remixing a Platformer Game - Random Doubling Enemies
 
-In this tutorial we will add a **randomly spawning enemies that double in number**  to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
 
-## About this Game Pattern
-
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_more_levels.jpg)
+![random doubling enemies](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameChallenge_doublingenemies.jpg)
 
 * **Name:** Randomly spawning enemies that double in number
 

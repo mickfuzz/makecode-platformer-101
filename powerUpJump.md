@@ -1,16 +1,10 @@
 # Remixing a Platformer Game - Power Up Higher Jump
 
-In this tutorial we will add a **Power Up Higher Jump** ability to our platformer.
-If you want to understand more about how the starting code of the template works then you can follow [this tutorial](https://arcade.makecode.com/beta#tutorial:https://github.com/mickfuzz/mca_platformer_tutorial/tutorialPartOne)
- to create the game step by step.
-
-## About this Game Pattern
-
-![power up higher jump](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_more_levels.jpg)
+![power up higher jump](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameChallenge_poweruphigherjump.jpg)
 
 * **Name:** Power Up Higher Jump
 
-* **Description:** The player is able to jump higer if they collect a token that acts as a way of powering up their
+* **Description:** The player is able to jump higher if they collect a token that acts as a way of powering up their
 abilities.
 
 * **Need for Pattern:** Having a **Power Up Higher Jump** is a way of increasing the interest and challenge of our game.
@@ -28,7 +22,7 @@ The designer is able to create areas of the game that the player can only get to
 
 To create a power up we will replicate the for element loop used to display the
 Food elements on our game. So the first step is to duplicate that and to make changes to the values.
-You can find more detailed instructions on how to do this is the create static enemeies pattern.
+You can find more detailed instructions on how to do this is the create static enemies pattern.
 To start change your level Tilemap design to add a new colour tile to act as our power up and change
 the design to include an area that the player would not be able to access with their normal jump.
 
