@@ -24,10 +24,14 @@ beginning of the on start loop.
 ![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addLives.png)
 
 ### Change the overlap loop for our Enemy
-In this game previously the player overlapping with an Enemy would be Game Over with the player losing.
-Now let's change to replace the Game Over lose block with a **change lives by -1** block
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addLives2.png)
+In this game previously you may have had code where the player overlapping with a Static Enemy would be Game Over with the player losing.
 
+![lose a point](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addLives3.png)
+
+Or you may have moving enemies with a different code structure. You can change to replace the Game Over lose block with a **change lives by -1** block
+![lose a point](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addLives2.png)
+
+Another posibility is that you
 
 ## Reflecting on what's happening
 
