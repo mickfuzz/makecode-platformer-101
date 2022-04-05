@@ -19,25 +19,25 @@
 
 ### Add Static Enemies to your Tilemap
 
-Click on your tilemap. And add in a  
+Click on your tilemap. Create a totally Red tile in **My Tiles**. Add one or two red blocks to your first level.   
 
-![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStatic_b1.png)
+![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy_b1.png)
 
+You can also draw an enemy / hazard of your choice in My Tiles section. Click on the plus sign to do that. 
 
 ### Create a Collision Listener
 
-We now code what happens when our player overlaps with the enemy our **staticEnemy**.
-Drag in an on player overlap with block from Sprites. Set the second value to be **Enemy**.
+We now code what happens when our player overlaps with our **staticEnemy**.
+Drag in an **on sprite of kind player overlap with __ at location** from Scene.
 Inside the block drag in from Game block of **game over** and keep it set to **Lose**.
 
-![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy3.png)
-
+![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy_b1.png)
 
 ## Test your game and Next Steps
 
 Test your game to check that your changes have the desired behaviour and that there are no side effects.
-In this case check that each time you add in a red block in your level tilemaps an enemy appears
-and that when you touch the enemy the game ends with a Game Over message.
+In this case check that each time you add in a red block in your level tilemap/s it should behave as a static hazard. When you touch the enemy the game ends with a Game Over message.
+
 
 To check that you are making the most of this pattern you can ask yourself the following questions:
 
