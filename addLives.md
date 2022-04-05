@@ -28,10 +28,10 @@ In this game previously you may have had code where the player overlapping with 
 
 ![lose a point](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addLives3.png)
 
-Or you may have moving enemies with a different code structure. You can change to replace the Game Over lose block with a **change lives by -1** block
+Another possibility is that you may have moving enemies with a different code structure. You can change to replace the Game Over lose block with a **change lives by -1** block.
+
 ![lose a point](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addLives2.png)
 
-Another posibility is that you
 
 ## Reflecting on what's happening
 

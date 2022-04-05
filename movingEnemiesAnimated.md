@@ -51,7 +51,7 @@ Inside the block drag in from Game block of **game over** and keep it set to **L
 
 ![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy3.png)
 
-### Animate our Enemy
+### Animate our Enemy (Optional)
 We can add a bit more challenge to our game by making otherwise static enemies move around a fixed point using animation.
 
 We alter our static enemies to animate them. To allow us to do this  go to  **Advanced > + Extensions > Add Animation**

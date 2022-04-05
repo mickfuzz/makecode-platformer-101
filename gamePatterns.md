@@ -27,10 +27,10 @@ pick another and keep adding to it. The following tips will help you:
 Add or change what you do in the game
 
 - [Add Player Lives](addLives)
-- [Add Static Enemies](addStaticEnemy)
+- [Add Static Hazard](addHazard)
+- [Add an Animated Enemy](movingEnemiesAnimated)
 - [Jump on Enemy to Zap them](jumpOnEnemies)  
 - [Double Jump](doubleJump)
-- [Moving / Animated Enemies](movingEnemiesAnimated)
 - [Moving / Patrolling Enemies](movingEnemiesPatrolling)
 - [Moving / Following Enemies](movingEnemiesFollowing)
 
