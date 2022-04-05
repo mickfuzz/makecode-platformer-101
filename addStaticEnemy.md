@@ -23,7 +23,7 @@ Click on your tilemap. Create a totally Red tile in **My Tiles**. Add one or two
 
 ![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy_b1.png)
 
-You can also draw an enemy / hazard of your choice in My Tiles section. Click on the plus sign to do that. 
+You can also draw an enemy / hazard of your choice in My Tiles section. Click on the plus sign to do that.
 
 ### Create a Collision Listener
 
@@ -31,7 +31,7 @@ We now code what happens when our player overlaps with our **staticEnemy**.
 Drag in an **on sprite of kind player overlap with __ at location** from Scene.
 Inside the block drag in from Game block of **game over** and keep it set to **Lose**.
 
-![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy_b1.png)
+![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy_b2.png)
 
 ## Test your game and Next Steps
 
