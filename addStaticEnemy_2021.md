@@ -16,13 +16,31 @@
 
 ## How to implement this Pattern in MakeCode
 
+### We add enemies like we add food.
+We add ememies like we add food to the game. Following this tutorial will add static enemies to your game.
+Click on the tilemap image for your first level. Create a totally Red tile in **My Tiles**.
+Add one or two red blocks to your first level.  
 
-### Add Static Enemies to your Tilemap
+![Add Red Blocks](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy.png)
 
-Click on your tilemap. And add in a  
 
-![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStatic_b1.png)
+### Looping through the tilemap squares
+For first line here reads **for element value of array of all...**
+This line contains a value and a list. The loop keeps running until it runs out of a values in the list.
+In this case create one item of Food for every yellow block.
+### Duplicate the Food Loop
+Duplicate this loop section.
+![Duplicate loop ](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/duplicate_loop_ae_1.png)
+Now we will change the **for loop** will turn the red squares in a tile map into a sprite of kind of Enemy.
 
+### Change the values for our loop to create enemies
+
+Drop the copied loop back into the function after the original one.Change the values of content of this **for loop**.
+Change the yellow square to a red one.Change the name of **food1** for the two blocks for it to mentioned.
+I'll choose to create a new variable called **staticEnemy** and change the image too this time to snake.
+
+Check your code with the example below.
+![Static Enemy Block](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy2.png)
 
 ### Create a Collision Listener
 
