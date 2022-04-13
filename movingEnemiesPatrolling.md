@@ -1,11 +1,10 @@
-# Moving Enemies Pt1 - Patrolling
+# Moving Enemies - Patrolling
 
 ![ moving enemies image](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patterns/gameMechanics_patrollingenemies.jpg)
 
 * **Name:** Patrolling Enemies
 
-* **Description:** In this pattern the enemy moves around in a particular area in a repeating pattern. This movement is called patrolling
-and the enemy does not try to seek out the player.
+* **Description:** In this pattern the enemy moves around in a particular area in a repeating pattern. This movement is called patrolling. The enemy does not try to seek out the player.
 
 * **Need for Pattern:** Having a **pattern name** is a way to increase the challenge of the player to reach goals and to collect food.
 It also gives a sense of movement and excitement to the game.
@@ -26,19 +25,23 @@ way to do this is to create wall blocks which the enemy bounces between. We can 
 This tutorial assumes you have already added a static enemy pattern. We are going to add another kind of enemy in the same way.
 To do this duplicate the  **for element** loop inside your **create level** function and add it back into the function.
 
-As with static enemeies, we need to edit out tilemap and add a new colour of tlle to our tilemap and place one in a location
-where it can bump between walls.
+We need to edit our tilemap and add a new colour of tile to our tilemap and place one in a location where it can bump between walls. In this example we will use a blue block.
 
 ![add another tile](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addMovingEnemy1.png)
 
-First of all let’s change our type to be a Bumper instead of an Enemy. To do this we’ll have to make a new kind of sprite.
+In our createLevels function, we are going to create a loop which finds all the blue blocks and does something with them. Follow the code example below to do this. You may recognise this pattern from the way that we create food in our game.  
+
+![Change loop elements1](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addMovingEnemy2.png)
+
+We need a new kind of sprite called a Bumper. To do this we’ll have to make a new kind of sprite. In the **Set My Sprite** to block click on the type of sprite and select **Add a new kind**. 
 
 ![ patrolling enemies 1](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/patrol1.png)
+
 
 When this is done you can select it from the lists.
 We will also set our enemy heading off in a left or right direction. Set the velocity of our moving enemy to 50 (moving right) or -50 (moving left)
 
-![Change loop elements1](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addMovingEnemy2.png)
+
 
 We need to set a Collision Listener so that the game is over if the player touches our moving enemy so create a Listener block
 as below.
