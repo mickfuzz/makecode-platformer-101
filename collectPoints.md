@@ -19,7 +19,11 @@ progress as far as possible in levels.
 ## How to implement this Pattern in MakeCode
 
 ### Step by Step instructions
-Step by Step instructions.
+
+Collecting points so that you get one point every time you collect some food (or similar) involves adding the **change score by block** to the overlap listener block.
+
+![ collect points](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/collectPoints.png)
+
 
 ## Test your Changes and Next Steps
 
