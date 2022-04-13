@@ -29,11 +29,11 @@ We need to create a variable called canDoubleJump. Now add a block  at the start
 Then you need to use blue logic blocks to check to only jump if  
 
 * the bottom of your player (mySprite) is touching the floor (wall) or
-* if canDoubleJump is true
+* or if (else if) canDoubleJump is true
 
 ![Double Jump 3](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/doubleJump_3.png)
 
-Once the player has used up their double jump, you set the canDoubleJump variable to false.
+Once the player has used up their double jump ability, you set the canDoubleJump variable to false. This stops the player from being able to jump more than twice. 
 
 ### Reset canDoubleJump variable
 Then we must create to code to reset the canDoubleJump variable when you touch the ground again. To do this create a on game update loop and put a logic block in there which will turn canDoubleJump true when you are touching the ground again.
