@@ -67,7 +67,7 @@ Next add call createLevels block to recall the function that does the work of ad
 
 ### Remove any thing that might remain from the last level
 
-If you are not careful then some of the things from the last level like food or enemies may
+If you are not careful then some of the things from the last level like food or enemies may carry over to your next level. 
 
 From the **Sprites** area drag in a **destroy all sprites of kind xx** block to the start of the **createLevel** function. Change the option to **Food** or **Enemy** or what ever other kinds of object you may need to clear for the previous level.
 
