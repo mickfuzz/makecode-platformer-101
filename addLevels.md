@@ -65,6 +65,15 @@ Next add call createLevels block to recall the function that does the work of ad
 
 ![insert change levels block](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels7.png)
 
+### Remove any thing that might remain from the last level
+
+If you are not careful then some of the things from the last level like food or enemies may
+
+From the **Sprites** area drag in a **destroy all sprites of kind xx** block to the start of the **createLevel** function. Change the option to **Food** or **Enemy** or what ever other kinds of object you may need to clear for the previous level.
+
+![Add set Variable](https://raw.githubusercontent.com/mickfuzz/getting-started-making-a-platformer-test1/master/images/addLevels8.png)
+
+In the image above all previous items of food are removed. You may need to several of these kinds of blocks for different types of items you add to your game.  
 
 ## Test your Changes and Next Steps
 

@@ -70,7 +70,7 @@ new variable if you want to.
 
 ## Test your Changes and Next Steps
 
-Test your game to check that your changes have the desired behaviour and that there are no side effects.
+Test your game to check that your changes have the desired behaviour and that there are no side effects. For example, one side effect that you might have if you already have more than one level is that enemies from a previous level may appear on your next level. See the [Add Levels](addLevels.md) tutorial to fix that.
 
 To check that you are making the most of this pattern you can ask yourself the following questions:
 
