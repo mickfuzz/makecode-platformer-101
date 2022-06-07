@@ -1,6 +1,6 @@
 # Add Written Messages
 
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_more_levels.jpg)
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/game_polish_storywithmessages.jpg)
 
 * **Name:** Add Written Messages
 
@@ -27,6 +27,18 @@ You can also get your player to say something when an event happens. For example
 Alter the overlap event code block to add in a sprite say block and set the time.         
 
 ![add messages](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addMessages2.png)
+
+## Extra Challenge
+
+You can give your Levels name that come up before your players play them. To do this you will need to have added different levels to your game.
+
+To start with we will create an Array (which is a kind of list) of the different names of the levels.
+
+![add a list](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/game_polish_messages_2.jpg)
+
+Now add a splash message at the start of your createLevel function. Note how you can use the level value to pick the right message from your list. 
+
+![add a splash message](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/game_polish_messages_2.jpg)
 
 
 
