@@ -4,7 +4,7 @@
 
 * **Name:** Add Written Messages
 
-* **Description:** The game maker can display messages to the player at the start of the game. You can also add messages when something happens in the game.  
+* **Description:** The game maker can display instructions and messages to the player at the start of the game. You can also add messages when something happens in the game. For example giving new levels a name.   
 
 * **Need for Pattern:** Having **written messages** is a way of giving playing instructions to the player at the start of the game, giving them clues as they progress or just making the game more fun to play by adding story elements.
 
@@ -36,7 +36,7 @@ To start with we will create an Array (which is a kind of list) of the different
 
 ![add a list](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/game_polish_messages_2.jpg)
 
-Now add a splash message at the start of your createLevel function. Note how you can use the level value to pick the right message from your list. 
+Now add a splash message at the start of your createLevel function. Note how you can use the level value to pick the right message from your list.
 
 ![add a splash message](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/game_polish_messages_2.jpg)
 
